@@ -16,6 +16,12 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2026 年 7 月 24 号添加
+
+#### Jackeyhate9 - [Github](https://github.com/Jackeyhate9)
+* :white_check_mark: [Adeve](https://github.com/Jackeyhate9/Adeve)：面向独立开发者的 AI 项目推广工作台，把 GitHub、SaaS、App 等项目转成推广策略、多平台内容、跟踪链接和审批发布流程，支持本地运行与 Postiz 接入
+* :clock8: [工智审图](https://github.com/Jackeyhate9/gongzhi-review)：工业建设项目多专业 AI 辅助审图 Web 应用，支持建筑、结构、电气图纸上传解析、规则检查、证据切片、人工复核和 HTML/PDF/DOCX 报告导出
+
 ### 2026 年 7 月 23 号添加
 
 #### Limo(深圳) - [Github](https://github.com/yuhai0), [博客](https://yuhai.me)
