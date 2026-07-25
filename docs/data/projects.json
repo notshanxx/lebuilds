@@ -1,18 +1,513 @@
 {
-  "generatedAt": "2026-07-22T12:03:52.469Z",
-  "totalProjects": 2711,
+  "generatedAt": "2026-07-24T19:17:19.631Z",
+  "totalProjects": 2733,
   "stats": {
-    "live": 2265,
-    "dev": 32,
+    "live": 2286,
+    "dev": 33,
     "closed": 414
   },
   "boards": {
-    "main": 1827,
-    "programmer": 275,
-    "game": 111,
+    "main": 1843,
+    "programmer": 280,
+    "game": 112,
     "archive": 498
   },
   "projects": [
+    {
+      "name": "cocodot LLM 降智检测",
+      "url": "https://probe.cocodot.co",
+      "description": "免费的 LLM API「降智/偷换模型」在线检测：填入任意 OpenAI 兼容端点的 base_url 和临时 API Key，跑 6 项探针（模型声明、动态题、能力完整性等）生成分项报告；Key 仅用于当次检测、不落库不留存，检测方法[开源](https://github.com/cocodot2026/cocodot-llmprobe)",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "main",
+      "date": "2026-07-24",
+      "author": {
+        "name": "cocodot2026",
+        "city": "",
+        "github": "https://github.com/cocodot2026",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "AI/ML",
+        "Developer",
+        "Web"
+      ]
+    },
+    {
+      "name": "AI快站模型质量检测",
+      "url": "https://docs.aifast.club/model-check/",
+      "description": "面向 OpenAI Compatible 接口的网页检测工具，输入公开 HTTPS 地址和临时 API Key，可检查模型声明、Token、动态题、SSE 与工具调用并生成分项报告；密钥仅用于当次检测，不写入数据库、缓存或日志",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "main",
+      "date": "2026-07-24",
+      "author": {
+        "name": "KKWANG4444",
+        "city": "",
+        "github": "https://github.com/KKWANG4444",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "AI/ML",
+        "Developer",
+        "Productivity",
+        "Web"
+      ]
+    },
+    {
+      "name": "ky3 Launcher",
+      "url": "https://github.com/ky3-studio/ky3-Launcher",
+      "description": "原神第三方开源启动器，集游戏启动、抽卡记录分析、成就管理、养成规划于一体，WinUI 3 原生界面，免费无广告",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "main",
+      "date": "2026-07-24",
+      "author": {
+        "name": "ky3",
+        "city": "",
+        "github": "https://github.com/ky3-studio",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "Game"
+      ]
+    },
+    {
+      "name": "Adeve",
+      "url": "https://github.com/Jackeyhate9/Adeve",
+      "description": "面向独立开发者的 AI 项目推广工作台，把 GitHub、SaaS、App 等项目转成推广策略、多平台内容、跟踪链接和审批发布流程，支持本地运行与 Postiz 接入",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "programmer",
+      "date": "2026-07-24",
+      "author": {
+        "name": "Jackeyhate9",
+        "city": "",
+        "github": "https://github.com/Jackeyhate9",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "AI/ML",
+        "Developer",
+        "Game",
+        "Web"
+      ]
+    },
+    {
+      "name": "工智审图",
+      "url": "https://github.com/Jackeyhate9/gongzhi-review",
+      "description": "工业建设项目多专业 AI 辅助审图 Web 应用，支持建筑、结构、电气图纸上传解析、规则检查、证据切片、人工复核和 HTML/PDF/DOCX 报告导出",
+      "status": "dev",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "programmer",
+      "date": "2026-07-24",
+      "author": {
+        "name": "Jackeyhate9",
+        "city": "",
+        "github": "https://github.com/Jackeyhate9",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "AI/ML"
+      ]
+    },
+    {
+      "name": "AI故事书生成器",
+      "url": "https://storybookai.io/",
+      "description": "AI 生成故事书",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "main",
+      "date": "2026-07-23",
+      "author": {
+        "name": "maowei8888",
+        "city": "",
+        "github": "https://github.com/maowei8888",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "AI/ML"
+      ]
+    },
+    {
+      "name": "AI菜谱生成器",
+      "url": "https://cookbookai.io/",
+      "description": "AI 生成菜谱",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "main",
+      "date": "2026-07-23",
+      "author": {
+        "name": "maowei8888",
+        "city": "",
+        "github": "https://github.com/maowei8888",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "AI/ML"
+      ]
+    },
+    {
+      "name": "AI杂志生成器",
+      "url": "https://magazinemaker.org/",
+      "description": "AI 生成杂志",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "main",
+      "date": "2026-07-23",
+      "author": {
+        "name": "maowei8888",
+        "city": "",
+        "github": "https://github.com/maowei8888",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "AI/ML"
+      ]
+    },
+    {
+      "name": "8码快传",
+      "url": "https://t.8ma.co/",
+      "description": "免费、无需注册登录的浏览器大文件传输工具，支持链接、二维码和取件码分享；同一 WiFi 下电脑与手机同时打开网页即可互传",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "main",
+      "date": "2026-07-23",
+      "author": {
+        "name": "8码团队",
+        "city": "",
+        "github": "https://github.com/geklabs",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "Productivity",
+        "Mobile",
+        "Web"
+      ]
+    },
+    {
+      "name": "PDF2MD",
+      "url": "https://apps.apple.com/cn/app/pdf2md/id6737130377",
+      "description": "将 PDF 转换为 Markdown，完全离线，无需上传、无文件大小限制，支持图像文字识别，私密安全，设备端处理，支持通过 AirDrop 共享；[鸿蒙版本](https://appgallery.huawei.com/app/detail?id=cn.slaman.pdftools.hm&channelId=SHARE&source=appshare)",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "main",
+      "date": "2026-07-23",
+      "author": {
+        "name": "slamancn",
+        "city": "",
+        "github": "https://github.com/slamancn",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "Productivity"
+      ]
+    },
+    {
+      "name": "听歌Next",
+      "url": "https://tinggenext.com",
+      "description": "多人在线共同听歌",
+      "status": "live",
+      "moreInfoUrl": "https://tinggenext.com",
+      "moreInfoLabel": "更多介绍",
+      "board": "main",
+      "date": "2026-07-23",
+      "author": {
+        "name": "Limo",
+        "city": "深圳",
+        "github": "https://github.com/yuhai0",
+        "blog": "https://yuhai.me",
+        "extra": ""
+      },
+      "tags": [
+        "Web"
+      ]
+    },
+    {
+      "name": "Fin-Agent",
+      "url": "https://fin-agent.chat",
+      "description": "帮助投资者对投资标的进行专业分析",
+      "status": "live",
+      "moreInfoUrl": "https://fin-agent.chat",
+      "moreInfoLabel": "更多介绍",
+      "board": "main",
+      "date": "2026-07-23",
+      "author": {
+        "name": "Limo",
+        "city": "深圳",
+        "github": "https://github.com/yuhai0",
+        "blog": "https://yuhai.me",
+        "extra": ""
+      },
+      "tags": [
+        "Other"
+      ]
+    },
+    {
+      "name": "Doc2Md",
+      "url": "https://doc2md.cn",
+      "description": "将 PDF、Word、Excel 等多种格式文件转换成 Agent 友好的 Markdown 格式",
+      "status": "live",
+      "moreInfoUrl": "https://doc2md.cn",
+      "moreInfoLabel": "更多介绍",
+      "board": "main",
+      "date": "2026-07-23",
+      "author": {
+        "name": "Limo",
+        "city": "深圳",
+        "github": "https://github.com/yuhai0",
+        "blog": "https://yuhai.me",
+        "extra": ""
+      },
+      "tags": [
+        "Productivity"
+      ]
+    },
+    {
+      "name": "supergeo.info",
+      "url": "https://supergeo.info",
+      "description": "帮助 GEO 从业者的工具集合平台",
+      "status": "live",
+      "moreInfoUrl": "https://supergeo.info",
+      "moreInfoLabel": "更多介绍",
+      "board": "main",
+      "date": "2026-07-23",
+      "author": {
+        "name": "Limo",
+        "city": "深圳",
+        "github": "https://github.com/yuhai0",
+        "blog": "https://yuhai.me",
+        "extra": ""
+      },
+      "tags": [
+        "Productivity"
+      ]
+    },
+    {
+      "name": "Invoice-Downloader",
+      "url": "https://github.com/EthanYoQ/Invoice-Downloader",
+      "description": "发票报销神器，一键搞定发票报销。 连好邮箱之后，软件会一键开好发票，下载，转化成pdf，整理到分类文件夹。并且做好excel清单。",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "main",
+      "date": "2026-07-23",
+      "author": {
+        "name": "EthanYoQ",
+        "city": "",
+        "github": "https://github.com/EthanYoQ",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "Other"
+      ]
+    },
+    {
+      "name": "whisper-input",
+      "url": "https://github.com/EthanYoQ/whisper-input",
+      "description": "vibe coding和输入利器。windows语音输入法，你只负责口喷，输入法会整理成逻辑清晰的话术（类似prompt）。输出风格可选，源码公开自由可调。",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "main",
+      "date": "2026-07-23",
+      "author": {
+        "name": "EthanYoQ",
+        "city": "",
+        "github": "https://github.com/EthanYoQ",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "Other"
+      ]
+    },
+    {
+      "name": "agent-xiaohongshu-workbench",
+      "url": "https://github.com/EthanYoQ/agent-xiaohongshu-workbench",
+      "description": "小红书工作台，一键爆款内容拆解，自动完成选题，配图，发布流程。新增多账号管理功能。账号故事线管理。",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "main",
+      "date": "2026-07-23",
+      "author": {
+        "name": "EthanYoQ",
+        "city": "",
+        "github": "https://github.com/EthanYoQ",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "Other"
+      ]
+    },
+    {
+      "name": "AI-Novel-Writer",
+      "url": "https://github.com/EthanYoQ/AI-Novel-Writer",
+      "description": "AI 写小说和网文的写作工具，支持 NSFW 本地模型生成成人文学；支持大纲、角色、章节蓝图、审稿修稿和知识库的中文小说创作桌面工作台。内置完整系统提示词，避免中长篇小说角色/内容遗忘、主题漂移。",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "main",
+      "date": "2026-07-23",
+      "author": {
+        "name": "EthanYoQ",
+        "city": "",
+        "github": "https://github.com/EthanYoQ",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "AI/ML",
+        "Productivity",
+        "Education"
+      ]
+    },
+    {
+      "name": "Paste It",
+      "url": "https://paste-it.app",
+      "description": "macOS 本地剪贴板管理器，OCR 可搜截图文字，并可选本地 MCP 供 Agent 检索历史",
+      "status": "live",
+      "moreInfoUrl": "https://github.com/yipeng-git/paste-it",
+      "moreInfoLabel": "更多介绍",
+      "board": "main",
+      "date": "2026-07-23",
+      "author": {
+        "name": "yipeng-git",
+        "city": "",
+        "github": "https://github.com/yipeng-git",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "Other"
+      ]
+    },
+    {
+      "name": "Semaphore",
+      "url": "https://semaphore.bobochang.cn",
+      "description": "图片拖进浏览器秒变 ASCII 字符画，无上传无注册，一键复制成纯文本贴进终端、代码注释、聊天窗口，支持盲文点阵高密度模式与 txt / PNG / 分享卡片导出",
+      "status": "live",
+      "moreInfoUrl": "https://github.com/can4hou6joeng4/Semaphore",
+      "moreInfoLabel": "源码",
+      "board": "main",
+      "date": "2026-07-23",
+      "author": {
+        "name": "bobochang",
+        "city": "",
+        "github": "https://github.com/can4hou6joeng4",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "Developer",
+        "Media",
+        "Web"
+      ]
+    },
+    {
+      "name": "shex",
+      "url": "https://github.com/yuhai0/shex",
+      "description": "将自然语言转换成命令行的 shell agent，支持多轮试错",
+      "status": "live",
+      "moreInfoUrl": "https://github.com/yuhai0/shex",
+      "moreInfoLabel": "更多介绍",
+      "board": "programmer",
+      "date": "2026-07-23",
+      "author": {
+        "name": "Limo",
+        "city": "深圳",
+        "github": "https://github.com/yuhai0",
+        "blog": "https://yuhai.me",
+        "extra": ""
+      },
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "name": "moyu-fish",
+      "url": "https://www.npmjs.com/package/moyu-fish",
+      "description": "摸鱼炒股看盘 CLI，Claude 风格交互界面",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "programmer",
+      "date": "2026-07-23",
+      "author": {
+        "name": "ItChinaW",
+        "city": "",
+        "github": "https://github.com/ItChinaW",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "AI/ML",
+        "Developer"
+      ]
+    },
+    {
+      "name": "mcpp",
+      "url": "https://github.com/mcpp-community/mcpp",
+      "description": "现代 C++ 模块化构建工具 — 纯 C++23 模块编写（已实现自举），推动 C++ 进入 `import std` 时代 - [模块化库集合](https://github.com/mcpplibs) / [包索引](https://mcpplibs.github.io/mcpp-index/)",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "programmer",
+      "date": "2026-07-23",
+      "author": {
+        "name": "Sunrisepeak",
+        "city": "",
+        "github": "https://github.com/Sunrisepeak",
+        "blog": "",
+        "extra": "[mcpp-community](https://github.com/mcpp-community) "
+      },
+      "tags": [
+        "Productivity"
+      ]
+    },
+    {
+      "name": "诗经阅读",
+      "url": "https://song-of-books.github.io/",
+      "description": "305 首《诗经》全文阅读，含注释、译文、拼音标注和古风宣纸体验，支持收藏与搜索",
+      "status": "live",
+      "moreInfoUrl": "https://github.com/song-of-books/song-of-books.github.io",
+      "moreInfoLabel": "GitHub 仓库",
+      "board": "main",
+      "date": "2026-07-22",
+      "author": {
+        "name": "wisemonkey1990",
+        "city": "",
+        "github": "https://github.com/wisemonkey1990",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "Other"
+      ]
+    },
     {
       "name": "TomlJump",
       "url": "https://github.com/hongshuo-wang/TomlJump",
@@ -31,7 +526,28 @@
       },
       "tags": [
         "Developer",
+        "Media",
         "Web"
+      ]
+    },
+    {
+      "name": "Palworld Breeding Calculator",
+      "url": "https://palworldbreeding.org/",
+      "description": "帮助 Palworld 玩家查询 Pal 配种组合和规划繁殖路线",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "game",
+      "date": "2026-07-22",
+      "author": {
+        "name": "xiaosongcai",
+        "city": "泉州",
+        "github": "https://github.com/songxiaoc",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "Other"
       ]
     },
     {
@@ -51,7 +567,7 @@
         "extra": ""
       },
       "tags": [
-        "Other"
+        "Mobile"
       ]
     },
     {
@@ -237,13 +753,14 @@
       },
       "tags": [
         "Productivity",
+        "Media",
         "Design"
       ]
     },
     {
       "name": "Lumi & Friends iOS App Finder",
       "url": "https://alice51849.github.io/ios-app-guide/zh-Hans/tools/private-pay-once-iphone-app-finder.html",
-      "description": "按用途、隐私和付费方式查找 28 款已上架 iPhone/iPad App，覆盖学习、效率、照片、旅行与健康，逐款直达 App Store；支持 Apple 官方 50 个本地化区域",
+      "description": "按用途、隐私和付费方式查找 29 款已上架 iPhone/iPad App，覆盖学习、效率、照片、旅行与健康，逐款直达 App Store；支持 Apple 官方 50 个本地化区域",
       "status": "live",
       "moreInfoUrl": "",
       "moreInfoLabel": "",
@@ -258,7 +775,9 @@
       },
       "tags": [
         "Productivity",
+        "Media",
         "Mobile",
+        "Finance",
         "Education"
       ]
     },
@@ -510,7 +1029,7 @@
         "extra": ""
       },
       "tags": [
-        "Other"
+        "Media"
       ]
     },
     {
@@ -636,7 +1155,7 @@
         "extra": ""
       },
       "tags": [
-        "Other"
+        "Media"
       ]
     },
     {
@@ -1037,6 +1556,7 @@
         "extra": ""
       },
       "tags": [
+        "Productivity",
         "Media",
         "Education"
       ]
@@ -1172,7 +1692,8 @@
         "extra": "[网站](https://cearl.cc) "
       },
       "tags": [
-        "AI/ML"
+        "AI/ML",
+        "Developer"
       ]
     },
     {
@@ -1212,7 +1733,8 @@
         "extra": "[网站](https://www.terenzzzz.cn/) "
       },
       "tags": [
-        "Productivity"
+        "Productivity",
+        "Media"
       ]
     },
     {
@@ -1232,7 +1754,7 @@
         "extra": "[网站](https://www.terenzzzz.cn/) "
       },
       "tags": [
-        "Other"
+        "Media"
       ]
     },
     {
@@ -1336,6 +1858,8 @@
       "tags": [
         "AI/ML",
         "Developer",
+        "Productivity",
+        "Media",
         "Education"
       ]
     },
@@ -1396,7 +1920,7 @@
         "extra": ""
       },
       "tags": [
-        "Other"
+        "Media"
       ]
     },
     {
@@ -1439,7 +1963,8 @@
         "AI/ML",
         "Media",
         "Web",
-        "Education"
+        "Education",
+        "Design"
       ]
     },
     {
@@ -1483,6 +2008,7 @@
       },
       "tags": [
         "AI/ML",
+        "Developer",
         "Game",
         "Finance"
       ]
@@ -1546,6 +2072,7 @@
       },
       "tags": [
         "AI/ML",
+        "Developer",
         "Productivity"
       ]
     },
@@ -1768,7 +2295,8 @@
         "extra": ""
       },
       "tags": [
-        "Media"
+        "Media",
+        "Design"
       ]
     },
     {
@@ -1809,27 +2337,6 @@
       },
       "tags": [
         "Media"
-      ]
-    },
-    {
-      "name": "AI 小说作家 / AI Novel Writer",
-      "url": "https://github.com/EthanYoQ/AI-Novel-Writer",
-      "description": "中文小说与网文写作桌面工作台，支持大纲、角色、章节蓝图、审稿修稿和知识库管理；内置完整系统提示词，避免长篇创作中角色遗忘与主题漂移；支持 NSFW 本地模型生成成人文学",
-      "status": "live",
-      "moreInfoUrl": "",
-      "moreInfoLabel": "",
-      "board": "main",
-      "date": "2026-07-16",
-      "author": {
-        "name": "EthanYoQ",
-        "city": "",
-        "github": "https://github.com/EthanYoQ",
-        "blog": "",
-        "extra": ""
-      },
-      "tags": [
-        "AI/ML",
-        "Education"
       ]
     },
     {
@@ -1891,7 +2398,8 @@
       },
       "tags": [
         "AI/ML",
-        "Productivity"
+        "Productivity",
+        "Media"
       ]
     },
     {
@@ -2062,6 +2570,7 @@
       },
       "tags": [
         "AI/ML",
+        "Productivity",
         "Education"
       ]
     },
@@ -2565,7 +3074,8 @@
         "extra": ""
       },
       "tags": [
-        "AI/ML"
+        "AI/ML",
+        "Media"
       ]
     },
     {
@@ -2688,7 +3198,9 @@
         "extra": ""
       },
       "tags": [
-        "AI/ML"
+        "AI/ML",
+        "Web",
+        "Finance"
       ]
     },
     {
@@ -2728,7 +3240,8 @@
         "extra": ""
       },
       "tags": [
-        "Productivity"
+        "Productivity",
+        "Media"
       ]
     },
     {
@@ -2832,7 +3345,7 @@
         "extra": ""
       },
       "tags": [
-        "Other"
+        "Media"
       ]
     },
     {
@@ -2852,7 +3365,7 @@
         "extra": ""
       },
       "tags": [
-        "Other"
+        "Web"
       ]
     },
     {
@@ -3158,27 +3671,8 @@
         "extra": ""
       },
       "tags": [
+        "Developer",
         "Productivity"
-      ]
-    },
-    {
-      "name": "轻语输入 / Whisper Input",
-      "url": "https://github.com/EthanYoQ/whisper-input/releases/latest",
-      "description": "Windows 开源 AI 语音输入 App，按全局快捷键说话即可把中文整理成去口头语、带层级结构或正式邮件风格的文字；原文、轻度润色、清晰结构、正式表达四种模式随时切换，按 ASR 与 LLM 实际用量付费，无固定订阅费，可低成本获得类似 Typeless 的格式化输出工作流",
-      "status": "live",
-      "moreInfoUrl": "https://github.com/EthanYoQ/whisper-input",
-      "moreInfoLabel": "查看仓库",
-      "board": "main",
-      "date": "2026-07-15",
-      "author": {
-        "name": "EthanYoQ",
-        "city": "",
-        "github": "https://github.com/EthanYoQ",
-        "blog": "",
-        "extra": ""
-      },
-      "tags": [
-        "AI/ML"
       ]
     },
     {
@@ -3280,6 +3774,7 @@
       },
       "tags": [
         "AI/ML",
+        "Developer",
         "Web",
         "Design"
       ]
@@ -3302,6 +3797,7 @@
       },
       "tags": [
         "AI/ML",
+        "Developer",
         "Web",
         "Design"
       ]
@@ -3698,7 +4194,7 @@
         "extra": ""
       },
       "tags": [
-        "Other"
+        "Web"
       ]
     },
     {
@@ -3860,7 +4356,8 @@
         "extra": ""
       },
       "tags": [
-        "Other"
+        "Developer",
+        "Media"
       ]
     },
     {
@@ -3966,6 +4463,7 @@
         "extra": ""
       },
       "tags": [
+        "Developer",
         "Productivity",
         "Media"
       ]
@@ -4011,6 +4509,7 @@
         "AI/ML",
         "Developer",
         "Game",
+        "Media",
         "Web"
       ]
     },
@@ -4032,27 +4531,8 @@
       },
       "tags": [
         "Game",
-        "Web"
-      ]
-    },
-    {
-      "name": "InvoiceFlowAI",
-      "url": "https://github.com/EthanYoQ/Invoice-Downloader/releases/tag/v2026.07.12.1",
-      "description": "Windows 发票归档 App，连接 QQ / 163 邮箱批量下载 PDF、OFD、XML 电子发票，AI 识别后在本地分类并生成 Excel 报销汇总",
-      "status": "live",
-      "moreInfoUrl": "https://github.com/EthanYoQ/Invoice-Downloader",
-      "moreInfoLabel": "GitHub 源码",
-      "board": "main",
-      "date": "2026-07-14",
-      "author": {
-        "name": "EthanYoQ",
-        "city": "",
-        "github": "https://github.com/EthanYoQ",
-        "blog": "",
-        "extra": ""
-      },
-      "tags": [
-        "AI/ML"
+        "Web",
+        "Design"
       ]
     },
     {
@@ -4135,7 +4615,8 @@
         "extra": ""
       },
       "tags": [
-        "Developer"
+        "Developer",
+        "Media"
       ]
     },
     {
@@ -4218,7 +4699,8 @@
       },
       "tags": [
         "AI/ML",
-        "Productivity"
+        "Productivity",
+        "Finance"
       ]
     },
     {
@@ -4238,7 +4720,8 @@
         "extra": ""
       },
       "tags": [
-        "AI/ML"
+        "AI/ML",
+        "Developer"
       ]
     },
     {
@@ -4279,7 +4762,8 @@
       },
       "tags": [
         "AI/ML",
-        "Developer"
+        "Developer",
+        "Media"
       ]
     },
     {
@@ -4299,7 +4783,8 @@
         "extra": ""
       },
       "tags": [
-        "Other"
+        "Media",
+        "Web"
       ]
     },
     {
@@ -4319,6 +4804,7 @@
         "extra": ""
       },
       "tags": [
+        "Media",
         "Web"
       ]
     },
@@ -4380,7 +4866,7 @@
         "extra": "[文档](https://docs.ltpp.vip) "
       },
       "tags": [
-        "Other"
+        "Developer"
       ]
     },
     {
@@ -4400,6 +4886,7 @@
         "extra": "[文档](https://docs.ltpp.vip) "
       },
       "tags": [
+        "Developer",
         "Game",
         "Design"
       ]
@@ -4462,6 +4949,8 @@
         "extra": ""
       },
       "tags": [
+        "Developer",
+        "Media",
         "Design"
       ]
     },
@@ -4543,6 +5032,7 @@
         "extra": ""
       },
       "tags": [
+        "Productivity",
         "Web",
         "Education"
       ]
@@ -4566,7 +5056,8 @@
       "tags": [
         "AI/ML",
         "Developer",
-        "Productivity"
+        "Productivity",
+        "Media"
       ]
     },
     {
@@ -4606,7 +5097,7 @@
         "extra": ""
       },
       "tags": [
-        "Other"
+        "Finance"
       ]
     },
     {
@@ -4670,6 +5161,7 @@
         "extra": ""
       },
       "tags": [
+        "Developer",
         "Game"
       ]
     },
@@ -4795,6 +5287,7 @@
         "extra": ""
       },
       "tags": [
+        "Mobile",
         "Web"
       ]
     },
@@ -4902,7 +5395,8 @@
         "extra": ""
       },
       "tags": [
-        "AI/ML"
+        "AI/ML",
+        "Developer"
       ]
     },
     {
@@ -5074,7 +5568,8 @@
       },
       "tags": [
         "AI/ML",
-        "Media"
+        "Media",
+        "Web"
       ]
     },
     {
@@ -5203,6 +5698,7 @@
       },
       "tags": [
         "AI/ML",
+        "Developer",
         "Media"
       ]
     },
@@ -5605,6 +6101,7 @@
       },
       "tags": [
         "Game",
+        "Media",
         "Web"
       ]
     },
@@ -5735,7 +6232,8 @@
       },
       "tags": [
         "Game",
-        "Web"
+        "Web",
+        "Design"
       ]
     },
     {
@@ -6097,6 +6595,7 @@
       "tags": [
         "AI/ML",
         "Productivity",
+        "Media",
         "Web"
       ]
     },
@@ -6264,6 +6763,7 @@
       },
       "tags": [
         "Productivity",
+        "Game",
         "Education"
       ]
     },
@@ -6410,7 +6910,8 @@
         "extra": ""
       },
       "tags": [
-        "Productivity"
+        "Productivity",
+        "Media"
       ]
     },
     {
@@ -6594,7 +7095,8 @@
         "extra": ""
       },
       "tags": [
-        "AI/ML"
+        "AI/ML",
+        "Media"
       ]
     },
     {
@@ -6700,6 +7202,8 @@
       },
       "tags": [
         "AI/ML",
+        "Developer",
+        "Media",
         "Web"
       ]
     },
@@ -6720,7 +7224,8 @@
         "extra": ""
       },
       "tags": [
-        "Productivity"
+        "Productivity",
+        "Finance"
       ]
     },
     {
@@ -6803,6 +7308,7 @@
       "tags": [
         "Developer",
         "Productivity",
+        "Media",
         "Education"
       ]
     },
@@ -6866,6 +7372,7 @@
         "extra": ""
       },
       "tags": [
+        "Developer",
         "Productivity",
         "Web"
       ]
@@ -7189,7 +7696,8 @@
       },
       "tags": [
         "Developer",
-        "Productivity"
+        "Productivity",
+        "Media"
       ]
     },
     {
@@ -7209,7 +7717,8 @@
         "extra": ""
       },
       "tags": [
-        "AI/ML"
+        "AI/ML",
+        "Web"
       ]
     },
     {
@@ -7293,6 +7802,8 @@
       },
       "tags": [
         "AI/ML",
+        "Game",
+        "Media",
         "Design"
       ]
     },
@@ -7313,7 +7824,7 @@
         "extra": ""
       },
       "tags": [
-        "Other"
+        "Developer"
       ]
     },
     {
@@ -7357,7 +7868,8 @@
       },
       "tags": [
         "Developer",
-        "Productivity"
+        "Productivity",
+        "Media"
       ]
     },
     {
@@ -7802,6 +8314,7 @@
         "extra": ""
       },
       "tags": [
+        "Game",
         "Media"
       ]
     },
@@ -8250,6 +8763,7 @@
       "tags": [
         "Developer",
         "Productivity",
+        "Media",
         "Web",
         "Finance"
       ]
@@ -8356,7 +8870,8 @@
         "extra": ""
       },
       "tags": [
-        "AI/ML"
+        "AI/ML",
+        "Web"
       ]
     },
     {
@@ -8464,8 +8979,10 @@
       },
       "tags": [
         "Game",
+        "Media",
         "Mobile",
-        "Web"
+        "Web",
+        "Design"
       ]
     },
     {
@@ -8653,6 +9170,7 @@
       },
       "tags": [
         "Game",
+        "Media",
         "Web"
       ]
     },
@@ -8776,7 +9294,8 @@
         "extra": ""
       },
       "tags": [
-        "Other"
+        "Developer",
+        "Media"
       ]
     },
     {
@@ -8796,6 +9315,7 @@
         "extra": ""
       },
       "tags": [
+        "Developer",
         "Productivity",
         "Web",
         "Design"
@@ -9096,6 +9616,7 @@
       "tags": [
         "AI/ML",
         "Developer",
+        "Productivity",
         "Game"
       ]
     },
@@ -9370,6 +9891,7 @@
       },
       "tags": [
         "AI/ML",
+        "Developer",
         "Productivity",
         "Media",
         "Design"
@@ -9393,6 +9915,7 @@
       },
       "tags": [
         "AI/ML",
+        "Media",
         "Web",
         "Education"
       ]
@@ -9567,7 +10090,8 @@
         "extra": ""
       },
       "tags": [
-        "Productivity"
+        "Productivity",
+        "Web"
       ]
     },
     {
@@ -9588,6 +10112,7 @@
       },
       "tags": [
         "AI/ML",
+        "Developer",
         "Productivity",
         "Media"
       ]
@@ -9631,7 +10156,8 @@
         "extra": ""
       },
       "tags": [
-        "AI/ML"
+        "AI/ML",
+        "Media"
       ]
     },
     {
@@ -9885,6 +10411,7 @@
       },
       "tags": [
         "AI/ML",
+        "Developer",
         "Media",
         "Web"
       ]
@@ -9908,6 +10435,7 @@
       "tags": [
         "Productivity",
         "Game",
+        "Finance",
         "Education"
       ]
     },
@@ -9929,6 +10457,7 @@
       },
       "tags": [
         "AI/ML",
+        "Developer",
         "Media"
       ]
     },
@@ -10014,7 +10543,8 @@
       "tags": [
         "AI/ML",
         "Productivity",
-        "Media"
+        "Media",
+        "Design"
       ]
     },
     {
@@ -10259,6 +10789,7 @@
       },
       "tags": [
         "AI/ML",
+        "Developer",
         "Web"
       ]
     },
@@ -10426,7 +10957,8 @@
         "extra": ""
       },
       "tags": [
-        "AI/ML"
+        "AI/ML",
+        "Media"
       ]
     },
     {
@@ -10446,7 +10978,8 @@
         "extra": ""
       },
       "tags": [
-        "AI/ML"
+        "AI/ML",
+        "Media"
       ]
     },
     {
@@ -10509,7 +11042,9 @@
       },
       "tags": [
         "AI/ML",
-        "Productivity"
+        "Productivity",
+        "Media",
+        "Design"
       ]
     },
     {
@@ -10530,7 +11065,8 @@
       },
       "tags": [
         "AI/ML",
-        "Media"
+        "Media",
+        "Web"
       ]
     },
     {
@@ -10634,6 +11170,7 @@
         "extra": "[X](https://x.com/seazon000) "
       },
       "tags": [
+        "Developer",
         "Media"
       ]
     },
@@ -11160,7 +11697,8 @@
       },
       "tags": [
         "AI/ML",
-        "Productivity"
+        "Productivity",
+        "Media"
       ]
     },
     {
@@ -11203,7 +11741,8 @@
       "tags": [
         "AI/ML",
         "Developer",
-        "Productivity"
+        "Productivity",
+        "Media"
       ]
     },
     {
@@ -11470,6 +12009,7 @@
       "tags": [
         "AI/ML",
         "Developer",
+        "Productivity",
         "Web",
         "Education",
         "Design"
@@ -11512,7 +12052,8 @@
         "extra": ""
       },
       "tags": [
-        "AI/ML"
+        "AI/ML",
+        "Developer"
       ]
     },
     {
@@ -11870,6 +12411,7 @@
         "extra": ""
       },
       "tags": [
+        "Media",
         "Web"
       ]
     },
@@ -12040,7 +12582,8 @@
       },
       "tags": [
         "AI/ML",
-        "Developer"
+        "Developer",
+        "Media"
       ]
     },
     {
@@ -12183,7 +12726,7 @@
         "extra": ""
       },
       "tags": [
-        "Other"
+        "Finance"
       ]
     },
     {
@@ -12203,7 +12746,8 @@
         "extra": ""
       },
       "tags": [
-        "Productivity"
+        "Productivity",
+        "Media"
       ]
     },
     {
@@ -12394,7 +12938,9 @@
       },
       "tags": [
         "AI/ML",
-        "Media"
+        "Media",
+        "Web",
+        "Design"
       ]
     },
     {
@@ -12603,7 +13149,8 @@
       },
       "tags": [
         "AI/ML",
-        "Productivity"
+        "Productivity",
+        "Media"
       ]
     },
     {
@@ -12623,7 +13170,8 @@
         "extra": ""
       },
       "tags": [
-        "Game"
+        "Game",
+        "Web"
       ]
     },
     {
@@ -12954,7 +13502,7 @@
         "extra": ""
       },
       "tags": [
-        "Other"
+        "Game"
       ]
     },
     {
@@ -13038,7 +13586,8 @@
       },
       "tags": [
         "AI/ML",
-        "Productivity"
+        "Productivity",
+        "Web"
       ]
     },
     {
@@ -13080,7 +13629,8 @@
         "extra": "[推特](https://x.com/mcwangcn) "
       },
       "tags": [
-        "Productivity"
+        "Productivity",
+        "Game"
       ]
     },
     {
@@ -13161,7 +13711,8 @@
       },
       "tags": [
         "AI/ML",
-        "Productivity"
+        "Productivity",
+        "Media"
       ]
     },
     {
@@ -13204,7 +13755,8 @@
       },
       "tags": [
         "Developer",
-        "Game"
+        "Game",
+        "Media"
       ]
     },
     {
@@ -13287,6 +13839,7 @@
         "extra": ""
       },
       "tags": [
+        "Mobile",
         "Education"
       ]
     },
@@ -13350,6 +13903,7 @@
       "tags": [
         "AI/ML",
         "Productivity",
+        "Game",
         "Finance",
         "Design"
       ]
@@ -13516,7 +14070,8 @@
         "extra": ""
       },
       "tags": [
-        "AI/ML"
+        "AI/ML",
+        "Developer"
       ]
     },
     {
@@ -13688,7 +14243,9 @@
       },
       "tags": [
         "AI/ML",
-        "Productivity"
+        "Developer",
+        "Productivity",
+        "Media"
       ]
     },
     {
@@ -13810,6 +14367,7 @@
         "extra": ""
       },
       "tags": [
+        "Productivity",
         "Web",
         "Education",
         "Design"
@@ -14084,7 +14642,8 @@
       },
       "tags": [
         "AI/ML",
-        "Productivity"
+        "Productivity",
+        "Media"
       ]
     },
     {
@@ -14188,7 +14747,8 @@
         "extra": ""
       },
       "tags": [
-        "Productivity"
+        "Productivity",
+        "Media"
       ]
     },
     {
@@ -14545,7 +15105,8 @@
       "tags": [
         "Developer",
         "Productivity",
-        "Finance"
+        "Finance",
+        "Design"
       ]
     },
     {
@@ -14565,6 +15126,7 @@
         "extra": ""
       },
       "tags": [
+        "Media",
         "Mobile",
         "Web"
       ]
@@ -14629,6 +15191,7 @@
       "tags": [
         "Developer",
         "Productivity",
+        "Media",
         "Web"
       ]
     },
@@ -15319,7 +15882,8 @@
         "extra": ""
       },
       "tags": [
-        "AI/ML"
+        "AI/ML",
+        "Media"
       ]
     },
     {
@@ -15444,7 +16008,8 @@
       },
       "tags": [
         "AI/ML",
-        "Productivity"
+        "Productivity",
+        "Media"
       ]
     },
     {
@@ -15464,7 +16029,8 @@
         "extra": ""
       },
       "tags": [
-        "AI/ML"
+        "AI/ML",
+        "Media"
       ]
     },
     {
@@ -15567,7 +16133,8 @@
         "extra": ""
       },
       "tags": [
-        "AI/ML"
+        "AI/ML",
+        "Media"
       ]
     },
     {
@@ -15840,6 +16407,7 @@
       "tags": [
         "AI/ML",
         "Productivity",
+        "Game",
         "Finance",
         "Design"
       ]
@@ -15925,7 +16493,7 @@
         "extra": ""
       },
       "tags": [
-        "Other"
+        "Media"
       ]
     },
     {
@@ -16007,7 +16575,7 @@
         "extra": ""
       },
       "tags": [
-        "Other"
+        "Web"
       ]
     },
     {
@@ -16231,6 +16799,7 @@
       },
       "tags": [
         "Media",
+        "Web",
         "Design"
       ]
     },
@@ -16294,6 +16863,7 @@
       "tags": [
         "AI/ML",
         "Developer",
+        "Productivity",
         "Media",
         "Education"
       ]
@@ -16335,7 +16905,8 @@
         "blog": ""
       },
       "tags": [
-        "Game"
+        "Game",
+        "Media"
       ]
     },
     {
@@ -16416,6 +16987,7 @@
       },
       "tags": [
         "AI/ML",
+        "Developer",
         "Media"
       ]
     },
@@ -16476,7 +17048,8 @@
         "extra": ""
       },
       "tags": [
-        "Productivity"
+        "Productivity",
+        "Media"
       ]
     },
     {
@@ -16767,7 +17340,8 @@
         "extra": ""
       },
       "tags": [
-        "AI/ML"
+        "AI/ML",
+        "Design"
       ]
     },
     {
@@ -16870,7 +17444,8 @@
         "extra": ""
       },
       "tags": [
-        "AI/ML"
+        "AI/ML",
+        "Design"
       ]
     },
     {
@@ -17018,6 +17593,7 @@
       },
       "tags": [
         "AI/ML",
+        "Media",
         "Web"
       ]
     },
@@ -17081,7 +17657,8 @@
       },
       "tags": [
         "AI/ML",
-        "Productivity"
+        "Productivity",
+        "Media"
       ]
     },
     {
@@ -17103,6 +17680,7 @@
       "tags": [
         "AI/ML",
         "Productivity",
+        "Media",
         "Design"
       ]
     },
@@ -17247,6 +17825,7 @@
       },
       "tags": [
         "AI/ML",
+        "Developer",
         "Media",
         "Web"
       ]
@@ -17289,7 +17868,8 @@
         "extra": ""
       },
       "tags": [
-        "Media"
+        "Media",
+        "Web"
       ]
     },
     {
@@ -17371,6 +17951,7 @@
       },
       "tags": [
         "AI/ML",
+        "Media",
         "Design"
       ]
     },
@@ -17412,6 +17993,7 @@
       },
       "tags": [
         "AI/ML",
+        "Productivity",
         "Education"
       ]
     },
@@ -17621,7 +18203,8 @@
       },
       "tags": [
         "AI/ML",
-        "Productivity"
+        "Productivity",
+        "Media"
       ]
     },
     {
@@ -17767,6 +18350,7 @@
       },
       "tags": [
         "AI/ML",
+        "Productivity",
         "Finance"
       ]
     },
@@ -17808,7 +18392,8 @@
       },
       "tags": [
         "Media",
-        "Web"
+        "Web",
+        "Design"
       ]
     },
     {
@@ -18018,7 +18603,8 @@
       },
       "tags": [
         "AI/ML",
-        "Developer"
+        "Developer",
+        "Media"
       ]
     },
     {
@@ -18143,6 +18729,7 @@
       },
       "tags": [
         "AI/ML",
+        "Productivity",
         "Education"
       ]
     },
@@ -18245,6 +18832,7 @@
         "extra": ""
       },
       "tags": [
+        "Media",
         "Web"
       ]
     },
@@ -18305,6 +18893,7 @@
         "extra": ""
       },
       "tags": [
+        "Media",
         "Web"
       ]
     },
@@ -18326,7 +18915,9 @@
       },
       "tags": [
         "AI/ML",
-        "Productivity"
+        "Developer",
+        "Productivity",
+        "Media"
       ]
     },
     {
@@ -18846,7 +19437,9 @@
       },
       "tags": [
         "AI/ML",
+        "Developer",
         "Productivity",
+        "Media",
         "Web"
       ]
     },
@@ -18908,6 +19501,7 @@
       },
       "tags": [
         "AI/ML",
+        "Media",
         "Web"
       ]
     },
@@ -19199,7 +19793,8 @@
       },
       "tags": [
         "Productivity",
-        "Game"
+        "Game",
+        "Media"
       ]
     },
     {
@@ -19239,6 +19834,7 @@
         "extra": ""
       },
       "tags": [
+        "Productivity",
         "Media",
         "Design"
       ]
@@ -19426,7 +20022,7 @@
         "extra": ""
       },
       "tags": [
-        "Other"
+        "Developer"
       ]
     },
     {
@@ -19488,7 +20084,8 @@
       },
       "tags": [
         "AI/ML",
-        "Productivity"
+        "Productivity",
+        "Finance"
       ]
     },
     {
@@ -19531,7 +20128,8 @@
         "extra": ""
       },
       "tags": [
-        "Productivity"
+        "Productivity",
+        "Media"
       ]
     },
     {
@@ -19573,7 +20171,7 @@
         "extra": ""
       },
       "tags": [
-        "Other"
+        "Media"
       ]
     },
     {
@@ -19635,7 +20233,8 @@
         "extra": ""
       },
       "tags": [
-        "Game"
+        "Game",
+        "Media"
       ]
     },
     {
@@ -19804,6 +20403,7 @@
         "AI/ML",
         "Developer",
         "Productivity",
+        "Media",
         "Design"
       ]
     },
@@ -19970,6 +20570,7 @@
         "extra": ""
       },
       "tags": [
+        "Developer",
         "Productivity",
         "Web"
       ]
@@ -20033,6 +20634,7 @@
       "tags": [
         "Developer",
         "Productivity",
+        "Media",
         "Web"
       ]
     },
@@ -20201,7 +20803,8 @@
       },
       "tags": [
         "AI/ML",
-        "Developer"
+        "Developer",
+        "Media"
       ]
     },
     {
@@ -20367,7 +20970,9 @@
       "tags": [
         "AI/ML",
         "Productivity",
-        "Web"
+        "Media",
+        "Web",
+        "Design"
       ]
     },
     {
@@ -20409,7 +21014,8 @@
       "tags": [
         "Productivity",
         "Media",
-        "Web"
+        "Web",
+        "Design"
       ]
     },
     {
@@ -20451,7 +21057,8 @@
       },
       "tags": [
         "Productivity",
-        "Media"
+        "Media",
+        "Design"
       ]
     },
     {
@@ -20471,7 +21078,7 @@
         "extra": ""
       },
       "tags": [
-        "Other"
+        "Media"
       ]
     },
     {
@@ -20535,6 +21142,7 @@
       "tags": [
         "AI/ML",
         "Productivity",
+        "Game",
         "Media",
         "Web"
       ]
@@ -20641,7 +21249,8 @@
         "extra": ""
       },
       "tags": [
-        "AI/ML"
+        "AI/ML",
+        "Media"
       ]
     },
     {
@@ -20682,7 +21291,8 @@
         "extra": ""
       },
       "tags": [
-        "AI/ML"
+        "AI/ML",
+        "Media"
       ]
     },
     {
@@ -20724,7 +21334,8 @@
         "extra": ""
       },
       "tags": [
-        "AI/ML"
+        "AI/ML",
+        "Media"
       ]
     },
     {
@@ -20890,7 +21501,7 @@
         "extra": ""
       },
       "tags": [
-        "Other"
+        "AI/ML"
       ]
     },
     {
@@ -20930,7 +21541,8 @@
         "extra": ""
       },
       "tags": [
-        "AI/ML"
+        "AI/ML",
+        "Media"
       ]
     },
     {
@@ -21033,7 +21645,7 @@
         "extra": "[Bilibili](https://space.bilibili.com/271218438) "
       },
       "tags": [
-        "Other"
+        "Media"
       ]
     },
     {
@@ -21054,7 +21666,8 @@
       },
       "tags": [
         "Media",
-        "Web"
+        "Web",
+        "Design"
       ]
     },
     {
@@ -21118,7 +21731,8 @@
         "AI/ML",
         "Developer",
         "Productivity",
-        "Media"
+        "Media",
+        "Web"
       ]
     },
     {
@@ -21138,7 +21752,7 @@
         "extra": ""
       },
       "tags": [
-        "Other"
+        "Developer"
       ]
     },
     {
@@ -21180,7 +21794,8 @@
         "extra": ""
       },
       "tags": [
-        "AI/ML"
+        "AI/ML",
+        "Media"
       ]
     },
     {
@@ -21240,7 +21855,7 @@
         "extra": ""
       },
       "tags": [
-        "Other"
+        "Design"
       ]
     },
     {
@@ -21885,7 +22500,8 @@
         "extra": ""
       },
       "tags": [
-        "AI/ML"
+        "AI/ML",
+        "Media"
       ]
     },
     {
@@ -22073,6 +22689,7 @@
       },
       "tags": [
         "Game",
+        "Media",
         "Web"
       ]
     },
@@ -22093,7 +22710,8 @@
         "extra": ""
       },
       "tags": [
-        "Developer"
+        "Developer",
+        "Media"
       ]
     },
     {
@@ -22281,6 +22899,7 @@
         "extra": ""
       },
       "tags": [
+        "Media",
         "Web"
       ]
     },
@@ -22342,6 +22961,7 @@
       },
       "tags": [
         "AI/ML",
+        "Media",
         "Education"
       ]
     },
@@ -22362,7 +22982,8 @@
         "extra": ""
       },
       "tags": [
-        "AI/ML"
+        "AI/ML",
+        "Mobile"
       ]
     },
     {
@@ -22444,7 +23065,8 @@
         "extra": ""
       },
       "tags": [
-        "AI/ML"
+        "AI/ML",
+        "Media"
       ]
     },
     {
@@ -22464,6 +23086,7 @@
         "extra": ""
       },
       "tags": [
+        "Productivity",
         "Web",
         "Education"
       ]
@@ -22802,7 +23425,8 @@
       },
       "tags": [
         "AI/ML",
-        "Developer"
+        "Developer",
+        "Web"
       ]
     },
     {
@@ -22842,7 +23466,7 @@
         "extra": ""
       },
       "tags": [
-        "Other"
+        "Developer"
       ]
     },
     {
@@ -23066,7 +23690,8 @@
         "extra": ""
       },
       "tags": [
-        "Productivity"
+        "Productivity",
+        "Media"
       ]
     },
     {
@@ -23147,6 +23772,7 @@
       },
       "tags": [
         "Productivity",
+        "Media",
         "Web",
         "Design"
       ]
@@ -23273,7 +23899,8 @@
       },
       "tags": [
         "AI/ML",
-        "Developer"
+        "Developer",
+        "Media"
       ]
     },
     {
@@ -23355,6 +23982,8 @@
         "extra": ""
       },
       "tags": [
+        "Developer",
+        "Media",
         "Mobile"
       ]
     },
@@ -23438,6 +24067,7 @@
       },
       "tags": [
         "AI/ML",
+        "Media",
         "Web"
       ]
     },
@@ -23499,7 +24129,8 @@
         "extra": ""
       },
       "tags": [
-        "AI/ML"
+        "AI/ML",
+        "Media"
       ]
     },
     {
@@ -23602,6 +24233,7 @@
       },
       "tags": [
         "AI/ML",
+        "Media",
         "Web"
       ]
     },
@@ -23664,7 +24296,8 @@
         "extra": ""
       },
       "tags": [
-        "AI/ML"
+        "AI/ML",
+        "Productivity"
       ]
     },
     {
@@ -23828,7 +24461,8 @@
         "extra": ""
       },
       "tags": [
-        "AI/ML"
+        "AI/ML",
+        "Media"
       ]
     },
     {
@@ -23934,7 +24568,8 @@
         "extra": ""
       },
       "tags": [
-        "Web"
+        "Web",
+        "Design"
       ]
     },
     {
@@ -24143,7 +24778,7 @@
         "extra": ""
       },
       "tags": [
-        "Other"
+        "Media"
       ]
     },
     {
@@ -24348,7 +24983,7 @@
         "extra": ""
       },
       "tags": [
-        "Other"
+        "Media"
       ]
     },
     {
@@ -24368,7 +25003,7 @@
         "extra": ""
       },
       "tags": [
-        "Other"
+        "Media"
       ]
     },
     {
@@ -24572,7 +25207,7 @@
         "extra": ""
       },
       "tags": [
-        "Other"
+        "Developer"
       ]
     },
     {
@@ -24637,6 +25272,7 @@
       "tags": [
         "AI/ML",
         "Productivity",
+        "Media",
         "Design"
       ]
     },
@@ -24657,6 +25293,7 @@
         "extra": ""
       },
       "tags": [
+        "Media",
         "Design"
       ]
     },
@@ -24679,6 +25316,7 @@
       "tags": [
         "Productivity",
         "Game",
+        "Media",
         "Mobile"
       ]
     },
@@ -24721,6 +25359,7 @@
       },
       "tags": [
         "Productivity",
+        "Mobile",
         "Web"
       ]
     },
@@ -24741,7 +25380,9 @@
         "extra": ""
       },
       "tags": [
-        "Game"
+        "Game",
+        "Media",
+        "Design"
       ]
     },
     {
@@ -24782,6 +25423,7 @@
       },
       "tags": [
         "AI/ML",
+        "Media",
         "Web"
       ]
     },
@@ -24843,7 +25485,7 @@
         "extra": ""
       },
       "tags": [
-        "Other"
+        "Developer"
       ]
     },
     {
@@ -24883,6 +25525,7 @@
         "extra": ""
       },
       "tags": [
+        "Productivity",
         "Media"
       ]
     },
@@ -24904,7 +25547,8 @@
       },
       "tags": [
         "AI/ML",
-        "Media"
+        "Media",
+        "Education"
       ]
     },
     {
@@ -24944,7 +25588,8 @@
         "extra": ""
       },
       "tags": [
-        "Other"
+        "Developer",
+        "Web"
       ]
     },
     {
@@ -25026,7 +25671,9 @@
       },
       "tags": [
         "Productivity",
-        "Game"
+        "Game",
+        "Media",
+        "Finance"
       ]
     },
     {
@@ -25444,6 +26091,7 @@
       "tags": [
         "AI/ML",
         "Developer",
+        "Productivity",
         "Media"
       ]
     },
@@ -25649,6 +26297,7 @@
       },
       "tags": [
         "Developer",
+        "Productivity",
         "Web"
       ]
     },
@@ -25959,6 +26608,7 @@
       "tags": [
         "AI/ML",
         "Productivity",
+        "Media",
         "Web",
         "Education"
       ]
@@ -26002,6 +26652,7 @@
         "extra": ""
       },
       "tags": [
+        "Mobile",
         "Design"
       ]
     },
@@ -26127,7 +26778,8 @@
         "extra": ""
       },
       "tags": [
-        "AI/ML"
+        "AI/ML",
+        "Media"
       ]
     },
     {
@@ -26208,6 +26860,7 @@
         "extra": ""
       },
       "tags": [
+        "Developer",
         "Productivity",
         "Web"
       ]
@@ -26230,6 +26883,7 @@
       },
       "tags": [
         "Productivity",
+        "Media",
         "Design"
       ]
     },
@@ -26311,7 +26965,8 @@
         "extra": ""
       },
       "tags": [
-        "AI/ML"
+        "AI/ML",
+        "Media"
       ]
     },
     {
@@ -26352,7 +27007,8 @@
         "extra": ""
       },
       "tags": [
-        "AI/ML"
+        "AI/ML",
+        "Web"
       ]
     },
     {
@@ -26642,7 +27298,8 @@
         "extra": ""
       },
       "tags": [
-        "Other"
+        "Developer",
+        "Media"
       ]
     },
     {
@@ -26745,6 +27402,7 @@
         "extra": ""
       },
       "tags": [
+        "Developer",
         "Productivity",
         "Web"
       ]
@@ -26766,7 +27424,8 @@
         "extra": ""
       },
       "tags": [
-        "Web"
+        "Web",
+        "Design"
       ]
     },
     {
@@ -26931,7 +27590,8 @@
         "extra": ""
       },
       "tags": [
-        "AI/ML"
+        "AI/ML",
+        "Media"
       ]
     },
     {
@@ -27034,7 +27694,8 @@
         "extra": ""
       },
       "tags": [
-        "AI/ML"
+        "AI/ML",
+        "Media"
       ]
     },
     {
@@ -27308,6 +27969,7 @@
         "Developer",
         "Productivity",
         "Media",
+        "Web",
         "Education",
         "Design"
       ]
@@ -27627,7 +28289,7 @@
         "extra": ""
       },
       "tags": [
-        "Other"
+        "Media"
       ]
     },
     {
@@ -27691,6 +28353,7 @@
       },
       "tags": [
         "Productivity",
+        "Media",
         "Web",
         "Design"
       ]
@@ -27919,7 +28582,8 @@
       },
       "tags": [
         "AI/ML",
-        "Productivity"
+        "Productivity",
+        "Media"
       ]
     },
     {
@@ -28174,7 +28838,8 @@
         "extra": ""
       },
       "tags": [
-        "AI/ML"
+        "AI/ML",
+        "Media"
       ]
     },
     {
@@ -28194,7 +28859,8 @@
         "extra": ""
       },
       "tags": [
-        "AI/ML"
+        "AI/ML",
+        "Media"
       ]
     },
     {
@@ -28234,7 +28900,8 @@
         "extra": ""
       },
       "tags": [
-        "AI/ML"
+        "AI/ML",
+        "Media"
       ]
     },
     {
@@ -28296,6 +28963,7 @@
         "extra": ""
       },
       "tags": [
+        "Developer",
         "Media"
       ]
     },
@@ -28397,7 +29065,8 @@
         "extra": ""
       },
       "tags": [
-        "Media"
+        "Media",
+        "Design"
       ]
     },
     {
@@ -28458,6 +29127,7 @@
         "extra": ""
       },
       "tags": [
+        "Productivity",
         "Media",
         "Education"
       ]
@@ -28479,6 +29149,7 @@
         "extra": ""
       },
       "tags": [
+        "Productivity",
         "Web",
         "Education"
       ]
@@ -28585,7 +29256,8 @@
       "tags": [
         "Developer",
         "Productivity",
-        "Mobile"
+        "Mobile",
+        "Web"
       ]
     },
     {
@@ -28625,7 +29297,8 @@
         "extra": ""
       },
       "tags": [
-        "AI/ML"
+        "AI/ML",
+        "Game"
       ]
     },
     {
@@ -28668,7 +29341,7 @@
         "extra": ""
       },
       "tags": [
-        "Other"
+        "Media"
       ]
     },
     {
@@ -28691,7 +29364,8 @@
         "AI/ML",
         "Developer",
         "Productivity",
-        "Game"
+        "Game",
+        "Finance"
       ]
     },
     {
@@ -28815,6 +29489,7 @@
         "extra": ""
       },
       "tags": [
+        "Productivity",
         "Education"
       ]
     },
@@ -29249,6 +29924,7 @@
         "extra": ""
       },
       "tags": [
+        "Media",
         "Web",
         "Design"
       ]
@@ -29353,6 +30029,7 @@
       },
       "tags": [
         "AI/ML",
+        "Media",
         "Web"
       ]
     },
@@ -29636,7 +30313,8 @@
         "extra": ""
       },
       "tags": [
-        "AI/ML"
+        "AI/ML",
+        "Design"
       ]
     },
     {
@@ -29736,6 +30414,7 @@
         "extra": ""
       },
       "tags": [
+        "AI/ML",
         "Developer",
         "Productivity",
         "Web"
@@ -30127,7 +30806,8 @@
         "extra": ""
       },
       "tags": [
-        "Game"
+        "Game",
+        "Media"
       ]
     },
     {
@@ -30148,7 +30828,8 @@
       },
       "tags": [
         "AI/ML",
-        "Media"
+        "Media",
+        "Design"
       ]
     },
     {
@@ -30232,6 +30913,7 @@
       },
       "tags": [
         "Productivity",
+        "Media",
         "Design"
       ]
     },
@@ -30252,6 +30934,7 @@
         "extra": ""
       },
       "tags": [
+        "Productivity",
         "Media"
       ]
     },
@@ -30417,6 +31100,7 @@
         "extra": ""
       },
       "tags": [
+        "Media",
         "Web",
         "Education",
         "Design"
@@ -30439,7 +31123,8 @@
         "extra": ""
       },
       "tags": [
-        "Other"
+        "Media",
+        "Mobile"
       ]
     },
     {
@@ -30525,6 +31210,7 @@
       },
       "tags": [
         "AI/ML",
+        "Productivity",
         "Education"
       ]
     },
@@ -30588,7 +31274,8 @@
         "extra": "[个人主页](https://www.inav.site/) "
       },
       "tags": [
-        "Game"
+        "Game",
+        "Design"
       ]
     },
     {
@@ -30648,6 +31335,7 @@
         "extra": ""
       },
       "tags": [
+        "AI/ML",
         "Media"
       ]
     },
@@ -31018,7 +31706,8 @@
         "extra": ""
       },
       "tags": [
-        "Productivity"
+        "Productivity",
+        "Media"
       ]
     },
     {
@@ -31101,7 +31790,8 @@
         "extra": ""
       },
       "tags": [
-        "Other"
+        "Productivity",
+        "Game"
       ]
     },
     {
@@ -31285,7 +31975,8 @@
         "extra": ""
       },
       "tags": [
-        "AI/ML"
+        "AI/ML",
+        "Media"
       ]
     },
     {
@@ -31389,7 +32080,7 @@
         "extra": ""
       },
       "tags": [
-        "Other"
+        "AI/ML"
       ]
     },
     {
@@ -31409,7 +32100,7 @@
         "extra": ""
       },
       "tags": [
-        "Other"
+        "Media"
       ]
     },
     {
@@ -31470,6 +32161,7 @@
       },
       "tags": [
         "Productivity",
+        "Game",
         "Design"
       ]
     },
@@ -31490,7 +32182,8 @@
         "extra": "[Twitter](https://x.com/xdkc2000) "
       },
       "tags": [
-        "Developer"
+        "Developer",
+        "Media"
       ]
     },
     {
@@ -31633,6 +32326,7 @@
         "extra": "[Twitter](https://x.com/indie_maker_fox) "
       },
       "tags": [
+        "Web",
         "Finance",
         "Design"
       ]
@@ -31800,7 +32494,8 @@
       },
       "tags": [
         "Productivity",
-        "Media"
+        "Media",
+        "Design"
       ]
     },
     {
@@ -31991,6 +32686,7 @@
         "extra": "[个人主页](https://dnevend.site/) "
       },
       "tags": [
+        "Media",
         "Web"
       ]
     },
@@ -32051,7 +32747,7 @@
         "extra": ""
       },
       "tags": [
-        "Other"
+        "Mobile"
       ]
     },
     {
@@ -32153,7 +32849,8 @@
       },
       "tags": [
         "AI/ML",
-        "Developer"
+        "Developer",
+        "Media"
       ]
     },
     {
@@ -32175,6 +32872,7 @@
       "tags": [
         "Developer",
         "Productivity",
+        "Web",
         "Education",
         "Design"
       ]
@@ -32196,7 +32894,8 @@
         "extra": ""
       },
       "tags": [
-        "Productivity"
+        "Productivity",
+        "Design"
       ]
     },
     {
@@ -32238,7 +32937,7 @@
         "extra": ""
       },
       "tags": [
-        "Other"
+        "Mobile"
       ]
     },
     {
@@ -32318,7 +33017,8 @@
         "extra": ""
       },
       "tags": [
-        "Productivity"
+        "Productivity",
+        "Media"
       ]
     },
     {
@@ -32467,6 +33167,7 @@
         "extra": ""
       },
       "tags": [
+        "Game",
         "Media"
       ]
     },
@@ -32609,7 +33310,8 @@
         "extra": ""
       },
       "tags": [
-        "AI/ML"
+        "AI/ML",
+        "Media"
       ]
     },
     {
@@ -32631,6 +33333,7 @@
       "tags": [
         "AI/ML",
         "Developer",
+        "Media",
         "Design"
       ]
     },
@@ -32653,6 +33356,7 @@
       "tags": [
         "Productivity",
         "Game",
+        "Finance",
         "Education"
       ]
     },
@@ -32673,9 +33377,12 @@
         "extra": ""
       },
       "tags": [
+        "Developer",
         "Productivity",
+        "Game",
         "Media",
-        "Web"
+        "Web",
+        "Design"
       ]
     },
     {
@@ -32759,6 +33466,7 @@
       "tags": [
         "AI/ML",
         "Developer",
+        "Media",
         "Design"
       ]
     },
@@ -32779,7 +33487,8 @@
         "extra": ""
       },
       "tags": [
-        "Productivity"
+        "Productivity",
+        "Finance"
       ]
     },
     {
@@ -32859,6 +33568,7 @@
         "extra": ""
       },
       "tags": [
+        "Developer",
         "Productivity",
         "Web"
       ]
@@ -32880,7 +33590,7 @@
         "extra": "[个人网页](https://duckduckstudio.github.io/yazicbs.github.io/) [X(Twitter)](https://twitter.com/JinchengFang) "
       },
       "tags": [
-        "Other"
+        "Web"
       ]
     },
     {
@@ -33005,6 +33715,7 @@
       },
       "tags": [
         "AI/ML",
+        "Developer",
         "Design"
       ]
     },
@@ -33172,7 +33883,8 @@
       },
       "tags": [
         "AI/ML",
-        "Productivity"
+        "Productivity",
+        "Game"
       ]
     },
     {
@@ -33213,7 +33925,8 @@
         "extra": ""
       },
       "tags": [
-        "AI/ML"
+        "AI/ML",
+        "Media"
       ]
     },
     {
@@ -33274,7 +33987,8 @@
       },
       "tags": [
         "Developer",
-        "Web"
+        "Web",
+        "Education"
       ]
     },
     {
@@ -33354,7 +34068,7 @@
         "extra": ""
       },
       "tags": [
-        "Other"
+        "Media"
       ]
     },
     {
@@ -33455,6 +34169,7 @@
         "extra": ""
       },
       "tags": [
+        "Productivity",
         "Education"
       ]
     },
@@ -33699,6 +34414,7 @@
         "extra": ""
       },
       "tags": [
+        "Productivity",
         "Education"
       ]
     },
@@ -33904,6 +34620,7 @@
       },
       "tags": [
         "AI/ML",
+        "Productivity",
         "Education"
       ]
     },
@@ -33924,7 +34641,7 @@
         "extra": ""
       },
       "tags": [
-        "Other"
+        "Media"
       ]
     },
     {
@@ -34310,7 +35027,7 @@
         "extra": ""
       },
       "tags": [
-        "Other"
+        "Mobile"
       ]
     },
     {
@@ -34372,7 +35089,9 @@
       },
       "tags": [
         "AI/ML",
-        "Productivity"
+        "Productivity",
+        "Media",
+        "Web"
       ]
     },
     {
@@ -34433,6 +35152,7 @@
         "extra": ""
       },
       "tags": [
+        "Developer",
         "Productivity"
       ]
     },
@@ -34454,6 +35174,7 @@
       },
       "tags": [
         "Productivity",
+        "Media",
         "Web"
       ]
     },
@@ -34583,7 +35304,8 @@
         "extra": ""
       },
       "tags": [
-        "Productivity"
+        "Productivity",
+        "Education"
       ]
     },
     {
@@ -34905,7 +35627,8 @@
         "extra": ""
       },
       "tags": [
-        "Developer"
+        "Developer",
+        "Media"
       ]
     },
     {
@@ -34988,6 +35711,7 @@
         "extra": ""
       },
       "tags": [
+        "Game",
         "Media",
         "Finance"
       ]
@@ -35440,7 +36164,9 @@
         "extra": ""
       },
       "tags": [
-        "Web"
+        "Productivity",
+        "Web",
+        "Design"
       ]
     },
     {
@@ -35520,7 +36246,8 @@
         "extra": ""
       },
       "tags": [
-        "Productivity"
+        "Productivity",
+        "Design"
       ]
     },
     {
@@ -35602,6 +36329,7 @@
         "extra": "[主页](http://www.guanleiming.com) "
       },
       "tags": [
+        "Productivity",
         "Web",
         "Education"
       ]
@@ -35644,6 +36372,7 @@
       },
       "tags": [
         "Productivity",
+        "Media",
         "Web"
       ]
     },
@@ -35706,6 +36435,7 @@
       "tags": [
         "Developer",
         "Productivity",
+        "Media",
         "Design"
       ]
     },
@@ -35769,6 +36499,7 @@
         "extra": ""
       },
       "tags": [
+        "Media",
         "Web"
       ]
     },
@@ -36035,7 +36766,8 @@
         "extra": ""
       },
       "tags": [
-        "Game"
+        "Game",
+        "Mobile"
       ]
     },
     {
@@ -36076,6 +36808,7 @@
       },
       "tags": [
         "Developer",
+        "Productivity",
         "Web"
       ]
     },
@@ -36096,7 +36829,7 @@
         "extra": ""
       },
       "tags": [
-        "Other"
+        "Design"
       ]
     },
     {
@@ -36203,6 +36936,7 @@
         "extra": ""
       },
       "tags": [
+        "Developer",
         "Web"
       ]
     },
@@ -36244,6 +36978,7 @@
         "extra": ""
       },
       "tags": [
+        "Developer",
         "Productivity",
         "Design"
       ]
@@ -36512,7 +37247,8 @@
         "extra": ""
       },
       "tags": [
-        "Web"
+        "Web",
+        "Education"
       ]
     },
     {
@@ -36615,6 +37351,7 @@
       },
       "tags": [
         "Developer",
+        "Productivity",
         "Web",
         "Education"
       ]
@@ -37011,6 +37748,7 @@
       },
       "tags": [
         "AI/ML",
+        "Developer",
         "Productivity",
         "Media"
       ]
@@ -37034,7 +37772,8 @@
       "tags": [
         "AI/ML",
         "Developer",
-        "Productivity"
+        "Productivity",
+        "Media"
       ]
     },
     {
@@ -37415,6 +38154,7 @@
         "extra": ""
       },
       "tags": [
+        "Finance",
         "Design"
       ]
     },
@@ -37497,7 +38237,8 @@
         "extra": "[主页](http://wujiaxian.com/) "
       },
       "tags": [
-        "Productivity"
+        "Productivity",
+        "Finance"
       ]
     },
     {
@@ -37538,7 +38279,7 @@
         "extra": "[主页](http://wujiaxian.com/) "
       },
       "tags": [
-        "Other"
+        "Media"
       ]
     },
     {
@@ -37621,6 +38362,7 @@
       },
       "tags": [
         "AI/ML",
+        "Productivity",
         "Web",
         "Education"
       ]
@@ -37704,7 +38446,7 @@
         "extra": "[Twiter](https://twitter.com/uestccokey) [官网](http://www.ezandroid.cn/) "
       },
       "tags": [
-        "Other"
+        "Media"
       ]
     },
     {
@@ -38242,7 +38984,9 @@
         "extra": ""
       },
       "tags": [
-        "AI/ML"
+        "AI/ML",
+        "Media",
+        "Web"
       ]
     },
     {
@@ -38452,7 +39196,7 @@
         "extra": ""
       },
       "tags": [
-        "Other"
+        "Mobile"
       ]
     },
     {
@@ -38662,7 +39406,8 @@
         "extra": ""
       },
       "tags": [
-        "Web"
+        "Web",
+        "Design"
       ]
     },
     {
@@ -39053,7 +39798,7 @@
         "extra": ""
       },
       "tags": [
-        "Other"
+        "Media"
       ]
     },
     {
@@ -39194,7 +39939,7 @@
         "extra": ""
       },
       "tags": [
-        "Other"
+        "Design"
       ]
     },
     {
@@ -39215,7 +39960,8 @@
       },
       "tags": [
         "Developer",
-        "Productivity"
+        "Productivity",
+        "Web"
       ]
     },
     {
@@ -39605,7 +40351,7 @@
         "extra": ""
       },
       "tags": [
-        "Other"
+        "Developer"
       ]
     },
     {
@@ -39645,7 +40391,7 @@
         "extra": ""
       },
       "tags": [
-        "Other"
+        "Developer"
       ]
     },
     {
@@ -39726,7 +40472,8 @@
         "extra": "[官网](https://j20.cc/) "
       },
       "tags": [
-        "Other"
+        "Developer",
+        "Media"
       ]
     },
     {
@@ -39974,6 +40721,7 @@
       "tags": [
         "AI/ML",
         "Productivity",
+        "Media",
         "Education",
         "Design"
       ]
@@ -40077,6 +40825,7 @@
       },
       "tags": [
         "AI/ML",
+        "Productivity",
         "Education"
       ]
     },
@@ -40178,6 +40927,7 @@
         "extra": ""
       },
       "tags": [
+        "Developer",
         "Web"
       ]
     },
@@ -40567,7 +41317,7 @@
         "extra": ""
       },
       "tags": [
-        "Other"
+        "Developer"
       ]
     },
     {
@@ -40772,6 +41522,7 @@
         "extra": ""
       },
       "tags": [
+        "Developer",
         "Productivity",
         "Media"
       ]
@@ -40814,6 +41565,7 @@
       },
       "tags": [
         "AI/ML",
+        "Productivity",
         "Game",
         "Education"
       ]
@@ -41141,6 +41893,7 @@
         "extra": "[Bilibili](https://space.bilibili.com/65858958) [知乎](https://www.zhihu.com/people/SPeakShen) "
       },
       "tags": [
+        "Developer",
         "Education",
         "Design"
       ]
@@ -41162,7 +41915,7 @@
         "extra": "[Bilibili](https://space.bilibili.com/65858958) [知乎](https://www.zhihu.com/people/SPeakShen) "
       },
       "tags": [
-        "Other"
+        "Developer"
       ]
     },
     {
@@ -41282,7 +42035,8 @@
         "extra": "[个人网站](https://boxopened.github.io/) "
       },
       "tags": [
-        "Productivity"
+        "Productivity",
+        "Media"
       ]
     },
     {
@@ -41322,7 +42076,8 @@
         "extra": "[个人网站](https://boxopened.github.io/) "
       },
       "tags": [
-        "Productivity"
+        "Productivity",
+        "Finance"
       ]
     },
     {
@@ -41342,7 +42097,9 @@
         "extra": ""
       },
       "tags": [
-        "AI/ML"
+        "AI/ML",
+        "Education",
+        "Design"
       ]
     },
     {
@@ -41586,7 +42343,7 @@
         "extra": ""
       },
       "tags": [
-        "Other"
+        "Media"
       ]
     },
     {
@@ -41666,7 +42423,7 @@
         "extra": ""
       },
       "tags": [
-        "Other"
+        "Media"
       ]
     },
     {
@@ -41746,7 +42503,7 @@
         "extra": ""
       },
       "tags": [
-        "Other"
+        "Media"
       ]
     },
     {
@@ -41806,7 +42563,7 @@
         "extra": ""
       },
       "tags": [
-        "Other"
+        "Education"
       ]
     },
     {
@@ -41826,6 +42583,7 @@
         "extra": ""
       },
       "tags": [
+        "Media",
         "Design"
       ]
     },
@@ -41929,7 +42687,8 @@
       },
       "tags": [
         "Productivity",
-        "Web"
+        "Web",
+        "Design"
       ]
     },
     {
@@ -42052,7 +42811,8 @@
         "extra": ""
       },
       "tags": [
-        "AI/ML"
+        "AI/ML",
+        "Developer"
       ]
     },
     {
@@ -42215,6 +42975,7 @@
         "extra": ""
       },
       "tags": [
+        "Productivity",
         "Education"
       ]
     },
@@ -42338,7 +43099,8 @@
         "extra": ""
       },
       "tags": [
-        "Productivity"
+        "Productivity",
+        "Design"
       ]
     },
     {
@@ -42358,7 +43120,10 @@
         "extra": ""
       },
       "tags": [
-        "Media"
+        "Developer",
+        "Productivity",
+        "Media",
+        "Education"
       ]
     },
     {
@@ -42418,7 +43183,7 @@
         "extra": ""
       },
       "tags": [
-        "Other"
+        "Developer"
       ]
     },
     {
@@ -42499,6 +43264,7 @@
         "extra": ""
       },
       "tags": [
+        "Developer",
         "Web"
       ]
     },
@@ -42871,7 +43637,7 @@
         "extra": ""
       },
       "tags": [
-        "Other"
+        "Media"
       ]
     },
     {
@@ -42911,6 +43677,7 @@
         "extra": ""
       },
       "tags": [
+        "Developer",
         "Productivity"
       ]
     },
@@ -42952,7 +43719,7 @@
         "extra": ""
       },
       "tags": [
-        "Other"
+        "Developer"
       ]
     },
     {
@@ -43136,7 +43903,8 @@
       },
       "tags": [
         "Developer",
-        "Productivity"
+        "Productivity",
+        "Media"
       ]
     },
     {
@@ -43279,7 +44047,8 @@
         "extra": ""
       },
       "tags": [
-        "Productivity"
+        "Productivity",
+        "Web"
       ]
     },
     {
@@ -43299,7 +44068,8 @@
         "extra": ""
       },
       "tags": [
-        "Media"
+        "Media",
+        "Mobile"
       ]
     },
     {
@@ -43339,6 +44109,7 @@
         "extra": ""
       },
       "tags": [
+        "Mobile",
         "Web"
       ]
     },
@@ -43685,6 +44456,7 @@
         "extra": "[Twitter](https://x.com/hzlzh) "
       },
       "tags": [
+        "Game",
         "Mobile"
       ]
     },
@@ -43991,6 +44763,7 @@
       },
       "tags": [
         "Developer",
+        "Media",
         "Education"
       ]
     },
@@ -44053,6 +44826,7 @@
         "extra": "[个人主页](https://mo.run/zhangzhang/) "
       },
       "tags": [
+        "Media",
         "Mobile"
       ]
     },
@@ -44073,7 +44847,7 @@
         "extra": ""
       },
       "tags": [
-        "Other"
+        "Finance"
       ]
     },
     {
@@ -44113,7 +44887,8 @@
         "extra": ""
       },
       "tags": [
-        "Productivity"
+        "Productivity",
+        "Media"
       ]
     },
     {
@@ -44217,6 +44992,7 @@
         "extra": "[bilibili](https://space.bilibili.com/228834724) "
       },
       "tags": [
+        "Media",
         "Mobile"
       ]
     },
@@ -44320,7 +45096,7 @@
         "extra": "[主页](https://xieyuheng.com) "
       },
       "tags": [
-        "Other"
+        "Developer"
       ]
     },
     {
@@ -44460,6 +45236,7 @@
         "extra": ""
       },
       "tags": [
+        "Developer",
         "Productivity"
       ]
     },
@@ -44706,6 +45483,7 @@
         "extra": ""
       },
       "tags": [
+        "Media",
         "Web"
       ]
     },
@@ -44766,7 +45544,7 @@
         "extra": ""
       },
       "tags": [
-        "Other"
+        "Developer"
       ]
     },
     {
@@ -45092,6 +45870,7 @@
       "tags": [
         "Developer",
         "Productivity",
+        "Media",
         "Mobile",
         "Web"
       ]
@@ -45255,7 +46034,8 @@
         "extra": ""
       },
       "tags": [
-        "Developer"
+        "Developer",
+        "Media"
       ]
     },
     {
@@ -45335,7 +46115,7 @@
         "extra": "[Gitlab](http://strawmanbobi.wicp.net/irext) "
       },
       "tags": [
-        "Other"
+        "Developer"
       ]
     },
     {
@@ -45438,6 +46218,7 @@
       },
       "tags": [
         "Media",
+        "Education",
         "Design"
       ]
     },
@@ -45602,7 +46383,9 @@
       "tags": [
         "AI/ML",
         "Productivity",
-        "Web"
+        "Media",
+        "Web",
+        "Design"
       ]
     },
     {
@@ -45642,7 +46425,8 @@
         "extra": "[微博](https://weibo.com/u/1802713725) "
       },
       "tags": [
-        "Game"
+        "Game",
+        "Finance"
       ]
     },
     {
@@ -45901,6 +46685,7 @@
       },
       "tags": [
         "Developer",
+        "Productivity",
         "Web"
       ]
     },
@@ -45941,7 +46726,7 @@
         "extra": ""
       },
       "tags": [
-        "Other"
+        "Web"
       ]
     },
     {
@@ -46143,7 +46928,7 @@
         "extra": ""
       },
       "tags": [
-        "Other"
+        "Developer"
       ]
     },
     {
@@ -46263,7 +47048,8 @@
         "extra": ""
       },
       "tags": [
-        "Developer"
+        "Developer",
+        "Media"
       ]
     },
     {
@@ -46283,7 +47069,7 @@
         "extra": ""
       },
       "tags": [
-        "Other"
+        "Developer"
       ]
     },
     {
@@ -46510,6 +47296,7 @@
       "tags": [
         "Developer",
         "Game",
+        "Media",
         "Web"
       ]
     },
@@ -46552,6 +47339,7 @@
       "tags": [
         "Developer",
         "Game",
+        "Media",
         "Web"
       ]
     },
@@ -46634,7 +47422,8 @@
         "extra": ""
       },
       "tags": [
-        "Developer"
+        "Developer",
+        "Web"
       ]
     },
     {
@@ -46718,7 +47507,8 @@
       },
       "tags": [
         "Game",
-        "Web"
+        "Web",
+        "Education"
       ]
     },
     {
@@ -46758,7 +47548,8 @@
         "extra": ""
       },
       "tags": [
-        "Developer"
+        "Developer",
+        "Web"
       ]
     },
     {
@@ -46778,7 +47569,8 @@
         "extra": ""
       },
       "tags": [
-        "Developer"
+        "Developer",
+        "Web"
       ]
     },
     {
@@ -46799,7 +47591,8 @@
       },
       "tags": [
         "Productivity",
-        "Web"
+        "Web",
+        "Education"
       ]
     },
     {
@@ -46840,7 +47633,8 @@
         "extra": ""
       },
       "tags": [
-        "Developer"
+        "Developer",
+        "Web"
       ]
     },
     {
@@ -46923,7 +47717,8 @@
       "tags": [
         "Developer",
         "Productivity",
-        "Media"
+        "Media",
+        "Web"
       ]
     },
     {
@@ -46966,6 +47761,7 @@
       "tags": [
         "Developer",
         "Productivity",
+        "Media",
         "Web"
       ]
     },
@@ -47087,7 +47883,7 @@
         "extra": ""
       },
       "tags": [
-        "Other"
+        "Developer"
       ]
     },
     {
@@ -47147,7 +47943,8 @@
         "extra": ""
       },
       "tags": [
-        "Web"
+        "Web",
+        "Education"
       ]
     },
     {
@@ -47167,7 +47964,7 @@
         "extra": ""
       },
       "tags": [
-        "Other"
+        "Finance"
       ]
     },
     {
@@ -47349,7 +48146,9 @@
         "extra": ""
       },
       "tags": [
-        "Media"
+        "Game",
+        "Media",
+        "Education"
       ]
     },
     {
@@ -47613,6 +48412,7 @@
       "tags": [
         "Developer",
         "Productivity",
+        "Media",
         "Web"
       ]
     },
@@ -47633,7 +48433,7 @@
         "extra": ""
       },
       "tags": [
-        "Other"
+        "Developer"
       ]
     },
     {
@@ -47653,7 +48453,7 @@
         "extra": ""
       },
       "tags": [
-        "Other"
+        "Web"
       ]
     },
     {
@@ -47673,7 +48473,8 @@
         "extra": ""
       },
       "tags": [
-        "Web"
+        "Web",
+        "Design"
       ]
     },
     {
@@ -48104,7 +48905,8 @@
         "extra": ""
       },
       "tags": [
-        "Media"
+        "Media",
+        "Mobile"
       ]
     },
     {
@@ -48891,6 +49693,7 @@
       },
       "tags": [
         "Productivity",
+        "Mobile",
         "Design"
       ]
     },
@@ -48931,6 +49734,7 @@
         "extra": ""
       },
       "tags": [
+        "Media",
         "Mobile"
       ]
     },
@@ -49054,7 +49858,7 @@
         "extra": ""
       },
       "tags": [
-        "Other"
+        "Mobile"
       ]
     },
     {
@@ -49240,7 +50044,8 @@
       },
       "tags": [
         "Mobile",
-        "Finance"
+        "Finance",
+        "Design"
       ]
     },
     {
@@ -49360,7 +50165,7 @@
         "extra": "[微博](https://weibo.com/zjwen1006) "
       },
       "tags": [
-        "Other"
+        "Design"
       ]
     },
     {
@@ -49460,6 +50265,7 @@
         "extra": ""
       },
       "tags": [
+        "Productivity",
         "Education"
       ]
     },
@@ -49480,7 +50286,7 @@
         "extra": ""
       },
       "tags": [
-        "Other"
+        "Developer"
       ]
     },
     {
@@ -49521,7 +50327,8 @@
         "extra": ""
       },
       "tags": [
-        "Developer"
+        "Developer",
+        "Media"
       ]
     },
     {
@@ -49561,7 +50368,7 @@
         "extra": "[个人网站](https://eureka.name) "
       },
       "tags": [
-        "Other"
+        "Design"
       ]
     },
     {
@@ -49581,7 +50388,7 @@
         "extra": "[个人网站](https://eureka.name) "
       },
       "tags": [
-        "Other"
+        "Web"
       ]
     },
     {
@@ -49601,7 +50408,7 @@
         "extra": ""
       },
       "tags": [
-        "Other"
+        "Finance"
       ]
     },
     {
@@ -49641,7 +50448,7 @@
         "extra": ""
       },
       "tags": [
-        "Other"
+        "Design"
       ]
     },
     {
@@ -49682,6 +50489,7 @@
       },
       "tags": [
         "AI/ML",
+        "Media",
         "Mobile",
         "Education"
       ]
@@ -49764,7 +50572,8 @@
         "extra": ""
       },
       "tags": [
-        "Media"
+        "Media",
+        "Education"
       ]
     },
     {
@@ -49889,6 +50698,7 @@
         "extra": ""
       },
       "tags": [
+        "Media",
         "Mobile"
       ]
     },
@@ -49909,7 +50719,7 @@
         "extra": ""
       },
       "tags": [
-        "Other"
+        "Finance"
       ]
     },
     {
@@ -49990,7 +50800,7 @@
         "extra": ""
       },
       "tags": [
-        "Other"
+        "Media"
       ]
     },
     {
@@ -50172,6 +50982,7 @@
         "extra": ""
       },
       "tags": [
+        "Game",
         "Mobile"
       ]
     },
@@ -50232,7 +51043,8 @@
         "extra": ""
       },
       "tags": [
-        "Developer"
+        "Developer",
+        "Web"
       ]
     },
     {
@@ -50252,7 +51064,8 @@
         "extra": ""
       },
       "tags": [
-        "Web"
+        "Web",
+        "Finance"
       ]
     },
     {
@@ -50272,6 +51085,7 @@
         "extra": ""
       },
       "tags": [
+        "Developer",
         "Productivity"
       ]
     },
@@ -50333,7 +51147,7 @@
         "extra": ""
       },
       "tags": [
-        "Other"
+        "AI/ML"
       ]
     },
     {
@@ -50375,7 +51189,8 @@
       },
       "tags": [
         "Productivity",
-        "Web"
+        "Web",
+        "Education"
       ]
     },
     {
@@ -50395,7 +51210,8 @@
         "extra": ""
       },
       "tags": [
-        "Media"
+        "Media",
+        "Education"
       ]
     },
     {
@@ -50435,6 +51251,7 @@
         "extra": ""
       },
       "tags": [
+        "Game",
         "Media"
       ]
     },
@@ -50555,7 +51372,9 @@
         "extra": ""
       },
       "tags": [
-        "Developer"
+        "Developer",
+        "Game",
+        "Media"
       ]
     },
     {
@@ -50615,7 +51434,7 @@
         "extra": "[知乎](https://www.zhihu.com/people/li-shou-xin) "
       },
       "tags": [
-        "Other"
+        "Education"
       ]
     },
     {
@@ -50635,7 +51454,8 @@
         "extra": ""
       },
       "tags": [
-        "Developer"
+        "Developer",
+        "Finance"
       ]
     },
     {
@@ -50775,6 +51595,7 @@
         "extra": ""
       },
       "tags": [
+        "Media",
         "Mobile"
       ]
     },
@@ -50856,6 +51677,7 @@
         "extra": ""
       },
       "tags": [
+        "Media",
         "Web"
       ]
     },
@@ -50917,6 +51739,7 @@
       },
       "tags": [
         "Developer",
+        "Media",
         "Mobile"
       ]
     },
@@ -50957,6 +51780,7 @@
         "extra": ""
       },
       "tags": [
+        "Developer",
         "Mobile"
       ]
     },
@@ -51118,7 +51942,7 @@
         "extra": ""
       },
       "tags": [
-        "Other"
+        "Mobile"
       ]
     },
     {
@@ -51259,7 +52083,8 @@
         "extra": ""
       },
       "tags": [
-        "Developer"
+        "Developer",
+        "Mobile"
       ]
     },
     {
@@ -51300,6 +52125,7 @@
         "extra": "[微博](https://weibo.com/u/3127372955) "
       },
       "tags": [
+        "Developer",
         "Mobile"
       ]
     },
@@ -51361,7 +52187,8 @@
         "extra": ""
       },
       "tags": [
-        "Productivity"
+        "Productivity",
+        "Media"
       ]
     },
     {
@@ -51381,7 +52208,7 @@
         "extra": ""
       },
       "tags": [
-        "Other"
+        "Productivity"
       ]
     },
     {
@@ -51482,7 +52309,8 @@
         "extra": ""
       },
       "tags": [
-        "Mobile"
+        "Mobile",
+        "Web"
       ]
     },
     {
@@ -51522,7 +52350,7 @@
         "extra": ""
       },
       "tags": [
-        "Other"
+        "Game"
       ]
     },
     {
@@ -51682,7 +52510,7 @@
         "extra": ""
       },
       "tags": [
-        "Other"
+        "Web"
       ]
     },
     {
@@ -51742,7 +52570,7 @@
         "extra": ""
       },
       "tags": [
-        "Other"
+        "Productivity"
       ]
     },
     {
@@ -51802,7 +52630,7 @@
         "extra": ""
       },
       "tags": [
-        "Other"
+        "Productivity"
       ]
     },
     {
@@ -52022,7 +52850,8 @@
         "extra": ""
       },
       "tags": [
-        "Developer"
+        "Developer",
+        "Media"
       ]
     },
     {
@@ -52203,6 +53032,7 @@
         "extra": ""
       },
       "tags": [
+        "Productivity",
         "Education"
       ]
     },
@@ -52243,6 +53073,7 @@
         "extra": ""
       },
       "tags": [
+        "Developer",
         "Mobile"
       ]
     },
@@ -52384,6 +53215,7 @@
       },
       "tags": [
         "Developer",
+        "Media",
         "Web"
       ]
     },
@@ -52445,7 +53277,7 @@
         "extra": ""
       },
       "tags": [
-        "Other"
+        "Developer"
       ]
     },
     {
@@ -52647,7 +53479,7 @@
         "extra": "[Twitter](https://twitter.com/charsdavy) "
       },
       "tags": [
-        "Other"
+        "Education"
       ]
     },
     {
@@ -52708,7 +53540,8 @@
         "extra": ""
       },
       "tags": [
-        "Other"
+        "Developer",
+        "Media"
       ]
     },
     {
@@ -52829,7 +53662,7 @@
         "extra": "[小专栏](https://xiaozhuanlan.com/devnotes) [微博](https://weibo.com/0x00eeee) "
       },
       "tags": [
-        "Other"
+        "Web"
       ]
     },
     {
@@ -52849,7 +53682,8 @@
         "extra": "[小专栏](https://xiaozhuanlan.com/devnotes) [微博](https://weibo.com/0x00eeee) "
       },
       "tags": [
-        "Productivity"
+        "Productivity",
+        "Web"
       ]
     },
     {
@@ -52869,7 +53703,8 @@
         "extra": "[小专栏](https://xiaozhuanlan.com/devnotes) [微博](https://weibo.com/0x00eeee) "
       },
       "tags": [
-        "Productivity"
+        "Productivity",
+        "Web"
       ]
     },
     {
@@ -52890,7 +53725,8 @@
       },
       "tags": [
         "Productivity",
-        "Mobile"
+        "Mobile",
+        "Web"
       ]
     },
     {
@@ -52910,7 +53746,8 @@
         "extra": "[小专栏](https://xiaozhuanlan.com/devnotes) [微博](https://weibo.com/0x00eeee) "
       },
       "tags": [
-        "Productivity"
+        "Productivity",
+        "Web"
       ]
     },
     {
@@ -52970,7 +53807,7 @@
         "extra": ""
       },
       "tags": [
-        "Other"
+        "Web"
       ]
     },
     {
@@ -52990,6 +53827,7 @@
         "extra": ""
       },
       "tags": [
+        "Developer",
         "Game",
         "Web"
       ]
@@ -53133,7 +53971,7 @@
         "extra": ""
       },
       "tags": [
-        "Other"
+        "Finance"
       ]
     },
     {
@@ -53294,7 +54132,7 @@
         "extra": ""
       },
       "tags": [
-        "Other"
+        "Media"
       ]
     },
     {
@@ -53334,7 +54172,7 @@
         "extra": ""
       },
       "tags": [
-        "Other"
+        "Media"
       ]
     },
     {
@@ -53374,7 +54212,8 @@
         "extra": ""
       },
       "tags": [
-        "Game"
+        "Game",
+        "Education"
       ]
     },
     {
@@ -53595,6 +54434,7 @@
         "extra": ""
       },
       "tags": [
+        "Game",
         "Web"
       ]
     },
@@ -53615,6 +54455,7 @@
         "extra": ""
       },
       "tags": [
+        "Game",
         "Mobile"
       ]
     },
@@ -53635,7 +54476,7 @@
         "extra": ""
       },
       "tags": [
-        "Other"
+        "Finance"
       ]
     },
     {
@@ -53756,6 +54597,7 @@
         "extra": ""
       },
       "tags": [
+        "Productivity",
         "Mobile"
       ]
     },
@@ -53957,7 +54799,7 @@
         "extra": "[码力全开科技工作室](http://maliquankai.com) "
       },
       "tags": [
-        "Other"
+        "Developer"
       ]
     },
     {
@@ -54199,7 +55041,7 @@
         "extra": ""
       },
       "tags": [
-        "Other"
+        "Media"
       ]
     },
     {
@@ -54259,7 +55101,8 @@
         "extra": ""
       },
       "tags": [
-        "Other"
+        "Game",
+        "Media"
       ]
     },
     {
@@ -54300,7 +55143,7 @@
         "extra": ""
       },
       "tags": [
-        "Other"
+        "Media"
       ]
     },
     {
@@ -54320,6 +55163,7 @@
         "extra": ""
       },
       "tags": [
+        "Media",
         "Mobile"
       ]
     },
@@ -54340,7 +55184,8 @@
         "extra": ""
       },
       "tags": [
-        "Other"
+        "Media",
+        "Design"
       ]
     },
     {
@@ -54381,7 +55226,8 @@
       },
       "tags": [
         "Developer",
-        "Productivity"
+        "Productivity",
+        "Media"
       ]
     },
     {
@@ -54601,7 +55447,7 @@
         "extra": "[微博](http://weibo.com/u/3034766044) [Twitter](https://twitter.com/jony_chunfang) "
       },
       "tags": [
-        "Other"
+        "Media"
       ]
     },
     {
@@ -55169,7 +56015,7 @@
         "extra": ""
       },
       "tags": [
-        "Other"
+        "Media"
       ]
     },
     {
@@ -55209,7 +56055,8 @@
         "extra": ""
       },
       "tags": [
-        "Developer"
+        "Developer",
+        "Media"
       ]
     },
     {
@@ -55371,7 +56218,7 @@
         "extra": ""
       },
       "tags": [
-        "Other"
+        "Developer"
       ]
     },
     {
@@ -55451,6 +56298,7 @@
         "extra": ""
       },
       "tags": [
+        "Developer",
         "Web"
       ]
     },
@@ -55511,6 +56359,7 @@
         "extra": "[微博](http://weibo.com/kaiyuanxu) "
       },
       "tags": [
+        "Media",
         "Mobile"
       ]
     },
@@ -55531,7 +56380,8 @@
         "extra": "[微博](http://weibo.com/kaiyuanxu) "
       },
       "tags": [
-        "Mobile"
+        "Mobile",
+        "Design"
       ]
     },
     {
@@ -55571,6 +56421,7 @@
         "extra": "[微博](http://weibo.com/kaiyuanxu) "
       },
       "tags": [
+        "Productivity",
         "Mobile"
       ]
     },
@@ -55591,7 +56442,7 @@
         "extra": "[微博](http://weibo.com/kaiyuanxu) "
       },
       "tags": [
-        "Other"
+        "Productivity"
       ]
     },
     {
@@ -55751,7 +56602,7 @@
         "extra": ""
       },
       "tags": [
-        "Other"
+        "Web"
       ]
     },
     {
@@ -55792,6 +56643,7 @@
       },
       "tags": [
         "Developer",
+        "Productivity",
         "Education"
       ]
     },

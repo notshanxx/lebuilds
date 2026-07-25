@@ -1,5 +1,3 @@
-[![English](https://img.shields.io/badge/English-Translate-blue)](https://translate.google.com/translate?sl=zh-CN&tl=en&u=https://github.com/1c7/chinese-independent-developer/blob/master/pages/README-Programmer-Edition.md)
-
 ## 中国独立开发者项目列表（程序员版）
 
 [主板面点这里](https://github.com/1c7/chinese-independent-developer/)
@@ -17,6 +15,24 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
+
+### 2026 年 7 月 24 号添加
+
+#### Jackeyhate9 - [Github](https://github.com/Jackeyhate9)
+* :white_check_mark: [Adeve](https://github.com/Jackeyhate9/Adeve)：面向独立开发者的 AI 项目推广工作台，把 GitHub、SaaS、App 等项目转成推广策略、多平台内容、跟踪链接和审批发布流程，支持本地运行与 Postiz 接入
+* :clock8: [工智审图](https://github.com/Jackeyhate9/gongzhi-review)：工业建设项目多专业 AI 辅助审图 Web 应用，支持建筑、结构、电气图纸上传解析、规则检查、证据切片、人工复核和 HTML/PDF/DOCX 报告导出
+
+### 2026 年 7 月 23 号添加
+
+#### Limo(深圳) - [Github](https://github.com/yuhai0), [博客](https://yuhai.me)
+* :white_check_mark: [shex](https://github.com/yuhai0/shex)：将自然语言转换成命令行的 shell agent，支持多轮试错 - [更多介绍](https://github.com/yuhai0/shex)
+
+#### ItChinaW - [Github](https://github.com/ItChinaW)
+* :white_check_mark: [moyu-fish](https://www.npmjs.com/package/moyu-fish)：摸鱼炒股看盘 CLI，Claude 风格交互界面
+
+#### Sunrisepeak - [Github](https://github.com/Sunrisepeak), [mcpp-community](https://github.com/mcpp-community)
+
+* :white_check_mark: [mcpp](https://github.com/mcpp-community/mcpp)：现代 C++ 模块化构建工具 — 纯 C++23 模块编写（已实现自举），推动 C++ 进入 `import std` 时代 - [模块化库集合](https://github.com/mcpplibs) / [包索引](https://mcpplibs.github.io/mcpp-index/)
 
 ### 2026 年 7 月 22 号添加
 
