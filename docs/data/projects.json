@@ -1,18 +1,39 @@
 {
-  "generatedAt": "2026-07-25T07:58:20.379Z",
-  "totalProjects": 2733,
+  "generatedAt": "2026-07-25T13:12:19.318Z",
+  "totalProjects": 2734,
   "stats": {
-    "live": 2286,
+    "live": 2287,
     "dev": 33,
     "closed": 414
   },
   "boards": {
     "main": 1843,
-    "programmer": 280,
+    "programmer": 281,
     "game": 112,
     "archive": 498
   },
   "projects": [
+    {
+      "name": "Probe",
+      "url": "https://probe.uspeedo.online",
+      "description": "SMTP 邮箱验证诊断工具，通过 SMTP 协议验证邮箱地址真实性，支持 IP 池故障转移、一次性邮箱检测、29 个 RBL 黑名单扫描、域名健康检查（SPF/DKIM/DMARC/MX/PTR），HTTP API 和 CLI 双模式",
+      "status": "live",
+      "moreInfoUrl": "https://github.com/monto-fe/smtp-probe",
+      "moreInfoLabel": "更多介绍",
+      "board": "programmer",
+      "date": "2026-07-25",
+      "author": {
+        "name": "monto-fe",
+        "city": "",
+        "github": "https://github.com/monto-fe",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "Developer",
+        "Productivity"
+      ]
+    },
     {
       "name": "cocodot LLM 降智检测",
       "url": "https://probe.cocodot.co",
