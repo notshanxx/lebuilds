@@ -11,6 +11,11 @@
   <header>
     <h1>Chinese Independent Developer Projects</h1>
     <p class="subtitle" id="stats"></p>
+    <div class="header-actions">
+      <button class="lang-toggle" id="lang-toggle" title="Toggle language">EN</button>
+      <button class="random-btn" id="random-btn" title="Pick a random project">🎲 Random</button>
+      <button class="favorites-toggle" id="favorites-toggle" title="Show favorites only">★ Favorites</button>
+    </div>
   </header>
 
   <div class="controls">
@@ -36,6 +41,21 @@
           <button data-status="dev">In Dev</button>
           <button data-status="closed">Closed</button>
         </div>
+      </div>
+      <div class="filter-group">
+        <label>Category</label>
+        <div class="filter-buttons" id="category-filters">
+          <button class="active" data-tag="all">All</button>
+        </div>
+      </div>
+      <div class="filter-group">
+        <label>Sort</label>
+        <select id="sort-select">
+          <option value="newest">Newest</option>
+          <option value="oldest">Oldest</option>
+          <option value="name-asc">Name A→Z</option>
+          <option value="name-desc">Name Z→A</option>
+        </select>
       </div>
     </div>
   </div>
