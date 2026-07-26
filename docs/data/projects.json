@@ -1,18 +1,58 @@
 {
-  "generatedAt": "2026-07-26T08:16:47.578Z",
-  "totalProjects": 2735,
+  "generatedAt": "2026-07-26T13:07:32.422Z",
+  "totalProjects": 2738,
   "stats": {
-    "live": 2288,
+    "live": 2291,
     "dev": 33,
     "closed": 414
   },
   "boards": {
-    "main": 1844,
+    "main": 1846,
     "programmer": 281,
-    "game": 112,
+    "game": 113,
     "archive": 498
   },
   "projects": [
+    {
+      "name": "算了么",
+      "url": "https://suanlem.asia/",
+      "description": "八字四柱、三张牌塔罗与吠陀占星在线解读，支持保存历史记录并查看公开的方法说明",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "main",
+      "date": "2026-07-26",
+      "author": {
+        "name": "Maynor996",
+        "city": "",
+        "github": "https://github.com/Maynor996",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "Web"
+      ]
+    },
+    {
+      "name": "FileTags",
+      "url": "https://zhengmingpei.github.io/FileTags/",
+      "description": "文件标签分类检索与管理桌面软件，跨平台（Windows、Linux）",
+      "status": "live",
+      "moreInfoUrl": "https://www.bilibili.com/video/BV1EMjH6NEtE/",
+      "moreInfoLabel": "更多介绍",
+      "board": "main",
+      "date": "2026-07-26",
+      "author": {
+        "name": "zhengmingpei",
+        "city": "济南",
+        "github": "",
+        "blog": "",
+        "extra": "[Bilibili](https://space.bilibili.com/32918983) "
+      },
+      "tags": [
+        "Other"
+      ]
+    },
     {
       "name": "CelebrateYou",
       "url": "https://celebrateyou.app/",
@@ -32,6 +72,28 @@
       "tags": [
         "AI/ML",
         "Media"
+      ]
+    },
+    {
+      "name": "Grow a garden2",
+      "url": "https://www.growagardens2codes.com/",
+      "description": "Grow a Garden 2 游戏攻略与代码查询网站",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "game",
+      "date": "2026-07-26",
+      "author": {
+        "name": "fastend",
+        "city": "",
+        "github": "https://github.com/fastend",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "Developer",
+        "Game",
+        "Web"
       ]
     },
     {

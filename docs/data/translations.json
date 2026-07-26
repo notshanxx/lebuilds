@@ -10654,5 +10654,17 @@
   "CelebrateYou": {
     "en_name": "CelebrateYou",
     "en_description": "AI music generator"
+  },
+  "算了么": {
+    "en_name": "Forget it",
+    "en_description": "Online interpretation of horoscopes, three-card tarot and Vedic astrology, supports saving historical records and viewing public method instructions"
+  },
+  "FileTags": {
+    "en_name": "FileTags",
+    "en_description": "Desktop software for file tag classification retrieval and management, cross-platform (Windows, Linux)"
+  },
+  "Grow a garden2": {
+    "en_name": "Grow a garden2",
+    "en_description": "Grow a Garden 2 game guide and code query website"
   }
 }
