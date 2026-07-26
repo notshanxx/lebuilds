@@ -10546,5 +10546,109 @@
   "CC 速成班": {
     "en_name": "CC Crash Course",
     "en_description": "Aggregate all Chinese subtitles Crash Course videos"
+  },
+  "Probe": {
+    "en_name": "Probe",
+    "en_description": "SMTP mailbox verification diagnostic tool, verifies the authenticity of email addresses through SMTP protocol, supports IP pool failover, one-time mailbox detection, 29 RBL blacklist scans, domain name health check (SPF/DKIM/DMARC/MX/PTR), HTTP API and CLI dual modes"
+  },
+  "cocodot LLM 降智检测": {
+    "en_name": "cocodot LLM intelligence detection",
+    "en_description": "Free LLM API \"Intelligence reduction / secretly changing model\" online detection: fill in the base_url and temporary API Key of any OpenAI compatible endpoint, run 6 probes (model declaration, dynamic questions, capability integrity, etc.) to generate a sub-report; the key is only used for the current detection, will not be dropped into the library and will not be retained. The detection method [open source] (https://github.com/cocodot2026/cocodot-llmprobe)"
+  },
+  "AI快站模型质量检测": {
+    "en_name": "AI fast station model quality inspection",
+    "en_description": "A web page detection tool for the OpenAI Compatible interface. Enter the public HTTPS address and temporary API Key to check model declarations, tokens, dynamic questions, SSE and tool calls and generate itemized reports; the key is only used for the current detection and will not be written to the database, cache or logs."
+  },
+  "ky3 Launcher": {
+    "en_name": "ky3 Launcher",
+    "en_description": "Genshin Impact is a third-party open source launcher that integrates game startup, card drawing record analysis, achievement management, and development planning. It has a WinUI 3 native interface and is free and ad-free."
+  },
+  "Adeve": {
+    "en_name": "Adeve",
+    "en_description": "An AI project promotion workbench for independent developers, converting GitHub, SaaS, App and other projects into promotion strategies, multi-platform content, tracking links and approval release processes, supporting local operation and Postiz access"
+  },
+  "工智审图": {
+    "en_name": "AI drawing review",
+    "en_description": "Multi-professional AI-assisted drawing review web application for industrial construction projects, supporting architectural, structural, and electrical drawing upload analysis, rule checking, evidence slicing, manual review, and HTML/PDF/DOCX report export"
+  },
+  "AI故事书生成器": {
+    "en_name": "AI storybook generator",
+    "en_description": "AI generated storybook"
+  },
+  "AI菜谱生成器": {
+    "en_name": "AI recipe generator",
+    "en_description": "AI generated recipes"
+  },
+  "AI杂志生成器": {
+    "en_name": "AI magazine generator",
+    "en_description": "AI Generated Magazine"
+  },
+  "8码快传": {
+    "en_name": "8 yards quick pass",
+    "en_description": "A free browser-based large file transfer tool that does not require registration and login. It supports link, QR code and pick-up code sharing; computers and mobile phones can transfer to each other by opening web pages at the same time under the same WiFi."
+  },
+  "PDF2MD": {
+    "en_name": "PDF2MD",
+    "en_description": "Convert PDF to Markdown, completely offline, no need to upload, no file size limit, supports image text recognition, private and secure, device-side processing, supports sharing through AirDrop; [Hongmeng version](https://appgallery.huawei.com/app/detail?id=cn.slaman.pdftools.hm&channelId=SHARE&source=appshare)"
+  },
+  "听歌Next": {
+    "en_name": "Listen to the songNext",
+    "en_description": "Multiple people listen to music together online"
+  },
+  "Fin-Agent": {
+    "en_name": "Fin-Agent",
+    "en_description": "Help investors conduct professional analysis of investment targets"
+  },
+  "Doc2Md": {
+    "en_name": "Doc2Md",
+    "en_description": "Convert PDF, Word, Excel and other format files into Agent-friendly Markdown format"
+  },
+  "supergeo.info": {
+    "en_name": "supergeo.info",
+    "en_description": "A collection of tools to help GEO practitioners"
+  },
+  "Invoice-Downloader": {
+    "en_name": "Invoice-Downloader",
+    "en_description": "An invoice reimbursement tool that can handle invoice reimbursement with just one click. After connecting to your email, the software will open the invoice with one click, download it, convert it to pdf, and organize it into classified folders. And make an excel list."
+  },
+  "whisper-input": {
+    "en_name": "whisper-input",
+    "en_description": "Vibe coding and input tool. With Windows voice input method, you are only responsible for speaking, and the input method will organize it into logical and clear words (similar to prompt). The output style is optional, and the source code is open and freely adjustable."
+  },
+  "agent-xiaohongshu-workbench": {
+    "en_name": "agent-xiaohongshu-workbench",
+    "en_description": "The Xiaohongshu workbench can dismantle popular content with one click, and automatically complete the topic selection, picture matching, and publishing process. Added multiple account management functions. Account story line management."
+  },
+  "AI-Novel-Writer": {
+    "en_name": "AI-Novel-Writer",
+    "en_description": "AI writing tool for novels and web articles, supports NSFW local model generation of adult literature; a Chinese novel creation desktop workbench that supports outlines, characters, chapter blueprints, review and revision, and knowledge base. Built-in complete system prompt words to avoid forgetting characters/content and theme drift in medium-length novels."
+  },
+  "Paste It": {
+    "en_name": "Paste It",
+    "en_description": "macOS local clipboard manager, OCR can search screenshot text, and optional local MCP for Agent to retrieve history"
+  },
+  "Semaphore": {
+    "en_name": "Semaphore",
+    "en_description": "Drag the image into the browser and it will turn into an ASCII character painting in seconds, no uploading or registration, copy it into plain text with one click and paste it into the terminal, code comment, chat window, support Braille dot matrix high-density mode and txt / PNG / share card export"
+  },
+  "shex": {
+    "en_name": "shex",
+    "en_description": "A shell agent that converts natural language into command lines, supporting multiple rounds of trial and error"
+  },
+  "moyu-fish": {
+    "en_name": "moyu-fish",
+    "en_description": "Moyu stock trading CLI, Claude style interactive interface"
+  },
+  "mcpp": {
+    "en_name": "mcpp",
+    "en_description": "Modern C++ modular build tool - pure C++23 module writing (bootstrap implemented), pushing C++ into the `import std` era - [Modular Library Collection](https://github.com/mcpplibs) / [Package Index](https://mcpplibs.github.io/mcpp-index/)"
+  },
+  "诗经阅读": {
+    "en_name": "Book of Songs Reading",
+    "en_description": "Read the full text of 305 poems in the Book of Songs, including annotations, translations, pinyin annotations and experience on ancient rice paper, supporting collection and search"
+  },
+  "Palworld Breeding Calculator": {
+    "en_name": "Palworld Breeding Calculator",
+    "en_description": "Help Palworld players check Pal breeding combinations and plan breeding routes"
   }
 }
