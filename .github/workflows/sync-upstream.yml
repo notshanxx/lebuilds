@@ -40,11 +40,14 @@ jobs:
       - name: Auto-categorize projects
         run: node scripts/categorize.js
 
+      - name: Translate new projects to English
+        run: node scripts/translate.js
+
       - name: Commit and push if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md pages/README-Programmer-Edition.md pages/README-Game.md docs/data/projects.json
+          git add README.md pages/README-Programmer-Edition.md pages/README-Game.md docs/data/projects.json docs/data/translations.json
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
