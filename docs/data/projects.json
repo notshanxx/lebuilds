@@ -1,18 +1,39 @@
 {
-  "generatedAt": "2026-07-26T02:12:45.825Z",
-  "totalProjects": 2734,
+  "generatedAt": "2026-07-26T08:16:47.578Z",
+  "totalProjects": 2735,
   "stats": {
-    "live": 2287,
+    "live": 2288,
     "dev": 33,
     "closed": 414
   },
   "boards": {
-    "main": 1843,
+    "main": 1844,
     "programmer": 281,
     "game": 112,
     "archive": 498
   },
   "projects": [
+    {
+      "name": "CelebrateYou",
+      "url": "https://celebrateyou.app/",
+      "description": "AI 音乐生成器",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "main",
+      "date": "2026-07-26",
+      "author": {
+        "name": "hwlvipone",
+        "city": "",
+        "github": "https://github.com/hwlvipone",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "AI/ML",
+        "Media"
+      ]
+    },
     {
       "name": "Probe",
       "url": "https://probe.uspeedo.online",
@@ -139,7 +160,8 @@
         "extra": ""
       },
       "tags": [
-        "AI/ML"
+        "AI/ML",
+        "Web"
       ]
     },
     {
@@ -219,6 +241,7 @@
         "extra": ""
       },
       "tags": [
+        "Developer",
         "Productivity",
         "Mobile",
         "Web"
@@ -241,7 +264,8 @@
         "extra": ""
       },
       "tags": [
-        "Productivity"
+        "Productivity",
+        "Media"
       ]
     },
     {
@@ -261,6 +285,7 @@
         "extra": ""
       },
       "tags": [
+        "Media",
         "Web"
       ]
     },
@@ -281,7 +306,7 @@
         "extra": ""
       },
       "tags": [
-        "Other"
+        "Finance"
       ]
     },
     {
@@ -341,7 +366,7 @@
         "extra": ""
       },
       "tags": [
-        "Other"
+        "Productivity"
       ]
     },
     {
@@ -361,7 +386,8 @@
         "extra": ""
       },
       "tags": [
-        "Other"
+        "Developer",
+        "Productivity"
       ]
     },
     {
@@ -486,7 +512,8 @@
       },
       "tags": [
         "AI/ML",
-        "Developer"
+        "Developer",
+        "Finance"
       ]
     },
     {
@@ -506,6 +533,7 @@
         "extra": "[mcpp-community](https://github.com/mcpp-community) "
       },
       "tags": [
+        "Developer",
         "Productivity"
       ]
     },
@@ -568,7 +596,7 @@
         "extra": ""
       },
       "tags": [
-        "Other"
+        "Media"
       ]
     },
     {
