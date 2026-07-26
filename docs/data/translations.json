@@ -10666,5 +10666,13 @@
   "Grow a garden2": {
     "en_name": "Grow a garden2",
     "en_description": "Grow a Garden 2 game guide and code query website"
+  },
+  "Scribix": {
+    "en_name": "Scribix",
+    "en_description": "Upload audio and video or paste YouTube links, generate editable text with speaker tags and timestamps, and export subtitles and documents"
+  },
+  "Vibe Roaster": {
+    "en_name": "Vibe Roaster",
+    "en_description": "Locally read AI programming sessions such as Codex, Claude Code, Cursor, etc. to generate 16-type programming personalities, evidence-based complaints and shareable cards; a single `npx` command is run, and the original prompt words do not leave the machine."
   }
 }

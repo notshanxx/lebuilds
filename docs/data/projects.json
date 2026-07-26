@@ -1,18 +1,59 @@
 {
-  "generatedAt": "2026-07-26T13:07:32.422Z",
-  "totalProjects": 2738,
+  "generatedAt": "2026-07-26T19:03:01.291Z",
+  "totalProjects": 2740,
   "stats": {
-    "live": 2291,
+    "live": 2293,
     "dev": 33,
     "closed": 414
   },
   "boards": {
-    "main": 1846,
-    "programmer": 281,
+    "main": 1847,
+    "programmer": 282,
     "game": 113,
     "archive": 498
   },
   "projects": [
+    {
+      "name": "Scribix",
+      "url": "https://scribix.io/",
+      "description": "上传音视频或粘贴 YouTube 链接，生成带说话人标记和时间戳的可编辑文字，并可导出字幕与文档",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "main",
+      "date": "2026-07-27",
+      "author": {
+        "name": "suio03",
+        "city": "成都",
+        "github": "https://github.com/suio03",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "Media"
+      ]
+    },
+    {
+      "name": "Vibe Roaster",
+      "url": "https://github.com/PinkR1ver/vibe-roast",
+      "description": "本地读取 Codex、Claude Code、Cursor 等 AI 编程会话，生成 16 型编程人格、证据化吐槽与可分享卡片；一条 `npx` 命令运行，原始提示词不离开本机",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "programmer",
+      "date": "2026-07-27",
+      "author": {
+        "name": "PinkR1ver",
+        "city": "",
+        "github": "https://github.com/PinkR1ver",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "AI/ML",
+        "Developer"
+      ]
+    },
     {
       "name": "算了么",
       "url": "https://suanlem.asia/",
