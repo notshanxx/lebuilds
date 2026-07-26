@@ -10650,5 +10650,9 @@
   "Palworld Breeding Calculator": {
     "en_name": "Palworld Breeding Calculator",
     "en_description": "Help Palworld players check Pal breeding combinations and plan breeding routes"
+  },
+  "CelebrateYou": {
+    "en_name": "CelebrateYou",
+    "en_description": "AI music generator"
   }
 }
