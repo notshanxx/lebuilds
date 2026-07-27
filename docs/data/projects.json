@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-27T02:26:02.063Z",
-  "totalProjects": 2740,
+  "generatedAt": "2026-07-27T09:39:52.469Z",
+  "totalProjects": 2741,
   "stats": {
-    "live": 2293,
+    "live": 2294,
     "dev": 33,
     "closed": 414
   },
   "boards": {
-    "main": 1847,
+    "main": 1848,
     "programmer": 282,
     "game": 113,
     "archive": 498
@@ -31,6 +31,28 @@
       },
       "tags": [
         "Media"
+      ]
+    },
+    {
+      "name": "FluxDown",
+      "url": "https://fluxdown.zerx.dev",
+      "description": "多协议下载管理器，一个任务队列同时收 HTTP/FTP、BT 磁力、eD2K、HLS 和 DASH，IDM 式动态分段（下载途中继续切分剩余区间，慢节点不拖住收尾），装扩展后自动接管浏览器下载，Win/macOS/Linux/Android 全平台免费开源",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "main",
+      "date": "2026-07-27",
+      "author": {
+        "name": "zerx-lab",
+        "city": "",
+        "github": "https://github.com/zerx-lab",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "Productivity",
+        "Mobile",
+        "Web"
       ]
     },
     {

@@ -10674,5 +10674,9 @@
   "Vibe Roaster": {
     "en_name": "Vibe Roaster",
     "en_description": "Locally read AI programming sessions such as Codex, Claude Code, Cursor, etc. to generate 16-type programming personalities, evidence-based complaints and shareable cards; a single `npx` command is run, and the original prompt words do not leave the machine."
+  },
+  "FluxDown": {
+    "en_name": "FluxDown",
+    "en_description": "Multi-protocol download manager, one task queue collects HTTP/FTP, BT magnet, eD2K, HLS and DASH at the same time, IDM-style dynamic segmentation (continues to divide the remaining intervals during the download, slow nodes will not delay the end), automatically takes over browser downloads after installing extensions, free and open source for all Win/macOS/Linux/Android platforms"
   }
 }
