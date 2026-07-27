@@ -1,18 +1,38 @@
 {
-  "generatedAt": "2026-07-27T14:19:38.558Z",
-  "totalProjects": 2743,
+  "generatedAt": "2026-07-27T19:18:54.776Z",
+  "totalProjects": 2740,
   "stats": {
-    "live": 2296,
+    "live": 2293,
     "dev": 33,
     "closed": 414
   },
   "boards": {
-    "main": 1850,
-    "programmer": 282,
+    "main": 1849,
+    "programmer": 280,
     "game": 113,
     "archive": 498
   },
   "projects": [
+    {
+      "name": "Site Guard",
+      "url": "https://github.com/sunmh207/site-guard",
+      "description": "不让故障,悄悄发生。对站点的可用性、证书有效期、关键路径进行持续巡检，异常时自动推送钉钉 / 飞书 / 企业微信",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "main",
+      "date": "2026-07-27",
+      "author": {
+        "name": "sunmh207",
+        "city": "",
+        "github": "https://github.com/sunmh207",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "Other"
+      ]
+    },
     {
       "name": "OpenFiles",
       "url": "https://openfiles.pansysoft.app/",
@@ -39,7 +59,7 @@
     {
       "name": "OpenTypeless",
       "url": "https://www.opentypeless.com",
-      "description": "可在 Windows、macOS、Linux 任意应用内通过快捷键完成语音输入、转写和 AI 润色；支持 BYOK、本地词典与多种语音/大模型服务商 — MIT 开源",
+      "description": "语音输入、转写与 AI 润色，任意应用内快捷键唤起；支持 BYOK、本地词典与多种语音/大模型服务商 — 跨平台，MIT 开源",
       "status": "live",
       "moreInfoUrl": "https://github.com/tover0314-w/opentypeless",
       "moreInfoLabel": "更多介绍",
@@ -314,7 +334,7 @@
     {
       "name": "工智审图",
       "url": "https://github.com/Jackeyhate9/gongzhi-review",
-      "description": "工业建设项目多专业 AI 辅助审图 Web 应用，支持建筑、结构、电气图纸上传解析、规则检查、证据切片、人工复核和 HTML/PDF/DOCX 报告导出",
+      "description": "AI 辅助审图 Web 应用，面向工业建设项目多专业图纸，支持建筑、结构、电气图纸上传解析、规则检查、证据切片、人工复核和 HTML/PDF/DOCX 报告导出",
       "status": "dev",
       "moreInfoUrl": "",
       "moreInfoLabel": "",
@@ -395,7 +415,7 @@
     {
       "name": "8码快传",
       "url": "https://t.8ma.co/",
-      "description": "免费、无需注册登录的浏览器大文件传输工具，支持链接、二维码和取件码分享；同一 WiFi 下电脑与手机同时打开网页即可互传",
+      "description": "大文件传输工具，免费、无需注册登录，支持链接、二维码和取件码分享；同一 WiFi 下电脑与手机同时打开网页即可互传",
       "status": "live",
       "moreInfoUrl": "",
       "moreInfoLabel": "",
@@ -520,7 +540,7 @@
     {
       "name": "Invoice-Downloader",
       "url": "https://github.com/EthanYoQ/Invoice-Downloader",
-      "description": "发票报销神器，一键搞定发票报销。 连好邮箱之后，软件会一键开好发票，下载，转化成pdf，整理到分类文件夹。并且做好excel清单。",
+      "description": "发票自动化处理工具，连好邮箱后自动开票、下载、转成 PDF 并按分类归档，同时生成 Excel 清单",
       "status": "live",
       "moreInfoUrl": "",
       "moreInfoLabel": "",
@@ -540,7 +560,7 @@
     {
       "name": "whisper-input",
       "url": "https://github.com/EthanYoQ/whisper-input",
-      "description": "vibe coding和输入利器。windows语音输入法，你只负责口喷，输入法会整理成逻辑清晰的话术（类似prompt）。输出风格可选，源码公开自由可调。",
+      "description": "语音输入法，开口即输入，自动整理成逻辑清晰的话术（类似 prompt），输出风格可选；面向 vibe coding 场景，源码公开自由可调 — Windows",
       "status": "live",
       "moreInfoUrl": "",
       "moreInfoLabel": "",
@@ -561,7 +581,7 @@
     {
       "name": "agent-xiaohongshu-workbench",
       "url": "https://github.com/EthanYoQ/agent-xiaohongshu-workbench",
-      "description": "小红书工作台，一键爆款内容拆解，自动完成选题，配图，发布流程。新增多账号管理功能。账号故事线管理。",
+      "description": "小红书工作台，一键拆解爆款内容，自动完成选题、配图与发布，支持多账号管理与账号故事线管理",
       "status": "live",
       "moreInfoUrl": "",
       "moreInfoLabel": "",
@@ -581,7 +601,7 @@
     {
       "name": "AI-Novel-Writer",
       "url": "https://github.com/EthanYoQ/AI-Novel-Writer",
-      "description": "AI 写小说和网文的写作工具，支持 NSFW 本地模型生成成人文学；支持大纲、角色、章节蓝图、审稿修稿和知识库的中文小说创作桌面工作台。内置完整系统提示词，避免中长篇小说角色/内容遗忘、主题漂移。",
+      "description": "AI 小说创作桌面工具，管理大纲、角色、章节蓝图、审稿修稿与知识库，内置系统提示词避免中长篇小说角色/内容遗忘与主题漂移；支持本地模型生成 NSFW 成人文学",
       "status": "live",
       "moreInfoUrl": "",
       "moreInfoLabel": "",
@@ -1023,7 +1043,7 @@
     {
       "name": "FocusLens-屏幕截图聚焦编辑器",
       "url": "https://getfocuslens.com/",
-      "description": "将你的图片局部放置放大镜进行放大显示，聚焦以引起注意",
+      "description": "给图片局部添加放大镜效果，放大展示、聚焦引起注意",
       "status": "live",
       "moreInfoUrl": "",
       "moreInfoLabel": "",
@@ -2274,7 +2294,7 @@
     {
       "name": "CogitoAgent",
       "url": "https://github.com/SnowLeopard-io/CogitoAgent",
-      "description": "支持多端交互、内置安全沙箱与工具生态的 AI Agent 框架，提供开箱即用的智能自动化工作流",
+      "description": "AI Agent 框架，支持多端交互、内置安全沙箱与工具生态，提供开箱即用的智能自动化工作流",
       "status": "live",
       "moreInfoUrl": "",
       "moreInfoLabel": "",
@@ -2559,7 +2579,7 @@
     {
       "name": "ghost-proxifier-pro",
       "url": "https://ghostproxifier.com",
-      "description": "专为 Windows 打造的免费进程级透明代理引擎，拖拽进程快捷方式即可完成注入，支持进程树自动递归注入",
+      "description": "进程级透明代理引擎，专为 Windows 打造、免费使用，拖拽进程快捷方式即可完成注入，支持进程树自动递归注入",
       "status": "live",
       "moreInfoUrl": "https://github.com/liliBestCoder/ghost-proxifier-pro",
       "moreInfoLabel": "查看仓库",
@@ -2729,27 +2749,6 @@
       ]
     },
     {
-      "name": "SolDrop Tracker",
-      "url": "https://soldrop-tracker.vercel.app",
-      "description": "Solana 空投追踪工具，链上钱包分析，自动检测协议交互记录并判断空投资格，无需注册。",
-      "status": "live",
-      "moreInfoUrl": "",
-      "moreInfoLabel": "",
-      "board": "main",
-      "date": "2026-07-16",
-      "author": {
-        "name": "fiaboo",
-        "city": "",
-        "github": "https://github.com/dinhvuong090997-cyber",
-        "blog": "",
-        "extra": ""
-      },
-      "tags": [
-        "Productivity",
-        "Finance"
-      ]
-    },
-    {
       "name": "Diversity Comments",
       "url": "https://blog.huazie.com/demo",
       "description": "轻量级多评论系统聚合方案，简单几步即可完成网站评论接入",
@@ -2876,47 +2875,6 @@
         "AI/ML",
         "Developer",
         "Productivity"
-      ]
-    },
-    {
-      "name": "Devlane",
-      "url": "https://github.com/devlaner/devlane",
-      "description": "开源 Jira/Linear/Monday/ClickUp/Plane 替代方案，现代化项目管理平台，管理任务、冲刺、文档和事项分类",
-      "status": "live",
-      "moreInfoUrl": "",
-      "moreInfoLabel": "",
-      "board": "programmer",
-      "date": "2026-07-16",
-      "author": {
-        "name": "martian56",
-        "city": "",
-        "github": "https://github.com/martian56",
-        "blog": "",
-        "extra": ""
-      },
-      "tags": [
-        "Productivity"
-      ]
-    },
-    {
-      "name": "Raven",
-      "url": "https://github.com/martian56/raven",
-      "description": "结合 C++ 性能与控制力、Rust 安全性与现代特性、Python 可读性、Java 结构化设计以及 Go 简洁性的系统与应用编程语言",
-      "status": "live",
-      "moreInfoUrl": "",
-      "moreInfoLabel": "",
-      "board": "programmer",
-      "date": "2026-07-16",
-      "author": {
-        "name": "martian56",
-        "city": "",
-        "github": "https://github.com/martian56",
-        "blog": "",
-        "extra": ""
-      },
-      "tags": [
-        "Developer",
-        "Design"
       ]
     },
     {
@@ -3527,7 +3485,7 @@
     {
       "name": "iOS 截图装饰",
       "url": "https://app-shots.aibit.im/",
-      "description": "免费在线 iOS 截图美化生成器，在浏览器中把应用截图变成规范的 App Store 上架素材",
+      "description": "截图美化生成器，免费在线，浏览器中把 iOS 应用截图变成规范的 App Store 上架素材",
       "status": "live",
       "moreInfoUrl": "",
       "moreInfoLabel": "",
@@ -3548,7 +3506,7 @@
     {
       "name": "Sillage",
       "url": "https://github.com/ZingLix/Sillage/blob/main/README.zh-CN.md",
-      "description": "把足迹、火车、飞机、酒店放在一起记录的旅行 App，可按时间轴与照片一起回放探索过程，支持导入航旅纵横、12306 等数据",
+      "description": "旅行 App，把足迹、火车、飞机、酒店放在一起记录，可按时间轴与照片一起回放探索过程，支持导入航旅纵横、12306 等数据",
       "status": "live",
       "moreInfoUrl": "",
       "moreInfoLabel": "",
@@ -3770,7 +3728,7 @@
     {
       "name": "PaperPhonePlus",
       "url": "https://paperphone.app",
-      "description": "支持端到端加密、前向保密和音视频通话的即时通讯 App，可使用官方网页端或自托管",
+      "description": "即时通讯 App，支持端到端加密、前向保密和音视频通话，可使用官方网页端或自托管",
       "status": "live",
       "moreInfoUrl": "https://github.com/619dev/Paperphone-plus",
       "moreInfoLabel": "查看仓库",
@@ -5069,7 +5027,7 @@
     {
       "name": "hyperlane",
       "url": "https://github.com/hyperlane-dev/hyperlane",
-      "description": "基于 Tokio 的轻量、高性能、跨平台 Rust HTTP 服务器库，内置中间件、WebSocket、SSE 与原始 TCP 支持 - [查看仓库](https://github.com/hyperlane-dev/hyperlane)",
+      "description": "Rust HTTP 服务器库，基于 Tokio，轻量、高性能、跨平台，内置中间件、WebSocket、SSE 与原始 TCP 支持 - [查看仓库](https://github.com/hyperlane-dev/hyperlane)",
       "status": "live",
       "moreInfoUrl": "https://crates.io/crates/hyperlane",
       "moreInfoLabel": "crates.io",
@@ -5089,7 +5047,7 @@
     {
       "name": "euv",
       "url": "https://github.com/euv-dev/euv",
-      "description": "基于 Rust + WebAssembly 的声明式跨平台 UI 框架，提供虚拟 DOM、精确依赖追踪的 Signal 系统、`html!` 类 JSX 宏、`class!` CSS-in-Rust、全局事件委托及可选 2D 游戏引擎 `euv-engine` - [查看仓库](https://github.com/euv-dev/euv) - [crates.io](https://crates.io/crates/euv)",
+      "description": "UI 框架，基于 Rust + WebAssembly，声明式、跨平台，提供虚拟 DOM、精确依赖追踪的 Signal 系统、`html!` 类 JSX 宏、`class!` CSS-in-Rust、全局事件委托及可选 2D 游戏引擎 `euv-engine` - [查看仓库](https://github.com/euv-dev/euv) - [crates.io](https://crates.io/crates/euv)",
       "status": "live",
       "moreInfoUrl": "https://ltpp.vip/euv",
       "moreInfoLabel": "Demo",
@@ -5342,7 +5300,7 @@
     {
       "name": "markstream-vue",
       "url": "https://github.com/Simon-He95/markstream-vue",
-      "description": "面向 AI 聊天的 Vue 3 / Nuxt 流式 Markdown 渲染器，可稳定渲染持续到达且未完成的 Markdown，支持 Mermaid、KaTeX、Shiki 和 Monaco",
+      "description": "Markdown 渲染器，面向 AI 聊天场景，基于 Vue 3 / Nuxt 流式渲染，可稳定渲染持续到达且未完成的 Markdown，支持 Mermaid、KaTeX、Shiki 和 Monaco",
       "status": "live",
       "moreInfoUrl": "",
       "moreInfoLabel": "",
@@ -5598,7 +5556,7 @@
     {
       "name": "wechat-mac-rpa",
       "url": "https://github.com/wq19901103wq/wechat-mac-rpa",
-      "description": "基于多模态视觉感知与 LLM Agent 的 macOS 微信自动化框架，不碰协议不封号，用 AI 看屏幕自动回复微信消息，支持记忆系统、数字分身、智能家居控制和 3D 打印管理",
+      "description": "微信自动化框架（macOS），基于多模态视觉感知与 LLM Agent，不碰协议不封号，用 AI 看屏幕自动回复微信消息，支持记忆系统、数字分身、智能家居控制和 3D 打印管理",
       "status": "live",
       "moreInfoUrl": "",
       "moreInfoLabel": "",
@@ -5809,28 +5767,6 @@
         "AI/ML",
         "Productivity",
         "Media"
-      ]
-    },
-    {
-      "name": "seedance 2.0 mini",
-      "url": "https://seedancemini.online",
-      "description": "浏览器直出 AI 视频，文字/图片/音频多模态输入，30 秒内生成 HD 短片，无需安装",
-      "status": "live",
-      "moreInfoUrl": "",
-      "moreInfoLabel": "",
-      "board": "main",
-      "date": "2026-07-07",
-      "author": {
-        "name": "Miles Devlin",
-        "city": "海外",
-        "github": "",
-        "blog": "",
-        "extra": ""
-      },
-      "tags": [
-        "AI/ML",
-        "Media",
-        "Web"
       ]
     },
     {
@@ -6135,7 +6071,7 @@
     {
       "name": "Appaloft",
       "url": "https://appaloft.com",
-      "description": "面向 AI Agent 和独立开发者的本地优先、AI 原生单文件 PaaS，用一个配置文件管理应用部署，支持 CLI / GitHub Actions 部署到自有服务器",
+      "description": "单文件 PaaS，面向 AI Agent 和独立开发者，本地优先、AI 原生，用一个配置文件管理应用部署，支持 CLI / GitHub Actions 部署到自有服务器",
       "status": "live",
       "moreInfoUrl": "https://github.com/appaloft/appaloft",
       "moreInfoLabel": "更多介绍",

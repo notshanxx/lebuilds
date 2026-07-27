@@ -10686,5 +10686,9 @@
   "OpenTypeless": {
     "en_name": "OpenTypeless",
     "en_description": "Voice input, transliteration, and AI polishing can be completed through shortcut keys in any application on Windows, macOS, and Linux; supports BYOK, local dictionaries, and multiple voice/large model service providers - MIT open source"
+  },
+  "Site Guard": {
+    "en_name": "Site Guard",
+    "en_description": "Don't let failures happen quietly. Conduct continuous inspection of site availability, certificate validity period, and critical paths, and automatically push DingTalk/Feishu/Enterprise WeChat when exceptions occur."
   }
 }
