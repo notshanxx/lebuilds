@@ -1,18 +1,61 @@
 {
-  "generatedAt": "2026-07-27T09:39:52.469Z",
-  "totalProjects": 2741,
+  "generatedAt": "2026-07-27T14:19:38.558Z",
+  "totalProjects": 2743,
   "stats": {
-    "live": 2294,
+    "live": 2296,
     "dev": 33,
     "closed": 414
   },
   "boards": {
-    "main": 1848,
+    "main": 1850,
     "programmer": 282,
     "game": 113,
     "archive": 498
   },
   "projects": [
+    {
+      "name": "OpenFiles",
+      "url": "https://openfiles.pansysoft.app/",
+      "description": "AI 原生桌面文件管理器，可在一个应用中打开和编辑 350+ 种文件格式，覆盖图片、文档、代码、音视频、压缩包、Markdown、Jupyter Notebook、SQLite 数据库和 DWG/DXF CAD 图纸；文件查看与编辑默认在本地完成，支持 macOS 和 Windows",
+      "status": "live",
+      "moreInfoUrl": "https://leungwensen.com/blog/the-desktop-evolution-of-openfiles",
+      "moreInfoLabel": "更多介绍",
+      "board": "main",
+      "date": "2026-07-27",
+      "author": {
+        "name": "leungwensen（成都）- [GitHub](https://github.com/leungwensen), [博客]",
+        "city": "https://leungwensen.com",
+        "github": "",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "AI/ML",
+        "Developer",
+        "Productivity",
+        "Media"
+      ]
+    },
+    {
+      "name": "OpenTypeless",
+      "url": "https://www.opentypeless.com",
+      "description": "可在 Windows、macOS、Linux 任意应用内通过快捷键完成语音输入、转写和 AI 润色；支持 BYOK、本地词典与多种语音/大模型服务商 — MIT 开源",
+      "status": "live",
+      "moreInfoUrl": "https://github.com/tover0314-w/opentypeless",
+      "moreInfoLabel": "更多介绍",
+      "board": "main",
+      "date": "2026-07-27",
+      "author": {
+        "name": "tover wu",
+        "city": "",
+        "github": "https://github.com/tover0314-w",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "AI/ML"
+      ]
+    },
     {
       "name": "Scribix",
       "url": "https://scribix.io/",

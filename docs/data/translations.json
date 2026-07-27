@@ -10678,5 +10678,13 @@
   "FluxDown": {
     "en_name": "FluxDown",
     "en_description": "Multi-protocol download manager, one task queue collects HTTP/FTP, BT magnet, eD2K, HLS and DASH at the same time, IDM-style dynamic segmentation (continues to divide the remaining intervals during the download, slow nodes will not delay the end), automatically takes over browser downloads after installing extensions, free and open source for all Win/macOS/Linux/Android platforms"
+  },
+  "OpenFiles": {
+    "en_name": "OpenFiles",
+    "en_description": "AI native desktop file manager, can open and edit 350+ file formats in one application, covering images, documents, code, audio and video, compressed packages, Markdown, Jupyter Notebook, SQLite database and DWG/DXF CAD drawings; file viewing and editing are completed locally by default, supporting macOS and Windows"
+  },
+  "OpenTypeless": {
+    "en_name": "OpenTypeless",
+    "en_description": "Voice input, transliteration, and AI polishing can be completed through shortcut keys in any application on Windows, macOS, and Linux; supports BYOK, local dictionaries, and multiple voice/large model service providers - MIT open source"
   }
 }
