@@ -1,36 +1,76 @@
 {
-  "generatedAt": "2026-07-28T02:01:27.538Z",
-  "totalProjects": 2740,
+  "generatedAt": "2026-07-28T08:24:23.147Z",
+  "totalProjects": 2743,
   "stats": {
-    "live": 2293,
+    "live": 2296,
     "dev": 33,
     "closed": 414
   },
   "boards": {
-    "main": 1849,
-    "programmer": 280,
-    "game": 113,
+    "main": 1850,
+    "programmer": 281,
+    "game": 114,
     "archive": 498
   },
   "projects": [
     {
-      "name": "Site Guard",
-      "url": "https://github.com/sunmh207/site-guard",
-      "description": "不让故障,悄悄发生。对站点的可用性、证书有效期、关键路径进行持续巡检，异常时自动推送钉钉 / 飞书 / 企业微信",
+      "name": "独立星选",
+      "url": "https://indie-star.pages.dev/",
+      "description": "从本仓库评论区的用户点赞和评论数据中筛选优质独立开发者项目",
+      "status": "live",
+      "moreInfoUrl": "https://github.com/pluone/indie_star",
+      "moreInfoLabel": "更多介绍",
+      "board": "main",
+      "date": "2026-07-28",
+      "author": {
+        "name": "pluone",
+        "city": "北京",
+        "github": "https://github.com/pluone",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "name": "摸鱼解压玩具",
+      "url": "https://satisfylab.me/zh",
+      "description": "戳泡泡、打弹珠等解压小互动的合集，摸鱼时给大脑一段放空时间；免费，无需注册",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "game",
+      "date": "2026-07-28",
+      "author": {
+        "name": "my19940202",
+        "city": "",
+        "github": "https://github.com/my19940202",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "Other"
+      ]
+    },
+    {
+      "name": "AISeedance25",
+      "url": "https://aiseedance25.app/",
+      "description": "输入文字或图片生成视频，单条最长 30 秒、4K 无水印，可上传参考图控制画面；基于 Seedance 2.5 模型",
       "status": "live",
       "moreInfoUrl": "",
       "moreInfoLabel": "",
       "board": "main",
       "date": "2026-07-27",
       "author": {
-        "name": "sunmh207",
+        "name": "JAY",
         "city": "",
-        "github": "https://github.com/sunmh207",
+        "github": "https://github.com/yoga666996",
         "blog": "",
         "extra": ""
       },
       "tags": [
-        "Other"
+        "Media"
       ]
     },
     {
@@ -116,6 +156,26 @@
         "Productivity",
         "Mobile",
         "Web"
+      ]
+    },
+    {
+      "name": "Site Guard",
+      "url": "https://github.com/sunmh207/site-guard",
+      "description": "不让故障，悄悄发生。对站点的可用性、证书有效期、关键路径进行持续巡检，异常时自动推送钉钉 / 飞书 / 企业微信 — Docker Compose 自托管部署",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "programmer",
+      "date": "2026-07-27",
+      "author": {
+        "name": "sunmh207",
+        "city": "",
+        "github": "https://github.com/sunmh207",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "Other"
       ]
     },
     {

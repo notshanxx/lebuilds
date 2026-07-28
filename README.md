@@ -24,10 +24,15 @@
 
 ## 3. 项目列表
 
+### 2026 年 7 月 28 号添加
+
+#### pluone(北京) - [Github](https://github.com/pluone)
+* :white_check_mark: [独立星选](https://indie-star.pages.dev/)：从本仓库评论区的用户点赞和评论数据中筛选优质独立开发者项目 - [更多介绍](https://github.com/pluone/indie_star)
+
 ### 2026 年 7 月 27 号添加
 
-#### sunmh207 - [GitHub](https://github.com/sunmh207)
-* :white_check_mark: [Site Guard](https://github.com/sunmh207/site-guard)：不让故障,悄悄发生。对站点的可用性、证书有效期、关键路径进行持续巡检，异常时自动推送钉钉 / 飞书 / 企业微信
+#### JAY - [Github](https://github.com/yoga666996)
+* :white_check_mark: [AISeedance25](https://aiseedance25.app/)：输入文字或图片生成视频，单条最长 30 秒、4K 无水印，可上传参考图控制画面；基于 Seedance 2.5 模型
 
 #### leungwensen（成都）- [GitHub](https://github.com/leungwensen), [博客](https://leungwensen.com)
 * :white_check_mark: [OpenFiles](https://openfiles.pansysoft.app/)：AI 原生桌面文件管理器，可在一个应用中打开和编辑 350+ 种文件格式，覆盖图片、文档、代码、音视频、压缩包、Markdown、Jupyter Notebook、SQLite 数据库和 DWG/DXF CAD 图纸；文件查看与编辑默认在本地完成，支持 macOS 和 Windows - [更多介绍](https://leungwensen.com/blog/the-desktop-evolution-of-openfiles)

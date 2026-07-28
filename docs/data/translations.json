@@ -10690,5 +10690,17 @@
   "Site Guard": {
     "en_name": "Site Guard",
     "en_description": "Don't let failures happen quietly. Conduct continuous inspection of site availability, certificate validity period, and critical paths, and automatically push DingTalk/Feishu/Enterprise WeChat when exceptions occur."
+  },
+  "独立星选": {
+    "en_name": "independent star selection",
+    "en_description": "Screen high-quality independent developer projects from the user likes and comments data in the comment area of ​​this warehouse"
+  },
+  "摸鱼解压玩具": {
+    "en_name": "Moyu stress relief toy",
+    "en_description": "A collection of small decompression interactions such as popping bubbles and playing marbles, giving your brain some time to relax when fishing; free, no registration required"
+  },
+  "AISeedance25": {
+    "en_name": "AISeedance25",
+    "en_description": "Input text or pictures to generate a video, the maximum length of a single video is 30 seconds, 4K without watermark, and reference pictures can be uploaded to control the screen; based on the Seedance 2.5 model"
   }
 }
