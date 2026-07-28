@@ -10718,5 +10718,17 @@
   "str-emoji-hash": {
     "en_name": "str-emoji-hash",
     "en_description": "Convert any string into a unique emoticon fingerprint (such as 🔨🌸🦋🍇), based on FNV-1a 32-bit hash, the same input will always produce the same emoticon combination, supports npm installation and CLI direct use `npx seh \"your string\"`"
+  },
+  "CrewBee": {
+    "en_name": "CrewBee",
+    "en_description": "AI Agent team framework, for OpenCode, encapsulates roles, workflow, review process and completion standards into reusable team assets, with built-in Coding Team; one `npx` command to install"
+  },
+  "PilotDeck": {
+    "en_name": "PilotDeck",
+    "en_description": "ProjectOps × AgentOps console, centrally manages AI Agent collaboration, project progress, audit trails and token/cost; self-hosted deployment based on Flask, Vue 3 and SQLite"
+  },
+  "Waggle": {
+    "en_name": "Waggle",
+    "en_description": "AI Agent governs the runtime and control plane, with the project as the execution boundary, providing permission control, tool enforcement, confirmation process, running events and audit evidence; supports CLI, HTTP and TypeScript SDK, and requires self-hosted deployment"
   }
 }

@@ -1,18 +1,80 @@
 {
-  "generatedAt": "2026-07-28T13:51:36.204Z",
-  "totalProjects": 2747,
+  "generatedAt": "2026-07-28T19:15:30.248Z",
+  "totalProjects": 2750,
   "stats": {
-    "live": 2300,
+    "live": 2303,
     "dev": 33,
     "closed": 414
   },
   "boards": {
     "main": 1852,
-    "programmer": 283,
+    "programmer": 286,
     "game": 114,
     "archive": 498
   },
   "projects": [
+    {
+      "name": "CrewBee",
+      "url": "https://github.com/CrewBeeLab/CrewBee",
+      "description": "AI Agent 团队框架，面向 OpenCode 将角色、工作流、审查流程与完成标准封装为可复用团队资产，内置 Coding Team；一条 `npx` 命令安装",
+      "status": "live",
+      "moreInfoUrl": "https://www.crewbee.art",
+      "moreInfoLabel": "更多介绍",
+      "board": "programmer",
+      "date": "2026-07-29",
+      "author": {
+        "name": "Perrin Yong",
+        "city": "上海",
+        "github": "https://github.com/PerrinYong",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "AI/ML"
+      ]
+    },
+    {
+      "name": "PilotDeck",
+      "url": "https://github.com/PilotDeckAgentLabs/PilotDeck",
+      "description": "ProjectOps × AgentOps 控制台，集中管理 AI Agent 协作、项目进展、审计轨迹与 token/成本；基于 Flask、Vue 3 与 SQLite 自托管部署",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "programmer",
+      "date": "2026-07-29",
+      "author": {
+        "name": "Perrin Yong",
+        "city": "上海",
+        "github": "https://github.com/PerrinYong",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "AI/ML"
+      ]
+    },
+    {
+      "name": "Waggle",
+      "url": "https://github.com/CrewBeeLab/Waggle",
+      "description": "AI Agent 治理运行时与控制平面，以项目为执行边界，提供权限控制、工具强制、确认流程、运行事件与审计证据；支持 CLI、HTTP 与 TypeScript SDK，需自托管部署",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "programmer",
+      "date": "2026-07-29",
+      "author": {
+        "name": "Perrin Yong",
+        "city": "上海",
+        "github": "https://github.com/PerrinYong",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "AI/ML",
+        "Developer",
+        "Productivity"
+      ]
+    },
     {
       "name": "intro3d",
       "url": "https://intro3d.com/zh",
@@ -31,7 +93,8 @@
       },
       "tags": [
         "Developer",
-        "Productivity"
+        "Productivity",
+        "Media"
       ]
     },
     {
