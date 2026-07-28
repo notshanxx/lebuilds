@@ -26,8 +26,18 @@
 
 ### 2026 年 7 月 28 号添加
 
+#### yuhoayu-arch - [Github](https://github.com/yuhoayu-arch)
+* :white_check_mark: [intro3d](https://intro3d.com/zh)：上传照片或自有 3D 模型，设置镜头动画和作品内容，发布可分享的 3D 展示页 — 无代码 3D 个人主页制作工具
+
+#### Mr.Baoboer(北京) - [Github](https://github.com/MrBaoboer/)
+* :white_check_mark: [薪跳 PayDance](https://paydance.vercel.app/)：轻量优雅的「实时工资」小软件，根据用户的薪资和上下班时间动态计算每一秒的收入增长，让劳动时间价值变得可视化 - [更多介绍](https://github.com/MrBaoboer/PayDance)
+* :white_check_mark: [氛寸 Fēn Cùn](https://github.com/MrBaoboer/FenCun)：轻量优雅的「香水决策」小程序，根据实时天气和出席场合，告诉你今天最适合喷哪瓶香水，以及怎样用得恰到好处 - [更多介绍](https://github.com/MrBaoboer/FenCun)
+
 #### pluone(北京) - [Github](https://github.com/pluone)
 * :white_check_mark: [独立星选](https://indie-star.pages.dev/)：从本仓库评论区的用户点赞和评论数据中筛选优质独立开发者项目 - [更多介绍](https://github.com/pluone/indie_star)
+
+#### surfacex-dev - [Github](https://github.com/surfacex-dev)
+* :white_check_mark: [OptPulse](https://optpulse.org)：F-1 留学生 OPT / STEM OPT 时间追踪与 EAD 审批预测工具，支持 Premium Processing 时长计算与关键日期提醒，免费无需注册
 
 ### 2026 年 7 月 27 号添加
 
@@ -173,9 +183,6 @@
 #### xiaoshangmin(深圳) - [Github](https://github.com/xiaoshangmin)
 * :white_check_mark: [Next BConvert](https://nextbconvert.com/zh)：70+ 免费工具，支持图片、视频、音频、PDF 和文本处理，浏览器本地运行，无需上传、无需账号、无限制
 
-#### Mr.Baoboer(北京) - [Github](https://github.com/MrBaoboer/)
-* :white_check_mark: [氛寸 Fēn Cùn](https://github.com/MrBaoboer/FenCun)：轻量优雅的「香水决策」小程序，根据实时天气和出席场合，告诉你今天最适合喷哪瓶香水，以及怎样用得恰到好处 - [更多介绍](https://github.com/MrBaoboer/FenCun)
-
 #### wfly - [Github](https://github.com/Miofly)
 * :white_check_mark: [wflynn 工具站](https://tools.wflynn.cn/)：开发者在线工具集，提供 JSON 格式化、图片处理、代码转换等常用开发辅助工具
 
@@ -189,9 +196,6 @@
 
 #### 猫弟(上海) - [Github](https://github.com/maundytime)
 * :white_check_mark: [Await (iOS)](https://apps.apple.com/cn/app/id6755678187)：小组件工坊，可以 DIY 任何小组件 - [更多介绍](https://awaitwidget.com)
-
-#### Mr.Baoboer(北京) - [Github](https://github.com/MrBaoboer/)
-* :white_check_mark: [薪跳 PayDance](https://paydance.vercel.app/)：轻量优雅的「实时工资」小软件，根据用户的薪资和上下班时间动态计算每一秒的收入增长，让劳动时间价值变得可视化 - [更多介绍](https://github.com/MrBaoboer/PayDance)
 
 #### MattCraftsCode - [Github](https://github.com/MattCraftsCode)
 * :white_check_mark: [Fullmira](https://fullmira.com/)：一站式 AI 创作平台，整合 GPT、Claude、Gemini 等多个模型，同一界面完成文本、图像、视频和音频生成，内置 100+ 专用工具覆盖写作、图像编辑与视频制作

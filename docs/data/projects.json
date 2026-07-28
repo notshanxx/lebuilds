@@ -1,18 +1,79 @@
 {
-  "generatedAt": "2026-07-28T08:24:23.147Z",
-  "totalProjects": 2743,
+  "generatedAt": "2026-07-28T13:51:36.204Z",
+  "totalProjects": 2747,
   "stats": {
-    "live": 2296,
+    "live": 2300,
     "dev": 33,
     "closed": 414
   },
   "boards": {
-    "main": 1850,
-    "programmer": 281,
+    "main": 1852,
+    "programmer": 283,
     "game": 114,
     "archive": 498
   },
   "projects": [
+    {
+      "name": "intro3d",
+      "url": "https://intro3d.com/zh",
+      "description": "上传照片或自有 3D 模型，设置镜头动画和作品内容，发布可分享的 3D 展示页 — 无代码 3D 个人主页制作工具",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "main",
+      "date": "2026-07-28",
+      "author": {
+        "name": "yuhoayu-arch",
+        "city": "",
+        "github": "https://github.com/yuhoayu-arch",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "Developer",
+        "Productivity"
+      ]
+    },
+    {
+      "name": "薪跳 PayDance",
+      "url": "https://paydance.vercel.app/",
+      "description": "轻量优雅的「实时工资」小软件，根据用户的薪资和上下班时间动态计算每一秒的收入增长，让劳动时间价值变得可视化",
+      "status": "live",
+      "moreInfoUrl": "https://github.com/MrBaoboer/PayDance",
+      "moreInfoLabel": "更多介绍",
+      "board": "main",
+      "date": "2026-07-28",
+      "author": {
+        "name": "Mr.Baoboer",
+        "city": "北京",
+        "github": "https://github.com/MrBaoboer/",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "Other"
+      ]
+    },
+    {
+      "name": "氛寸 Fēn Cùn",
+      "url": "https://github.com/MrBaoboer/FenCun",
+      "description": "轻量优雅的「香水决策」小程序，根据实时天气和出席场合，告诉你今天最适合喷哪瓶香水，以及怎样用得恰到好处",
+      "status": "live",
+      "moreInfoUrl": "https://github.com/MrBaoboer/FenCun",
+      "moreInfoLabel": "更多介绍",
+      "board": "main",
+      "date": "2026-07-28",
+      "author": {
+        "name": "Mr.Baoboer",
+        "city": "北京",
+        "github": "https://github.com/MrBaoboer/",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "Other"
+      ]
+    },
     {
       "name": "独立星选",
       "url": "https://indie-star.pages.dev/",
@@ -26,6 +87,67 @@
         "name": "pluone",
         "city": "北京",
         "github": "https://github.com/pluone",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "name": "OptPulse",
+      "url": "https://optpulse.org",
+      "description": "F-1 留学生 OPT / STEM OPT 时间追踪与 EAD 审批预测工具，支持 Premium Processing 时长计算与关键日期提醒，免费无需注册",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "main",
+      "date": "2026-07-28",
+      "author": {
+        "name": "surfacex-dev",
+        "city": "",
+        "github": "https://github.com/surfacex-dev",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "Productivity"
+      ]
+    },
+    {
+      "name": "Chrome Renamer",
+      "url": "https://zhangxuyuan20251443-coder.github.io/Chrome-Renamer/",
+      "description": "本地替换 Google、YouTube 与 Chrome 页面中的品牌名称，支持自定义新标签页；无需账号，设置只保存在浏览器本地 — Chrome 扩展，需启用开发者模式手动加载",
+      "status": "live",
+      "moreInfoUrl": "https://github.com/zhangxuyuan20251443-coder/Chrome-Renamer",
+      "moreInfoLabel": "安装与源码",
+      "board": "programmer",
+      "date": "2026-07-28",
+      "author": {
+        "name": "zhangxuyuan20251443-coder",
+        "city": "",
+        "github": "https://github.com/zhangxuyuan20251443-coder",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "Developer",
+        "Web"
+      ]
+    },
+    {
+      "name": "str-emoji-hash",
+      "url": "https://github.com/jaychouchannel/str-emoji-hash",
+      "description": "将任意字符串转为唯一的表情指纹（如 🔨🌸🦋🍇），基于 FNV-1a 32 位哈希，相同输入永远产出相同表情组合，支持 npm 安装和 CLI 直接使用 `npx seh \"你的字符串\"`",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "programmer",
+      "date": "2026-07-28",
+      "author": {
+        "name": "jaychouchannel",
+        "city": "",
+        "github": "https://github.com/jaychouchannel",
         "blog": "",
         "extra": ""
       },
@@ -1520,26 +1642,6 @@
       ]
     },
     {
-      "name": "氛寸 Fēn Cùn",
-      "url": "https://github.com/MrBaoboer/FenCun",
-      "description": "轻量优雅的「香水决策」小程序，根据实时天气和出席场合，告诉你今天最适合喷哪瓶香水，以及怎样用得恰到好处",
-      "status": "live",
-      "moreInfoUrl": "https://github.com/MrBaoboer/FenCun",
-      "moreInfoLabel": "更多介绍",
-      "board": "main",
-      "date": "2026-07-19",
-      "author": {
-        "name": "Mr.Baoboer",
-        "city": "北京",
-        "github": "https://github.com/MrBaoboer/",
-        "blog": "",
-        "extra": ""
-      },
-      "tags": [
-        "Other"
-      ]
-    },
-    {
       "name": "wflynn 工具站",
       "url": "https://tools.wflynn.cn/",
       "description": "开发者在线工具集，提供 JSON 格式化、图片处理、代码转换等常用开发辅助工具",
@@ -1640,26 +1742,6 @@
       },
       "tags": [
         "Mobile"
-      ]
-    },
-    {
-      "name": "薪跳 PayDance",
-      "url": "https://paydance.vercel.app/",
-      "description": "轻量优雅的「实时工资」小软件，根据用户的薪资和上下班时间动态计算每一秒的收入增长，让劳动时间价值变得可视化",
-      "status": "live",
-      "moreInfoUrl": "https://github.com/MrBaoboer/PayDance",
-      "moreInfoLabel": "更多介绍",
-      "board": "main",
-      "date": "2026-07-18",
-      "author": {
-        "name": "Mr.Baoboer",
-        "city": "北京",
-        "github": "https://github.com/MrBaoboer/",
-        "blog": "",
-        "extra": ""
-      },
-      "tags": [
-        "Other"
       ]
     },
     {

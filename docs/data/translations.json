@@ -10702,5 +10702,21 @@
   "AISeedance25": {
     "en_name": "AISeedance25",
     "en_description": "Input text or pictures to generate a video, the maximum length of a single video is 30 seconds, 4K without watermark, and reference pictures can be uploaded to control the screen; based on the Seedance 2.5 model"
+  },
+  "intro3d": {
+    "en_name": "intro3d",
+    "en_description": "Upload photos or your own 3D models, set camera animations and content, and publish shareable 3D presentation pages — no-code 3D profile creation tool"
+  },
+  "OptPulse": {
+    "en_name": "OptPulse",
+    "en_description": "F-1 international student OPT / STEM OPT time tracking and EAD approval prediction tool, supports Premium Processing time calculation and key date reminder, free and no registration required"
+  },
+  "Chrome Renamer": {
+    "en_name": "Chrome Renamer",
+    "en_description": "Locally replace the brand name in Google, YouTube and Chrome pages, support customized new tab page; no account required, settings are only saved locally in the browser - Chrome extension, developer mode needs to be enabled for manual loading"
+  },
+  "str-emoji-hash": {
+    "en_name": "str-emoji-hash",
+    "en_description": "Convert any string into a unique emoticon fingerprint (such as 🔨🌸🦋🍇), based on FNV-1a 32-bit hash, the same input will always produce the same emoticon combination, supports npm installation and CLI direct use `npx seh \"your string\"`"
   }
 }
