@@ -1,18 +1,41 @@
 {
-  "generatedAt": "2026-07-29T02:03:51.294Z",
-  "totalProjects": 2751,
+  "generatedAt": "2026-07-29T08:30:13.076Z",
+  "totalProjects": 2752,
   "stats": {
-    "live": 2304,
+    "live": 2305,
     "dev": 33,
     "closed": 414
   },
   "boards": {
-    "main": 1852,
+    "main": 1853,
     "programmer": 287,
     "game": 114,
     "archive": 498
   },
   "projects": [
+    {
+      "name": "网页视频港 WebVideoHarbor",
+      "url": "https://phpfrank.github.io/web-video-harbor/",
+      "description": "免费开源的 macOS 网页媒体保存工具，通过 Chrome 扩展识别 MP4、WebM 与非加密 HLS/M3U8，并由本地助手完成下载",
+      "status": "live",
+      "moreInfoUrl": "https://github.com/PHPfrank/web-video-harbor",
+      "moreInfoLabel": "源码",
+      "board": "main",
+      "date": "2026-07-29",
+      "author": {
+        "name": "TopFrank",
+        "city": "",
+        "github": "https://github.com/PHPfrank",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "Productivity",
+        "Media",
+        "Web",
+        "Finance"
+      ]
+    },
     {
       "name": "PythonIDE",
       "url": "https://apps.apple.com/app/id6753987304",

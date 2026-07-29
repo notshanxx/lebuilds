@@ -10734,5 +10734,9 @@
   "PythonIDE": {
     "en_name": "PythonIDE",
     "en_description": "The native Python 3.14.6 development workbench for iPhone and iPad can run scientific calculations and notebooks locally, and use AI Agent to modify, run and verify projects; it can also use Python to build MiniApp native interfaces, widgets and automation, with built-in SSH, Git and iOS system capabilities"
+  },
+  "网页视频港 WebVideoHarbor": {
+    "en_name": "WebVideoHarbor WebVideoHarbor",
+    "en_description": "Free and open source web media saving tool for macOS, which recognizes MP4, WebM and non-encrypted HLS/M3U8 through Chrome extension, and downloads it through the local assistant"
   }
 }
