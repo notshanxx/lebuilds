@@ -1,18 +1,40 @@
 {
-  "generatedAt": "2026-07-28T19:15:30.248Z",
-  "totalProjects": 2750,
+  "generatedAt": "2026-07-29T02:03:51.294Z",
+  "totalProjects": 2751,
   "stats": {
-    "live": 2303,
+    "live": 2304,
     "dev": 33,
     "closed": 414
   },
   "boards": {
     "main": 1852,
-    "programmer": 286,
+    "programmer": 287,
     "game": 114,
     "archive": 498
   },
   "projects": [
+    {
+      "name": "PythonIDE",
+      "url": "https://apps.apple.com/app/id6753987304",
+      "description": "面向 iPhone 和 iPad 的原生 Python 3.14.6 开发工作台，可本地运行科学计算与 Notebook，并用 AI Agent 修改、运行和验证项目；还能用 Python 构建 MiniApp 原生界面、Widget 与自动化，内置 SSH、Git 和 iOS 系统能力",
+      "status": "live",
+      "moreInfoUrl": "https://github.com/Python-IDE/PythonIDE-iOS",
+      "moreInfoLabel": "更多介绍",
+      "board": "programmer",
+      "date": "2026-07-29",
+      "author": {
+        "name": "张文禄",
+        "city": "",
+        "github": "https://github.com/Python-IDE",
+        "blog": "",
+        "extra": "[官网](https://pythonide.xin/) "
+      },
+      "tags": [
+        "AI/ML",
+        "Developer",
+        "Mobile"
+      ]
+    },
     {
       "name": "CrewBee",
       "url": "https://github.com/CrewBeeLab/CrewBee",
@@ -30,7 +52,8 @@
         "extra": ""
       },
       "tags": [
-        "AI/ML"
+        "AI/ML",
+        "Developer"
       ]
     },
     {

@@ -10730,5 +10730,9 @@
   "Waggle": {
     "en_name": "Waggle",
     "en_description": "AI Agent governs the runtime and control plane, with the project as the execution boundary, providing permission control, tool enforcement, confirmation process, running events and audit evidence; supports CLI, HTTP and TypeScript SDK, and requires self-hosted deployment"
+  },
+  "PythonIDE": {
+    "en_name": "PythonIDE",
+    "en_description": "The native Python 3.14.6 development workbench for iPhone and iPad can run scientific calculations and notebooks locally, and use AI Agent to modify, run and verify projects; it can also use Python to build MiniApp native interfaces, widgets and automation, with built-in SSH, Git and iOS system capabilities"
   }
 }
