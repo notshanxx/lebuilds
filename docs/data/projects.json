@@ -1,18 +1,38 @@
 {
-  "generatedAt": "2026-07-29T13:56:23.773Z",
-  "totalProjects": 2755,
+  "generatedAt": "2026-07-29T19:05:21.990Z",
+  "totalProjects": 2756,
   "stats": {
-    "live": 2308,
+    "live": 2309,
     "dev": 33,
     "closed": 414
   },
   "boards": {
     "main": 1855,
-    "programmer": 287,
+    "programmer": 288,
     "game": 115,
     "archive": 498
   },
   "projects": [
+    {
+      "name": "Public Trend Signal MVP",
+      "url": "https://github.com/stomeonst/public-trend-signal-mvp",
+      "description": "把授权导出的 JSONL 趋势记录标准化、去重、确定性评分并拆分人工复核队列，导出飞书或 Notion 可导入的 CSV 和带哈希的运行回执；使用虚构样例，不抓取社交平台",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "programmer",
+      "date": "2026-07-30",
+      "author": {
+        "name": "Gang Qu",
+        "city": "",
+        "github": "https://github.com/stomeonst",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "Productivity"
+      ]
+    },
     {
       "name": "网页视频港 WebVideoHarbor",
       "url": "https://phpfrank.github.io/web-video-harbor/",

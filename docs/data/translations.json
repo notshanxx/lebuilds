@@ -10750,5 +10750,9 @@
   "FLUX 3 Video Generator": {
     "en_name": "FLUX 3 Video Generator",
     "en_description": "AI video generation workbench supports the generation of videos, reference pictures, shots, actions and sound prompts from text or pictures, and clearly marks the model's available status."
+  },
+  "Public Trend Signal MVP": {
+    "en_name": "Public Trend Signal MVP",
+    "en_description": "Standardize, deduplicate, deterministically score and split the manual review queue for authorized exported JSONL trend records, export CSV and hashed running receipts that can be imported by Feishu or Notion; use fictitious samples and do not crawl social platforms"
   }
 }
