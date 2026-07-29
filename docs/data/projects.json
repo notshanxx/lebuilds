@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-07-29T08:30:13.076Z",
-  "totalProjects": 2752,
+  "generatedAt": "2026-07-29T13:56:23.773Z",
+  "totalProjects": 2755,
   "stats": {
-    "live": 2305,
+    "live": 2308,
     "dev": 33,
     "closed": 414
   },
   "boards": {
-    "main": 1853,
+    "main": 1855,
     "programmer": 287,
-    "game": 114,
+    "game": 115,
     "archive": 498
   },
   "projects": [
@@ -119,6 +119,26 @@
         "AI/ML",
         "Developer",
         "Productivity"
+      ]
+    },
+    {
+      "name": "小游戏大集合",
+      "url": "https://happy-games.pages.dev/",
+      "description": "基于 Vibe Coding 的小游戏大合集，含推理游戏、Alpha-Beta 棋类游戏等四大主题，3 分钟一局，随手把玩",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "game",
+      "date": "2026-07-29",
+      "author": {
+        "name": "zhoujungis",
+        "city": "",
+        "github": "https://github.com/zhoujungis",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "Game"
       ]
     },
     {
@@ -1186,6 +1206,48 @@
       "name": "Seedream 5.0 Pro",
       "url": "https://seedream5-pro.im",
       "description": "多模型 AI 图片工作台，支持文字生图、图片生图、复杂布局与多语言文字编辑",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "main",
+      "date": "2026-07-21",
+      "author": {
+        "name": "weidacn",
+        "city": "",
+        "github": "https://github.com/weidacn",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "AI/ML",
+        "Media"
+      ]
+    },
+    {
+      "name": "FLUX 3 AI Image Generator",
+      "url": "https://www-flux3.com",
+      "description": "多模型 AI 图片生成与编辑工作台，支持文字生图、参考图编辑、宽高比与多语言文字控制，并清晰标注模型可用状态",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "main",
+      "date": "2026-07-21",
+      "author": {
+        "name": "weidacn",
+        "city": "",
+        "github": "https://github.com/weidacn",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "AI/ML",
+        "Media"
+      ]
+    },
+    {
+      "name": "FLUX 3 Video Generator",
+      "url": "https://flux3-video.online",
+      "description": "AI 视频生成工作台，支持文字或图片生成视频、参考图及镜头、动作和声音提示，并清晰标注模型可用状态",
       "status": "live",
       "moreInfoUrl": "",
       "moreInfoLabel": "",

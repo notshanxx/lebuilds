@@ -10738,5 +10738,17 @@
   "网页视频港 WebVideoHarbor": {
     "en_name": "WebVideoHarbor WebVideoHarbor",
     "en_description": "Free and open source web media saving tool for macOS, which recognizes MP4, WebM and non-encrypted HLS/M3U8 through Chrome extension, and downloads it through the local assistant"
+  },
+  "小游戏大集合": {
+    "en_name": "Large collection of mini games",
+    "en_description": "A large collection of mini games based on Vibe Coding, including reasoning games, Alpha-Beta board games and other four major themes. Each game takes 3 minutes to play."
+  },
+  "FLUX 3 AI Image Generator": {
+    "en_name": "FLUX 3 AI Image Generator",
+    "en_description": "Multi-model AI image generation and editing workbench, supports text generation, reference image editing, aspect ratio and multi-language text control, and clearly marks model availability status"
+  },
+  "FLUX 3 Video Generator": {
+    "en_name": "FLUX 3 Video Generator",
+    "en_description": "AI video generation workbench supports the generation of videos, reference pictures, shots, actions and sound prompts from text or pictures, and clearly marks the model's available status."
   }
 }
