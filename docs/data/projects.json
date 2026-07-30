@@ -1,18 +1,100 @@
 {
-  "generatedAt": "2026-07-30T01:53:41.487Z",
-  "totalProjects": 2757,
+  "generatedAt": "2026-07-30T08:14:32.084Z",
+  "totalProjects": 2760,
   "stats": {
-    "live": 2310,
+    "live": 2313,
     "dev": 33,
     "closed": 414
   },
   "boards": {
-    "main": 1856,
-    "programmer": 288,
+    "main": 1860,
+    "programmer": 287,
     "game": 115,
     "archive": 498
   },
   "projects": [
+    {
+      "name": "Birth",
+      "url": "https://github.com/iAmCorey/birth",
+      "description": "管理 Mac 启动项，显示每个自启项的开发者签名身份、标红伪装系统项，支持一键启停与安全删除 — 免费开源 macOS App",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "main",
+      "date": "2026-07-30",
+      "author": {
+        "name": "iAmCorey",
+        "city": "",
+        "github": "https://github.com/iAmCorey",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "name": "Create PDF from Sheet",
+      "url": "https://createpdffromsheet.com/",
+      "description": "在线将 Excel 转为 PDF，可在浏览器中预览分页、合并多个工作簿，文件不上传数据库、无需注册、无水印",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "main",
+      "date": "2026-07-30",
+      "author": {
+        "name": "jankarong",
+        "city": "",
+        "github": "",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "Web"
+      ]
+    },
+    {
+      "name": "EgressGuard",
+      "url": "https://github.com/Hipepper/EgressGuard",
+      "description": "持续监控 Mac 出口 IP 和国家/地区，一旦不符合可信规则就自动关闭 ChatGPT、Claude 等应用，避免账号被封",
+      "status": "live",
+      "moreInfoUrl": "https://github.com/Hipepper/EgressGuard/releases/tag/v1.0.0",
+      "moreInfoLabel": "下载",
+      "board": "main",
+      "date": "2026-07-30",
+      "author": {
+        "name": "Hipepper",
+        "city": "",
+        "github": "https://github.com/Hipepper",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "AI/ML"
+      ]
+    },
+    {
+      "name": "PythonIDE",
+      "url": "https://apps.apple.com/app/id6753987304",
+      "description": "面向 iPhone 和 iPad 的原生 Python 3.14.6 开发工作台，可本地运行科学计算与 Notebook，并用 AI Agent 修改、运行和验证项目；还能用 Python 构建 MiniApp 原生界面、Widget 与自动化，内置 SSH、Git 和 iOS 系统能力",
+      "status": "live",
+      "moreInfoUrl": "https://github.com/Python-IDE/PythonIDE-iOS",
+      "moreInfoLabel": "更多介绍",
+      "board": "main",
+      "date": "2026-07-30",
+      "author": {
+        "name": "张文禄",
+        "city": "",
+        "github": "https://github.com/Python-IDE",
+        "blog": "",
+        "extra": "[官网](https://pythonide.xin/) "
+      },
+      "tags": [
+        "AI/ML",
+        "Developer",
+        "Mobile"
+      ]
+    },
     {
       "name": "Codia",
       "url": "https://codia.i5lin.top/",
@@ -75,28 +157,6 @@
         "Media",
         "Web",
         "Finance"
-      ]
-    },
-    {
-      "name": "PythonIDE",
-      "url": "https://apps.apple.com/app/id6753987304",
-      "description": "面向 iPhone 和 iPad 的原生 Python 3.14.6 开发工作台，可本地运行科学计算与 Notebook，并用 AI Agent 修改、运行和验证项目；还能用 Python 构建 MiniApp 原生界面、Widget 与自动化，内置 SSH、Git 和 iOS 系统能力",
-      "status": "live",
-      "moreInfoUrl": "https://github.com/Python-IDE/PythonIDE-iOS",
-      "moreInfoLabel": "更多介绍",
-      "board": "programmer",
-      "date": "2026-07-29",
-      "author": {
-        "name": "张文禄",
-        "city": "",
-        "github": "https://github.com/Python-IDE",
-        "blog": "",
-        "extra": "[官网](https://pythonide.xin/) "
-      },
-      "tags": [
-        "AI/ML",
-        "Developer",
-        "Mobile"
       ]
     },
     {

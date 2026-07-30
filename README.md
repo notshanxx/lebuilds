@@ -26,6 +26,18 @@
 
 ### 2026 年 7 月 30 号添加
 
+#### iAmCorey - [Github](https://github.com/iAmCorey)
+* :white_check_mark: [Birth](https://github.com/iAmCorey/birth)：管理 Mac 启动项，显示每个自启项的开发者签名身份、标红伪装系统项，支持一键启停与安全删除 — 免费开源 macOS App
+
+#### jankarong
+* :white_check_mark: [Create PDF from Sheet](https://createpdffromsheet.com/)：在线将 Excel 转为 PDF，可在浏览器中预览分页、合并多个工作簿，文件不上传数据库、无需注册、无水印
+
+#### Hipepper - [Github](https://github.com/Hipepper)
+* :white_check_mark: [EgressGuard](https://github.com/Hipepper/EgressGuard)：持续监控 Mac 出口 IP 和国家/地区，一旦不符合可信规则就自动关闭 ChatGPT、Claude 等应用，避免账号被封 - [下载](https://github.com/Hipepper/EgressGuard/releases/tag/v1.0.0)
+
+#### 张文禄 - [GitHub](https://github.com/Python-IDE), [官网](https://pythonide.xin/)
+* :white_check_mark: [PythonIDE](https://apps.apple.com/app/id6753987304)：面向 iPhone 和 iPad 的原生 Python 3.14.6 开发工作台，可本地运行科学计算与 Notebook，并用 AI Agent 修改、运行和验证项目；还能用 Python 构建 MiniApp 原生界面、Widget 与自动化，内置 SSH、Git 和 iOS 系统能力 - [更多介绍](https://github.com/Python-IDE/PythonIDE-iOS)
+
 #### AaronConlon - [Github](https://github.com/AaronConlon)
 * :white_check_mark: [Codia](https://codia.i5lin.top/)：为文档、博客、社交分享和自动化场景生成精美的代码图片，提供 Playground 与渲染 API
 

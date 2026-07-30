@@ -10758,5 +10758,17 @@
   "Codia": {
     "en_name": "Codia",
     "en_description": "Generate beautiful code images for documents, blogs, social sharing and automation scenarios, providing playground and rendering API"
+  },
+  "Birth": {
+    "en_name": "Birth",
+    "en_description": "Manage Mac startup items, display the developer signature identity of each self-starting item, camouflage system items marked in red, support one-click start, stop and safe deletion - Free and open source macOS App"
+  },
+  "Create PDF from Sheet": {
+    "en_name": "Create PDF from Sheet",
+    "en_description": "Convert Excel to PDF online. You can preview pagination and merge multiple workbooks in the browser. No files are uploaded to the database, no registration is required, and no watermarks are required."
+  },
+  "EgressGuard": {
+    "en_name": "EgressGuard",
+    "en_description": "Continuously monitor the Mac export IP and country/region, and automatically close applications such as ChatGPT and Claude once they do not meet the trust rules to avoid account bans"
   }
 }
