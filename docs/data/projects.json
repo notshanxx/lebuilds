@@ -1,18 +1,40 @@
 {
-  "generatedAt": "2026-07-30T13:45:51.526Z",
-  "totalProjects": 2766,
+  "generatedAt": "2026-07-30T19:16:58.431Z",
+  "totalProjects": 2767,
   "stats": {
-    "live": 2319,
+    "live": 2320,
     "dev": 33,
     "closed": 414
   },
   "boards": {
-    "main": 1866,
+    "main": 1867,
     "programmer": 287,
     "game": 115,
     "archive": 498
   },
   "projects": [
+    {
+      "name": "CrossGen",
+      "url": "https://www.corgnitor.com/products/crossgen",
+      "description": "本地优先的跨平台 AI 图片工作台，一处完成生图、编辑、整理与复用；安装后还可通过 JSON CLI 和 MCP 让 Codex、Claude Code、Cursor 等 Agent 调用同一套工作流",
+      "status": "live",
+      "moreInfoUrl": "https://github.com/Bliveren/CrossGen",
+      "moreInfoLabel": "源码",
+      "board": "main",
+      "date": "2026-07-30",
+      "author": {
+        "name": "Alive",
+        "city": "",
+        "github": "https://github.com/Bliveren",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "AI/ML",
+        "Developer",
+        "Media"
+      ]
+    },
     {
       "name": "童伴绘本",
       "url": "https://xingye.site",
@@ -75,7 +97,8 @@
       "tags": [
         "AI/ML",
         "Productivity",
-        "Media"
+        "Media",
+        "Mobile"
       ]
     },
     {
@@ -139,6 +162,7 @@
       },
       "tags": [
         "Productivity",
+        "Media",
         "Web"
       ]
     },

@@ -10794,5 +10794,9 @@
   "紫微玄鉴": {
     "en_name": "Ziweixuanjian",
     "en_description": "The online Ziwei Dou Shu ranking tool supports Ziwei ranking, combined chart, and fortune analysis for large-scale current years. It can be used immediately without registration - free of charge"
+  },
+  "CrossGen": {
+    "en_name": "CrossGen",
+    "en_description": "A local-first cross-platform AI image workbench that can complete image generation, editing, organization and reuse in one place; after installation, you can also use JSON CLI and MCP to allow Codex, Claude Code, Cursor and other agents to call the same workflow"
   }
 }
