@@ -1,18 +1,147 @@
 {
-  "generatedAt": "2026-07-30T08:14:32.084Z",
-  "totalProjects": 2760,
+  "generatedAt": "2026-07-30T13:45:51.526Z",
+  "totalProjects": 2766,
   "stats": {
-    "live": 2313,
+    "live": 2319,
     "dev": 33,
     "closed": 414
   },
   "boards": {
-    "main": 1860,
+    "main": 1866,
     "programmer": 287,
     "game": 115,
     "archive": 498
   },
   "projects": [
+    {
+      "name": "童伴绘本",
+      "url": "https://xingye.site",
+      "description": "AI 定制亲子绘本平台，从家庭故事生成适龄脚本、统一角色插画、配音、互动阅读、PDF 和视频；可在线阅读已完成作品，专属生成采用邀请制",
+      "status": "live",
+      "moreInfoUrl": "https://github.com/AAAAaron/tongban-picture-book",
+      "moreInfoLabel": "更多介绍",
+      "board": "main",
+      "date": "2026-07-30",
+      "author": {
+        "name": "Aaron",
+        "city": "",
+        "github": "https://github.com/AAAAaron",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "AI/ML",
+        "Media",
+        "Web"
+      ]
+    },
+    {
+      "name": "Agent4API",
+      "url": "https://agent4api.ecrfs.com/admin",
+      "description": "导入 Swagger 2.0 或 OpenAPI 3.x 文档，一键理解接口业务能力并生成 Tools、Skills 和 Agents；通过 MCP、OpenAI/Anthropic 兼容 API、内置 Chat 与嵌入式 Chat 对外提供服务，支持 Docker Compose 自托管部署",
+      "status": "live",
+      "moreInfoUrl": "https://github.com/apoet/Agent4API",
+      "moreInfoLabel": "源码",
+      "board": "main",
+      "date": "2026-07-30",
+      "author": {
+        "name": "apoet",
+        "city": "",
+        "github": "https://github.com/apoet",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "AI/ML",
+        "Developer"
+      ]
+    },
+    {
+      "name": "GoBoardcast",
+      "url": "https://goboardcast.com",
+      "description": "AI 白板讲解视频工具，把任意主题生成可编辑白板，并录制摄像头、麦克风、光标讲解后导出 MP4",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "main",
+      "date": "2026-07-30",
+      "author": {
+        "name": "K",
+        "city": "",
+        "github": "",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "AI/ML",
+        "Productivity",
+        "Media"
+      ]
+    },
+    {
+      "name": "SummaGraph",
+      "url": "https://www.summagraph.com/",
+      "description": "AI 信息图生成工具，粘贴任意形式的文本即可一键生成高质量信息图，内置 20 种视觉风格 × 20 种布局模板，支持系列模式一次生成多页风格连续的信息图，覆盖中英日韩等 9 种语言",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "main",
+      "date": "2026-07-30",
+      "author": {
+        "name": "howardz27",
+        "city": "",
+        "github": "https://github.com/howardz27",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "AI/ML",
+        "Productivity",
+        "Design"
+      ]
+    },
+    {
+      "name": "HALO 音乐广场",
+      "url": "https://halo-music.pages.dev/",
+      "description": "多平台音乐搜索与播放，支持收藏和自建歌单，适配桌面和移动端 — 免费",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "main",
+      "date": "2026-07-30",
+      "author": {
+        "name": "zhoujungis",
+        "city": "",
+        "github": "https://github.com/zhoujungis",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "Media",
+        "Mobile"
+      ]
+    },
+    {
+      "name": "紫微玄鉴",
+      "url": "https://ziweixuanjian.com",
+      "description": "在线紫微斗数排盘工具，支持紫微排盘、合盘、大限流年运势分析，无需注册即开即用 — 免费",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "main",
+      "date": "2026-07-30",
+      "author": {
+        "name": "Alice",
+        "city": "",
+        "github": "https://github.com/zengqingqing-cyber",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "Productivity",
+        "Web"
+      ]
+    },
     {
       "name": "Birth",
       "url": "https://github.com/iAmCorey/birth",

@@ -10770,5 +10770,29 @@
   "EgressGuard": {
     "en_name": "EgressGuard",
     "en_description": "Continuously monitor the Mac export IP and country/region, and automatically close applications such as ChatGPT and Claude once they do not meet the trust rules to avoid account bans"
+  },
+  "童伴绘本": {
+    "en_name": "Children's companion picture book",
+    "en_description": "AI customized parent-child picture book platform, which generates age-appropriate scripts, unified character illustrations, dubbing, interactive reading, PDF and videos from family stories; completed works can be read online, and exclusive generation is by invitation only"
+  },
+  "Agent4API": {
+    "en_name": "Agent4API",
+    "en_description": "Import Swagger 2.0 or OpenAPI 3.x documents, understand interface business capabilities and generate Tools, Skills and Agents with one click; provide external services through MCP, OpenAI/Anthropic compatible API, built-in Chat and embedded Chat, and support Docker Compose self-hosted deployment"
+  },
+  "GoBoardcast": {
+    "en_name": "GoBoardcast",
+    "en_description": "AI whiteboard explanation video tool, generate an editable whiteboard on any topic, record the explanation with camera, microphone, and cursor and then export it to MP4"
+  },
+  "SummaGraph": {
+    "en_name": "SummaGraph",
+    "en_description": "AI infographic generation tool, you can paste any form of text to generate high-quality infographics with one click. It has 20 built-in visual styles × 20 layout templates. It supports series mode to generate multi-page continuous infographics at one time, covering 9 languages ​​including Chinese, English, Japanese and Korean."
+  },
+  "HALO 音乐广场": {
+    "en_name": "HALO Music Plaza",
+    "en_description": "Multi-platform music search and playback, supports collection and self-created playlists, adapts to desktop and mobile terminals - free"
+  },
+  "紫微玄鉴": {
+    "en_name": "Ziweixuanjian",
+    "en_description": "The online Ziwei Dou Shu ranking tool supports Ziwei ranking, combined chart, and fortune analysis for large-scale current years. It can be used immediately without registration - free of charge"
   }
 }
