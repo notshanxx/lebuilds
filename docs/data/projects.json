@@ -1,18 +1,39 @@
 {
-  "generatedAt": "2026-07-29T19:05:21.990Z",
-  "totalProjects": 2756,
+  "generatedAt": "2026-07-30T01:53:41.487Z",
+  "totalProjects": 2757,
   "stats": {
-    "live": 2309,
+    "live": 2310,
     "dev": 33,
     "closed": 414
   },
   "boards": {
-    "main": 1855,
+    "main": 1856,
     "programmer": 288,
     "game": 115,
     "archive": 498
   },
   "projects": [
+    {
+      "name": "Codia",
+      "url": "https://codia.i5lin.top/",
+      "description": "为文档、博客、社交分享和自动化场景生成精美的代码图片，提供 Playground 与渲染 API",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "main",
+      "date": "2026-07-30",
+      "author": {
+        "name": "AaronConlon",
+        "city": "",
+        "github": "https://github.com/AaronConlon",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "Developer",
+        "Media"
+      ]
+    },
     {
       "name": "Public Trend Signal MVP",
       "url": "https://github.com/stomeonst/public-trend-signal-mvp",

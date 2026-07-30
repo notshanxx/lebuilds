@@ -10754,5 +10754,9 @@
   "Public Trend Signal MVP": {
     "en_name": "Public Trend Signal MVP",
     "en_description": "Standardize, deduplicate, deterministically score and split the manual review queue for authorized exported JSONL trend records, export CSV and hashed running receipts that can be imported by Feishu or Notion; use fictitious samples and do not crawl social platforms"
+  },
+  "Codia": {
+    "en_name": "Codia",
+    "en_description": "Generate beautiful code images for documents, blogs, social sharing and automation scenarios, providing playground and rendering API"
   }
 }
