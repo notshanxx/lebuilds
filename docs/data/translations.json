@@ -10806,5 +10806,17 @@
   "LaunchClear": {
     "en_name": "LaunchClear",
     "en_description": "Release acceptance and data quality inspection service station for small teams, providing AI workflow acceptance, Chinese, English and Japanese output and localization quality inspection, Excel and inventory data reliability sprint, public fixed scope, price and deliverables"
+  },
+  "Monitrun": {
+    "en_name": "Monitrun",
+    "en_description": "Monitor website SSL status through distributed nodes and push iOS reminders in real time — iOS App"
+  },
+  "墨声 InkVoice": {
+    "en_name": "InkVoice",
+    "en_description": "Convert novels to audiobooks, automatically identify characters and match different timbres for each character, synthesize the entire audiobook segment by segment, and clone your own voice. Free trial available"
+  },
+  "Minecraft Pixel Art Generator": {
+    "en_name": "Minecraft Pixel Art Generator",
+    "en_description": "Convert images to Minecraft style pixel art, supports exporting to PNG, BOM, .schematic and .litematica"
   }
 }
