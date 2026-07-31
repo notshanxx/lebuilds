@@ -1,18 +1,60 @@
 {
-  "generatedAt": "2026-07-31T08:41:04.931Z",
-  "totalProjects": 2767,
+  "generatedAt": "2026-07-31T13:50:36.308Z",
+  "totalProjects": 2769,
   "stats": {
-    "live": 2320,
+    "live": 2322,
     "dev": 33,
     "closed": 414
   },
   "boards": {
-    "main": 1867,
+    "main": 1869,
     "programmer": 287,
     "game": 115,
     "archive": 498
   },
   "projects": [
+    {
+      "name": "Krea2 Edit",
+      "url": "https://krea2edit.app/",
+      "description": "在浏览器中进行 AI 图片编辑，保留人物面部特征",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "main",
+      "date": "2026-07-31",
+      "author": {
+        "name": "CoderLim",
+        "city": "北京",
+        "github": "https://github.com/CoderLim",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "AI/ML",
+        "Media",
+        "Web"
+      ]
+    },
+    {
+      "name": "LaunchClear",
+      "url": "https://chris-saas-services.stomeonst123.chatgpt.site/zh",
+      "description": "面向小团队的发布验收与数据质检服务站，提供 AI 工作流验收、中英日输出与本地化质检、Excel 与库存数据可靠性冲刺，公开固定范围、价格和交付物",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "main",
+      "date": "2026-07-31",
+      "author": {
+        "name": "Gang Qu",
+        "city": "",
+        "github": "https://github.com/stomeonst",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "AI/ML"
+      ]
+    },
     {
       "name": "CrossGen",
       "url": "https://www.corgnitor.com/products/crossgen",

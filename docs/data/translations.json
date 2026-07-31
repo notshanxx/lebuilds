@@ -10798,5 +10798,13 @@
   "CrossGen": {
     "en_name": "CrossGen",
     "en_description": "A local-first cross-platform AI image workbench that can complete image generation, editing, organization and reuse in one place; after installation, you can also use JSON CLI and MCP to allow Codex, Claude Code, Cursor and other agents to call the same workflow"
+  },
+  "Krea2 Edit": {
+    "en_name": "Krea2 Edit",
+    "en_description": "AI image editing in the browser, preserving facial features"
+  },
+  "LaunchClear": {
+    "en_name": "LaunchClear",
+    "en_description": "Release acceptance and data quality inspection service station for small teams, providing AI workflow acceptance, Chinese, English and Japanese output and localization quality inspection, Excel and inventory data reliability sprint, public fixed scope, price and deliverables"
   }
 }
