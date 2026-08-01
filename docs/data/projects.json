@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-08-01T08:11:09.463Z",
-  "totalProjects": 2773,
+  "generatedAt": "2026-08-01T13:06:26.117Z",
+  "totalProjects": 2774,
   "stats": {
-    "live": 2326,
+    "live": 2327,
     "dev": 33,
     "closed": 414
   },
   "boards": {
     "main": 1872,
-    "programmer": 287,
+    "programmer": 288,
     "game": 116,
     "archive": 498
   },
@@ -73,6 +73,26 @@
       },
       "tags": [
         "Media"
+      ]
+    },
+    {
+      "name": "TQSync",
+      "url": "https://github.com/XSong1205/TQSync",
+      "description": "Telegram 与 QQ 群组双向消息同步机器人",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "programmer",
+      "date": "2026-08-01",
+      "author": {
+        "name": "XSong1205",
+        "city": "沈阳",
+        "github": "https://github.com/XSong1205",
+        "blog": "",
+        "extra": "[Bilibili](https://space.bilibili.com/68624054) "
+      },
+      "tags": [
+        "Other"
       ]
     },
     {

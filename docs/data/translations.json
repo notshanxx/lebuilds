@@ -10822,5 +10822,9 @@
   "CJK SaaS Localization QA Pack": {
     "en_name": "CJK SaaS Localization QA Pack",
     "en_description": "Sino-Japanese SaaS localization quality inspection template package, providing glossary, interface checklist, defect record and release acceptance list in simplified Chinese and Japanese. Samples can be viewed online and editable files can be purchased."
+  },
+  "TQSync": {
+    "en_name": "TQSync",
+    "en_description": "Telegram and QQ group two-way message synchronization robot"
   }
 }
