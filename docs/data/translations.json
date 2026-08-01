@@ -10818,5 +10818,9 @@
   "Minecraft Pixel Art Generator": {
     "en_name": "Minecraft Pixel Art Generator",
     "en_description": "Convert images to Minecraft style pixel art, supports exporting to PNG, BOM, .schematic and .litematica"
+  },
+  "CJK SaaS Localization QA Pack": {
+    "en_name": "CJK SaaS Localization QA Pack",
+    "en_description": "Sino-Japanese SaaS localization quality inspection template package, providing glossary, interface checklist, defect record and release acceptance list in simplified Chinese and Japanese. Samples can be viewed online and editable files can be purchased."
   }
 }

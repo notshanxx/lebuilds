@@ -1,18 +1,39 @@
 {
-  "generatedAt": "2026-08-01T02:14:01.747Z",
-  "totalProjects": 2772,
+  "generatedAt": "2026-08-01T08:11:09.463Z",
+  "totalProjects": 2773,
   "stats": {
-    "live": 2325,
+    "live": 2326,
     "dev": 33,
     "closed": 414
   },
   "boards": {
-    "main": 1871,
+    "main": 1872,
     "programmer": 287,
     "game": 116,
     "archive": 498
   },
   "projects": [
+    {
+      "name": "CJK SaaS Localization QA Pack",
+      "url": "https://stomeonst.github.io/cjk-saas-localization-qa-pack-preview/",
+      "description": "中日 SaaS 本地化质检模板包，提供简体中文与日语的术语表、界面检查表、缺陷记录和发布验收清单，可在线查看样例并购买可编辑文件",
+      "status": "live",
+      "moreInfoUrl": "https://github.com/stomeonst/cjk-saas-localization-qa-pack-preview",
+      "moreInfoLabel": "查看仓库",
+      "board": "main",
+      "date": "2026-08-01",
+      "author": {
+        "name": "Chris",
+        "city": "",
+        "github": "https://github.com/stomeonst",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "Web",
+        "Design"
+      ]
+    },
     {
       "name": "Monitrun",
       "url": "https://monit.run/",
