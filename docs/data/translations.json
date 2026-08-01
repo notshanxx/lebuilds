@@ -10826,5 +10826,25 @@
   "TQSync": {
     "en_name": "TQSync",
     "en_description": "Telegram and QQ group two-way message synchronization robot"
+  },
+  "NanoGPT": {
+    "en_name": "NanoGPT",
+    "en_description": "Modify pictures through natural language prompts, support background replacement, modify clothing and objects, adjust color and style, and also include picture enhancement, old photo repair and background removal - browser plug-in and web version"
+  },
+  "kavel": {
+    "en_name": "kavel",
+    "en_description": "AI picture and video generation tool, supports pictures and videos of a variety of interesting scenes — free"
+  },
+  "反应测试": {
+    "en_name": "reaction test",
+    "en_description": "Online tests focusing on reaction speed, memory and concentration, including reaction time, aim training, sequence memory, numeric memory, multi-target tracking and Stroop tests - free"
+  },
+  "BaZi Calculator": {
+    "en_name": "BaZi Calculator",
+    "en_description": "Free online horoscope tool. Enter the date of birth, time and city to view the four pillars, sun master, five elements, ten gods and great luck. No registration is required. If the birth time is unknown, the three-pillar horoscope is provided and there is no need to guess the time pillar."
+  },
+  "Nocturn": {
+    "en_name": "Nocturn",
+    "en_description": "Third-party NetEase Cloud Music client, based on miuix component library (under development)"
   }
 }
