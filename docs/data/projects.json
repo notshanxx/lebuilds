@@ -1,18 +1,59 @@
 {
-  "generatedAt": "2026-08-02T02:11:10.758Z",
-  "totalProjects": 2779,
+  "generatedAt": "2026-08-02T08:12:50.909Z",
+  "totalProjects": 2781,
   "stats": {
-    "live": 2331,
+    "live": 2333,
     "dev": 34,
     "closed": 414
   },
   "boards": {
     "main": 1876,
-    "programmer": 289,
-    "game": 116,
+    "programmer": 290,
+    "game": 117,
     "archive": 498
   },
   "projects": [
+    {
+      "name": "Berth",
+      "url": "https://github.com/WtecHtec/berth",
+      "description": "macOS 轻量终端工作台，在同一窗口中管理多根目录、文件、Git 变更和多个终端",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "programmer",
+      "date": "2026-08-02",
+      "author": {
+        "name": "WtecHtec",
+        "city": "深圳",
+        "github": "https://github.com/WtecHtec",
+        "blog": "https://iam.xujingyichang.top/",
+        "extra": ""
+      },
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "name": "Palworldtoolbox",
+      "url": "https://www.palworldtoolbox.com/",
+      "description": "Palworld 游戏攻略网站",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "game",
+      "date": "2026-08-02",
+      "author": {
+        "name": "fastend",
+        "city": "济南",
+        "github": "https://github.com/fastend",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "Game",
+        "Web"
+      ]
+    },
     {
       "name": "NanoGPT",
       "url": "https://nanogpt.net/",

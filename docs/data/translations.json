@@ -10846,5 +10846,13 @@
   "Nocturn": {
     "en_name": "Nocturn",
     "en_description": "Third-party NetEase Cloud Music client, based on miuix component library (under development)"
+  },
+  "Berth": {
+    "en_name": "Berth",
+    "en_description": "A lightweight terminal workbench for macOS that manages multiple root directories, files, Git changes, and multiple terminals in the same window"
+  },
+  "Palworldtoolbox": {
+    "en_name": "Palworldtoolbox",
+    "en_description": "Palworld game guide website"
   }
 }
