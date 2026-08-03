@@ -1,22 +1,42 @@
 {
-  "generatedAt": "2026-08-03T14:26:31.814Z",
-  "totalProjects": 2786,
+  "generatedAt": "2026-08-03T19:23:35.075Z",
+  "totalProjects": 2787,
   "stats": {
-    "live": 2338,
+    "live": 2339,
     "dev": 34,
     "closed": 414
   },
   "boards": {
-    "main": 1879,
+    "main": 1880,
     "programmer": 292,
     "game": 117,
     "archive": 498
   },
   "projects": [
     {
+      "name": "CPS Test",
+      "url": "https://cpstest.me/zh/",
+      "description": "鼠标点击速度测试网站，集成专注力训练、空格键连点训练和反应速度测试等多种玩法，打开网页即可选择测试项目",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "main",
+      "date": "2026-08-04",
+      "author": {
+        "name": "好心情营业",
+        "city": "",
+        "github": "https://github.com/masterliangpeng",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "Web"
+      ]
+    },
+    {
       "name": "Routewise-AI",
       "url": "https://routewise-ai.pages.dev/",
-      "description": "基于 GPT-5.6 大模型的旅行规划工具，免费",
+      "description": "旅行规划工具（免费），基于 GPT-5.6 大模型",
       "status": "live",
       "moreInfoUrl": "",
       "moreInfoLabel": "",
@@ -37,7 +57,7 @@
     {
       "name": "Zettaranc 知识库",
       "url": "https://zknowledge.site/",
-      "description": "踏踏实实，给你你也拿不住",
+      "description": "整理万千（Z哥）直播、课程与社群内容构建的 A 股交易知识图谱，收录战法策略、买卖信号、资金仓位等交易概念",
       "status": "live",
       "moreInfoUrl": "https://github.com/lululu811/zettaranc-skill/blob/main/README.md",
       "moreInfoLabel": "更多介绍",
@@ -51,6 +71,8 @@
         "extra": ""
       },
       "tags": [
+        "Productivity",
+        "Game",
         "Education"
       ]
     },
@@ -137,7 +159,7 @@
     {
       "name": "Palworldtoolbox",
       "url": "https://www.palworldtoolbox.com/",
-      "description": "Palworld 游戏攻略网站",
+      "description": "Palworld 帕鲁图鉴与配种组合查询，含可交互世界地图",
       "status": "live",
       "moreInfoUrl": "",
       "moreInfoLabel": "",
@@ -158,7 +180,7 @@
     {
       "name": "NanoGPT",
       "url": "https://nanogpt.net/",
-      "description": "通过自然语言提示词修改图片，支持替换背景、修改服装和物体、调整颜色和风格，另有图片增强、老照片修复和背景移除 — 浏览器插件及网页版",
+      "description": "用自然语言修改图片，支持替换背景、修改服装和物体、调整颜色和风格，另有图片增强、老照片修复和背景移除",
       "status": "live",
       "moreInfoUrl": "",
       "moreInfoLabel": "",
@@ -202,7 +224,7 @@
     {
       "name": "反应测试",
       "url": "https://picktests.com/zh/",
-      "description": "专注于反应速度、记忆力与专注力的在线测试，提供反应时间、瞄准训练、序列记忆、数字记忆、多目标追踪和斯特鲁普等测试 — 免费",
+      "description": "专注于反应速度、记忆力与专注力的测试，提供反应时间、瞄准训练、序列记忆、数字记忆、多目标追踪和斯特鲁普等测试 — 免费",
       "status": "live",
       "moreInfoUrl": "",
       "moreInfoLabel": "",
@@ -222,7 +244,7 @@
     {
       "name": "BaZi Calculator",
       "url": "https://bazicalculators.com/",
-      "description": "免费在线八字排盘工具，输入出生日期、时间和城市即可查看四柱、日主、五行、十神与大运；无需注册，出生时间未知时提供三柱命盘，不猜测时柱",
+      "description": "免费八字排盘工具，输入出生日期、时间和城市即可查看四柱、日主、五行、十神与大运；无需注册，出生时间未知时提供三柱命盘，不猜测时柱",
       "status": "live",
       "moreInfoUrl": "",
       "moreInfoLabel": "",
@@ -264,7 +286,7 @@
     {
       "name": "Monitrun",
       "url": "https://monit.run/",
-      "description": "通过分布式节点监控网站 SSL 状态，实时推送 iOS 提醒 — iOS App",
+      "description": "监控网站 SSL 证书状态，通过分布式节点实时推送 iOS 提醒 — iOS App",
       "status": "live",
       "moreInfoUrl": "",
       "moreInfoLabel": "",
@@ -430,7 +452,7 @@
     {
       "name": "童伴绘本",
       "url": "https://xingye.site",
-      "description": "AI 定制亲子绘本平台，从家庭故事生成适龄脚本、统一角色插画、配音、互动阅读、PDF 和视频；可在线阅读已完成作品，专属生成采用邀请制",
+      "description": "AI 定制亲子绘本平台，从家庭故事生成适龄脚本、统一角色插画、配音、互动阅读、PDF 和视频；可阅读已完成作品，专属生成采用邀请制",
       "status": "live",
       "moreInfoUrl": "https://github.com/AAAAaron/tongban-picture-book",
       "moreInfoLabel": "更多介绍",
@@ -539,7 +561,7 @@
     {
       "name": "紫微玄鉴",
       "url": "https://ziweixuanjian.com",
-      "description": "在线紫微斗数排盘工具，支持紫微排盘、合盘、大限流年运势分析，无需注册即开即用 — 免费",
+      "description": "紫微斗数排盘工具，支持紫微排盘、合盘、大限流年运势分析，无需注册即开即用 — 免费",
       "status": "live",
       "moreInfoUrl": "",
       "moreInfoLabel": "",
@@ -581,7 +603,7 @@
     {
       "name": "Create PDF from Sheet",
       "url": "https://createpdffromsheet.com/",
-      "description": "在线将 Excel 转为 PDF，可在浏览器中预览分页、合并多个工作簿，文件不上传数据库、无需注册、无水印",
+      "description": "将 Excel 转为 PDF，可在浏览器中预览分页、合并多个工作簿，文件不上传数据库、无需注册、无水印",
       "status": "live",
       "moreInfoUrl": "",
       "moreInfoLabel": "",

@@ -10874,5 +10874,9 @@
   "Snake PC Info": {
     "en_name": "Snake PC Info",
     "en_description": "Open source Windows hardware detection tool, supports battery health detection and system log analysis, switches between Chinese and English, and comes with its own environment"
+  },
+  "CPS Test": {
+    "en_name": "CPS Test",
+    "en_description": "The mouse click speed test website integrates concentration training, space bar connecting dots training and reaction speed test and other gameplay methods. You can select test items by opening the web page."
   }
 }
