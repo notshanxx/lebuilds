@@ -1,18 +1,58 @@
 {
-  "generatedAt": "2026-08-03T02:13:13.308Z",
-  "totalProjects": 2781,
+  "generatedAt": "2026-08-03T09:32:57.500Z",
+  "totalProjects": 2783,
   "stats": {
-    "live": 2333,
+    "live": 2335,
     "dev": 34,
     "closed": 414
   },
   "boards": {
     "main": 1876,
-    "programmer": 290,
+    "programmer": 292,
     "game": 117,
     "archive": 498
   },
   "projects": [
+    {
+      "name": "百灵中枢 BailingHub",
+      "url": "https://www.bailinghub.com/",
+      "description": "给已有商城、CRM、ERP 等业务系统接入能够查询数据和办理业务的 AI 助手，通过能力白名单、人工审批、幂等和审计控制退款、库存、订单等真实操作；开源并支持 Docker 私有化部署",
+      "status": "live",
+      "moreInfoUrl": "https://github.com/bailinghub/bailinghub",
+      "moreInfoLabel": "源码",
+      "board": "programmer",
+      "date": "2026-08-03",
+      "author": {
+        "name": "敢敢是只喵i",
+        "city": "",
+        "github": "https://github.com/niejingchuan",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "AI/ML"
+      ]
+    },
+    {
+      "name": "InkTranslator.com",
+      "url": "https://inktranslator.com/",
+      "description": "免费翻译 API，50 字符内免费使用，支持 39 种语言，无需注册账号",
+      "status": "live",
+      "moreInfoUrl": "https://inktranslator.com/lang/zh",
+      "moreInfoLabel": "更多介绍",
+      "board": "programmer",
+      "date": "2026-08-03",
+      "author": {
+        "name": "ysykzheng",
+        "city": "武汉",
+        "github": "",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "Developer"
+      ]
+    },
     {
       "name": "Berth",
       "url": "https://github.com/WtecHtec/berth",

@@ -10854,5 +10854,13 @@
   "Palworldtoolbox": {
     "en_name": "Palworldtoolbox",
     "en_description": "Palworld game guide website"
+  },
+  "百灵中枢 BailingHub": {
+    "en_name": "Bailing Hub BailingHub",
+    "en_description": "Integrate existing shopping malls, CRM, ERP and other business systems with AI assistants that can query data and handle business, and control real operations such as refunds, inventory, orders, etc. through capability whitelisting, manual approval, idempotence and auditing; open source and support Docker privatized deployment"
+  },
+  "InkTranslator.com": {
+    "en_name": "InkTranslator.com",
+    "en_description": "Free translation API, free to use within 50 characters, supports 39 languages, no account registration required"
   }
 }
