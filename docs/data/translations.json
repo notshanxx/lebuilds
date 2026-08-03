@@ -10862,5 +10862,17 @@
   "InkTranslator.com": {
     "en_name": "InkTranslator.com",
     "en_description": "Free translation API, free to use within 50 characters, supports 39 languages, no account registration required"
+  },
+  "Routewise-AI": {
+    "en_name": "Routewise-AI",
+    "en_description": "A free travel planning tool based on the GPT-5.6 large model"
+  },
+  "Zettaranc 知识库": {
+    "en_name": "Zettaranc Knowledge Base",
+    "en_description": "Down to earth, even if I give it to you, you won’t be able to hold it."
+  },
+  "Snake PC Info": {
+    "en_name": "Snake PC Info",
+    "en_description": "Open source Windows hardware detection tool, supports battery health detection and system log analysis, switches between Chinese and English, and comes with its own environment"
   }
 }

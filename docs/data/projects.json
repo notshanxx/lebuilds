@@ -1,18 +1,79 @@
 {
-  "generatedAt": "2026-08-03T09:32:57.500Z",
-  "totalProjects": 2783,
+  "generatedAt": "2026-08-03T14:26:31.814Z",
+  "totalProjects": 2786,
   "stats": {
-    "live": 2335,
+    "live": 2338,
     "dev": 34,
     "closed": 414
   },
   "boards": {
-    "main": 1876,
+    "main": 1879,
     "programmer": 292,
     "game": 117,
     "archive": 498
   },
   "projects": [
+    {
+      "name": "Routewise-AI",
+      "url": "https://routewise-ai.pages.dev/",
+      "description": "基于 GPT-5.6 大模型的旅行规划工具，免费",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "main",
+      "date": "2026-08-03",
+      "author": {
+        "name": "zhoujungis",
+        "city": "",
+        "github": "https://github.com/zhoujungis",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "AI/ML",
+        "Productivity"
+      ]
+    },
+    {
+      "name": "Zettaranc 知识库",
+      "url": "https://zknowledge.site/",
+      "description": "踏踏实实，给你你也拿不住",
+      "status": "live",
+      "moreInfoUrl": "https://github.com/lululu811/zettaranc-skill/blob/main/README.md",
+      "moreInfoLabel": "更多介绍",
+      "board": "main",
+      "date": "2026-08-03",
+      "author": {
+        "name": "lululu811",
+        "city": "乌鲁木齐",
+        "github": "https://github.com/lululu811/zettaranc-skill",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "Education"
+      ]
+    },
+    {
+      "name": "Snake PC Info",
+      "url": "https://github.com/WindowSSnake/Snake-PC-Info",
+      "description": "开源的 Windows 硬件检测工具，支持电池健康度检测和系统日志分析，中英文切换，自带环境",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "main",
+      "date": "2026-08-03",
+      "author": {
+        "name": "WindowSSnake",
+        "city": "北京",
+        "github": "https://github.com/WindowSSnake",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "Productivity"
+      ]
+    },
     {
       "name": "百灵中枢 BailingHub",
       "url": "https://www.bailinghub.com/",
