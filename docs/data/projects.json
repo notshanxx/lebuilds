@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T13:57:14.271Z",
+  "generatedAt": "2026-08-04T19:23:25.695Z",
   "totalProjects": 2790,
   "stats": {
     "live": 2342,
@@ -53,6 +53,7 @@
         "extra": ""
       },
       "tags": [
+        "Game",
         "Media"
       ]
     },
