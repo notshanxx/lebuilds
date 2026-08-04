@@ -10878,5 +10878,17 @@
   "CPS Test": {
     "en_name": "CPS Test",
     "en_description": "The mouse click speed test website integrates concentration training, space bar connecting dots training and reaction speed test and other gameplay methods. You can select test items by opening the web page."
+  },
+  "AiXian": {
+    "en_name": "AiXian",
+    "en_description": "Online toolbox, which puts desktop-level tools into the browser, including 50+ tools such as PDF merging, picture background removal, AI ID photo, JSON formatting, OCR recognition, etc., all processed locally, and the files do not leave the device."
+  },
+  "Gesture Synth": {
+    "en_name": "Gesture Synth",
+    "en_description": "Capture gestures through the computer camera, convert the movements of your hands into music, and play with just your hands and camera"
+  },
+  "AgentPager": {
+    "en_name": "AgentPager",
+    "en_description": "Turn an idle Android phone into an AI Agent exclusive status terminal, synchronize the running status of Codex Desktop/CLI in real time through the LAN, and you can see what the Agent is doing, whether it is completed, and when it needs approval - open source, supports macOS and Windows"
   }
 }

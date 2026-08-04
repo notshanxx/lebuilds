@@ -1,18 +1,61 @@
 {
-  "generatedAt": "2026-08-04T08:28:15.297Z",
-  "totalProjects": 2787,
+  "generatedAt": "2026-08-04T13:57:14.271Z",
+  "totalProjects": 2790,
   "stats": {
-    "live": 2339,
+    "live": 2342,
     "dev": 34,
     "closed": 414
   },
   "boards": {
-    "main": 1880,
-    "programmer": 292,
+    "main": 1882,
+    "programmer": 293,
     "game": 117,
     "archive": 498
   },
   "projects": [
+    {
+      "name": "AiXian",
+      "url": "https://aixian.online",
+      "description": "在线工具箱，把桌面级工具装进浏览器，PDF 合并、图片去背景、AI 证件照、JSON 格式化、OCR 识别等 50+ 工具，全部本地处理，文件不出设备",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "main",
+      "date": "2026-08-04",
+      "author": {
+        "name": "gf1023456",
+        "city": "",
+        "github": "https://github.com/gf1023456",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "AI/ML",
+        "Productivity",
+        "Media",
+        "Web"
+      ]
+    },
+    {
+      "name": "Gesture Synth",
+      "url": "https://gesturesynth.art/",
+      "description": "通过电脑摄像头捕捉手势，将双手的动作转化为音乐，仅凭双手和摄像头就能演奏",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "main",
+      "date": "2026-08-04",
+      "author": {
+        "name": "Eric",
+        "city": "上海",
+        "github": "https://github.com/EricChenBuilds",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "Media"
+      ]
+    },
     {
       "name": "CPS Test",
       "url": "https://cpstest.me/zh/",
@@ -31,6 +74,28 @@
       },
       "tags": [
         "Web"
+      ]
+    },
+    {
+      "name": "AgentPager",
+      "url": "https://github.com/afetmin/AgentPager",
+      "description": "把闲置 Android 手机变成 AI Agent 专属状态终端，通过局域网实时同步 Codex Desktop/CLI 的运行状态，抬眼可见 Agent 在做什么、是否完成、何时需要批准 — 开源，支持 macOS 与 Windows",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "programmer",
+      "date": "2026-08-04",
+      "author": {
+        "name": "afetmin",
+        "city": "",
+        "github": "https://github.com/afetmin",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "AI/ML",
+        "Developer",
+        "Mobile"
       ]
     },
     {
