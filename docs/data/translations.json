@@ -10890,5 +10890,9 @@
   "AgentPager": {
     "en_name": "AgentPager",
     "en_description": "Turn an idle Android phone into an AI Agent exclusive status terminal, synchronize the running status of Codex Desktop/CLI in real time through the LAN, and you can see what the Agent is doing, whether it is completed, and when it needs approval - open source, supports macOS and Windows"
+  },
+  "VidLux AI": {
+    "en_name": "VidLux AI",
+    "en_description": "AI video generation and editing platform, supporting Wensheng video, Tusheng video, reference student video and video editing"
   }
 }

@@ -1,18 +1,39 @@
 {
-  "generatedAt": "2026-08-05T01:58:40.013Z",
-  "totalProjects": 2790,
+  "generatedAt": "2026-08-05T08:27:06.635Z",
+  "totalProjects": 2791,
   "stats": {
-    "live": 2342,
+    "live": 2343,
     "dev": 34,
     "closed": 414
   },
   "boards": {
-    "main": 1882,
+    "main": 1883,
     "programmer": 293,
     "game": 117,
     "archive": 498
   },
   "projects": [
+    {
+      "name": "VidLux AI",
+      "url": "https://vidlux.ai/",
+      "description": "AI 视频生成与编辑平台，支持文生视频、图生视频、参考生视频和视频编辑",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "main",
+      "date": "2026-08-05",
+      "author": {
+        "name": "蚊子",
+        "city": "",
+        "github": "https://github.com/coderWenzi",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "AI/ML",
+        "Media"
+      ]
+    },
     {
       "name": "AiXian",
       "url": "https://aixian.online",
