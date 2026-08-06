@@ -10894,5 +10894,37 @@
   "VidLux AI": {
     "en_name": "VidLux AI",
     "en_description": "AI video generation and editing platform, supporting Wensheng video, Tusheng video, reference student video and video editing"
+  },
+  "摸鱼日历": {
+    "en_name": "Fish Calendar",
+    "en_description": "A daily fishing calendar for workers, showing the number of days until Friday, rest day and next holiday, as well as the progress of this week, month and this year; there is also a countdown to get off work on Friday, fish bingo and lunch gashapon machine"
+  },
+  "Evenly": {
+    "en_name": "Evenly",
+    "en_description": "A shared accounting app for couples, roommates and multi-person trips, it supports member confirmation, automatic splitting of accounts and settlement suggestions, reducing manual calculations and repeated communication during joint consumption."
+  },
+  "分手冷静室": {
+    "en_name": "Breakup Cooling Room",
+    "en_description": "An AI emotion sorting tool in relationship conflicts, which analyzes the intensity of emotions before sending impulsive messages, and helps users clarify their true intentions through three reflection questions before deciding whether to send them."
+  },
+  "PixelListing": {
+    "en_name": "PixelListing",
+    "en_description": "AI product image generation tool for e-commerce sellers, helping sellers to quickly create product images that are more suitable for listing and marketing without the need for a studio, designer, or Photoshop process"
+  },
+  "Shotyard": {
+    "en_name": "Shotyard",
+    "en_description": "AI picture and video generation/editing platform, one-stop use of mainstream AI models, can output multiple pictures or videos at one time, and is friendly to secondary operations of generated results"
+  },
+  "Meet妙记": {
+    "en_name": "Meet Tips",
+    "en_description": "A portable AI voice assistant that can record meetings, inspirations, and to-dos, and record your every day; it focuses on voice recording in work/life/study/chat/inspiration and other scenarios. It supports real-time voice transcription, speaker differentiation, and AI intelligent summary generation with one click. Historical meetings can be reviewed by topic. It is available on iOS, Android, Mac, and Windows. The maximum single recording time is 4 hours. It has 19 built-in industry minutes templates."
+  },
+  "状态栏歌词": {
+    "en_name": "status bar lyrics",
+    "en_description": "Automatically reads the current song from Apple Music and displays synchronized lyrics. It supports lyrics offset adjustment, caching and switching of lyrics sources. All data is processed locally - an open source macOS menu bar tool."
+  },
+  "PigFetch": {
+    "en_name": "PigFetch",
+    "en_description": "Windows video link download tool. After pasting the sharing link, you can choose the available image quality to download to your computer. It is suitable for material retention and local organization. New users can register for 100 times, and members can download unlimitedly."
   }
 }
