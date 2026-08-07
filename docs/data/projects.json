@@ -1,18 +1,78 @@
 {
-  "generatedAt": "2026-08-07T12:50:40.236Z",
-  "totalProjects": 2803,
+  "generatedAt": "2026-08-07T18:46:19.853Z",
+  "totalProjects": 2806,
   "stats": {
-    "live": 2355,
+    "live": 2358,
     "dev": 34,
     "closed": 414
   },
   "boards": {
-    "main": 1893,
+    "main": 1895,
     "programmer": 295,
-    "game": 117,
+    "game": 118,
     "archive": 498
   },
   "projects": [
+    {
+      "name": "vPlayer HiFi App",
+      "url": "https://apps.apple.com/cn/app/vplayer-hifi/id6783141736",
+      "description": "HiFi 无损音乐播放器，支持 MP3、AIFF、WAV、FLAC、DSD（DFF/DSF）等音频格式，支持 SACD-R ISO 解析与 Track 提取、Samba 接入、内存加载播放、SRC/FIR 多种重采样算法，支持 AirPlay、蓝牙、外置 DAC 输出",
+      "status": "live",
+      "moreInfoUrl": "https://github.com/shanleiguang/vPlayer",
+      "moreInfoLabel": "源码",
+      "board": "main",
+      "date": "2026-08-08",
+      "author": {
+        "name": "ShanLeiGuang",
+        "city": "河北",
+        "github": "https://github.com/shanleiguang",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "Media"
+      ]
+    },
+    {
+      "name": "Daily Word Hunt",
+      "url": "https://words.sagasu.art/",
+      "description": "每日更新的 Word Search 划词解谜小游戏，无需注册，提供主题系列与打印包，支持 Google 登录同步进度",
+      "status": "live",
+      "moreInfoUrl": "https://github.com/s87343472/daily-word-hunt",
+      "moreInfoLabel": "源码",
+      "board": "game",
+      "date": "2026-08-08",
+      "author": {
+        "name": "s87343472",
+        "city": "",
+        "github": "https://github.com/s87343472",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "Game"
+      ]
+    },
+    {
+      "name": "PublicHoliday",
+      "url": "https://public-holidays.shop",
+      "description": "查询 150+ 国家法定节假日与调休，11种语言支持按年切换并一键导出日历订阅（.ics）",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "main",
+      "date": "2026-08-07",
+      "author": {
+        "name": "xiaoxiao",
+        "city": "",
+        "github": "https://github.com/863683348",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "Productivity"
+      ]
+    },
     {
       "name": "AI 比价",
       "url": "https://www.china-ai-arbitrage.xyz",

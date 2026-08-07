@@ -10942,5 +10942,17 @@
   "BitFun": {
     "en_name": "BitFun",
     "en_description": "Open source cross-platform desktop AI Agent, uses Rust Runtime to plan, modify, test and submit code in the real warehouse, and can also generate stateful Mini Apps for tasks; supports self-hosted multi-terminal interconnection and MCP, Skills, and Hooks extensions"
+  },
+  "vPlayer HiFi App": {
+    "en_name": "vPlayer HiFi App",
+    "en_description": "HiFi lossless music player, supports MP3, AIFF, WAV, FLAC, DSD (DFF/DSF) and other audio formats, supports SACD-R ISO analysis and track extraction, Samba access, memory loading and playback, SRC/FIR multiple resampling algorithms, supports AirPlay, Bluetooth, external DAC output"
+  },
+  "Daily Word Hunt": {
+    "en_name": "Daily Word Hunt",
+    "en_description": "Word Search is a word-drawing puzzle game that is updated daily. No registration is required. It provides theme series and printing packages. It supports Google login to synchronize progress."
+  },
+  "PublicHoliday": {
+    "en_name": "PublicHoliday",
+    "en_description": "Query 150+ national statutory holidays and holiday breaks, 11 languages ​​support yearly switching and one-click export of calendar subscription (.ics)"
   }
 }
