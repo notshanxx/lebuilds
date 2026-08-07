@@ -24,6 +24,14 @@
 
 ## 3. 项目列表
 
+### 2026 年 8 月 7 号添加
+
+#### the-beating-light-of-the-nail - [Github](https://github.com/the-beating-light-of-the-nail)
+* :white_check_mark: [AI 比价](https://www.china-ai-arbitrage.xyz)：全网 AI 信息聚合比价站——国产官方套餐（GLM / Kimi / 通义 / 豆包等）的真实 Token 额度与限速、各家 API 单价、免费 Token 活动、低价 API 中转与海外账号行情一张表横向比，按「每元可用量」选出最划算方案
+
+#### 不空团队 - [Github](https://github.com/Hanshihao111)
+* :white_check_mark: [不空：钓鱼天气与鱼情记录](https://bhtq.cn)：面向野钓用户的钓鱼天气与分鱼种鱼情工具，网页免登录查询十种目标鱼的当前评分、未来 24 小时趋势和较好时段；iPhone App 另提供未来 7 日鱼情、私有钓点和鱼获记录 - [App Store](https://apps.apple.com/cn/app/id6791599314)
+
 ### 2026 年 8 月 6 号添加
 
 #### AKAama(南京) - [Github](https://github.com/AKAama), [个人主页](https://ismyh.cn/)
@@ -39,6 +47,9 @@
 
 #### 妙小记(北京) - [Github](https://github.com/MeetMiaoji)
 * :white_check_mark: [Meet妙记](https://www.mionote.com.cn/)：可随身携带的 AI 语音助手，记会议、记灵感、记待办，记录你的每一天；专注工作/生活/学习/闲谈/灵感等场景的语音记录，支持实时语音转写、说话人区分、AI 智能摘要一键生成，历史会议可按主题回看，iOS、Android、Mac、Windows 四端覆盖，单次录音最长 4 小时，内置 19 种行业纪要模板
+
+#### FlowPick - [Github](https://github.com/ezwebtools/flowpick)
+* :white_check_mark: [FlowPick](https://flowpick.net)：自动检测并下载网页中的视频、音频和图片等媒体资源 — 免费开源浏览器扩展
 
 ### 2026 年 8 月 5 号添加
 

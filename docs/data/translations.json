@@ -10926,5 +10926,21 @@
   "PigFetch": {
     "en_name": "PigFetch",
     "en_description": "Windows video link download tool. After pasting the sharing link, you can choose the available image quality to download to your computer. It is suitable for material retention and local organization. New users can register for 100 times, and members can download unlimitedly."
+  },
+  "AI 比价": {
+    "en_name": "AI price comparison",
+    "en_description": "The entire network's AI information aggregation and price comparison site - the real Token quota and speed limit of domestic official packages (GLM / Kimi / Tongyi / Doubao, etc.), the unit price of each API, free token activities, low-price API transfer and overseas account market are compared horizontally in one table, and the most cost-effective plan is selected based on \"available amount per dollar\""
+  },
+  "不空：钓鱼天气与鱼情记录": {
+    "en_name": "Not empty: Fishing weather and fish conditions records",
+    "en_description": "A tool for fishing weather and fish species classification for wild fishing users. The website allows you to check the current scores, trends and good times of ten target fishes in the next 24 hours without logging in. The iPhone App also provides fish conditions, private fishing spots and fish catch records for the next 7 days."
+  },
+  "FlowPick": {
+    "en_name": "FlowPick",
+    "en_description": "Automatically detect and download media resources such as videos, audios and images in web pages - free and open source browser extension"
+  },
+  "BitFun": {
+    "en_name": "BitFun",
+    "en_description": "Open source cross-platform desktop AI Agent, uses Rust Runtime to plan, modify, test and submit code in the real warehouse, and can also generate stateful Mini Apps for tasks; supports self-hosted multi-terminal interconnection and MCP, Skills, and Hooks extensions"
   }
 }

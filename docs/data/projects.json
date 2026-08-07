@@ -1,18 +1,61 @@
 {
-  "generatedAt": "2026-08-07T02:23:20.013Z",
-  "totalProjects": 2799,
+  "generatedAt": "2026-08-07T07:06:06.346Z",
+  "totalProjects": 2803,
   "stats": {
-    "live": 2351,
+    "live": 2355,
     "dev": 34,
     "closed": 414
   },
   "boards": {
-    "main": 1890,
-    "programmer": 294,
+    "main": 1893,
+    "programmer": 295,
     "game": 117,
     "archive": 498
   },
   "projects": [
+    {
+      "name": "AI 比价",
+      "url": "https://www.china-ai-arbitrage.xyz",
+      "description": "全网 AI 信息聚合比价站——国产官方套餐（GLM / Kimi / 通义 / 豆包等）的真实 Token 额度与限速、各家 API 单价、免费 Token 活动、低价 API 中转与海外账号行情一张表横向比，按「每元可用量」选出最划算方案",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "main",
+      "date": "2026-08-07",
+      "author": {
+        "name": "the-beating-light-of-the-nail",
+        "city": "",
+        "github": "https://github.com/the-beating-light-of-the-nail",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "AI/ML",
+        "Developer"
+      ]
+    },
+    {
+      "name": "不空：钓鱼天气与鱼情记录",
+      "url": "https://bhtq.cn",
+      "description": "面向野钓用户的钓鱼天气与分鱼种鱼情工具，网页免登录查询十种目标鱼的当前评分、未来 24 小时趋势和较好时段；iPhone App 另提供未来 7 日鱼情、私有钓点和鱼获记录",
+      "status": "live",
+      "moreInfoUrl": "https://apps.apple.com/cn/app/id6791599314",
+      "moreInfoLabel": "App Store",
+      "board": "main",
+      "date": "2026-08-07",
+      "author": {
+        "name": "不空团队",
+        "city": "",
+        "github": "https://github.com/Hanshihao111",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "Productivity",
+        "Mobile",
+        "Web"
+      ]
+    },
     {
       "name": "摸鱼日历",
       "url": "https://calendar.ismyh.cn/",
@@ -142,6 +185,27 @@
       ]
     },
     {
+      "name": "FlowPick",
+      "url": "https://flowpick.net",
+      "description": "自动检测并下载网页中的视频、音频和图片等媒体资源 — 免费开源浏览器扩展",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "main",
+      "date": "2026-08-06",
+      "author": {
+        "name": "FlowPick",
+        "city": "",
+        "github": "https://github.com/ezwebtools/flowpick",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "Media",
+        "Web"
+      ]
+    },
+    {
       "name": "状态栏歌词",
       "url": "https://lyrics.ismyh.cn/",
       "description": "自动读取 Apple Music 当前歌曲并显示同步歌词，支持歌词偏移调整、缓存和切换歌词源，数据全部在本机处理 — 开源的 macOS 菜单栏工具",
@@ -160,6 +224,28 @@
       "tags": [
         "Productivity",
         "Media"
+      ]
+    },
+    {
+      "name": "BitFun",
+      "url": "https://github.com/GCWing/BitFun",
+      "description": "开源跨平台桌面 AI Agent，使用 Rust Runtime 在真实仓库中规划、修改、测试和提交代码，也能为任务生成带状态的 Mini App；支持自托管多端互联及 MCP、Skills、Hooks 扩展",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "programmer",
+      "date": "2026-08-06",
+      "author": {
+        "name": "Bob Lee",
+        "city": "",
+        "github": "https://github.com/bobleer",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "AI/ML",
+        "Developer",
+        "Productivity"
       ]
     },
     {
