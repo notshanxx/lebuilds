@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T07:06:06.346Z",
+  "generatedAt": "2026-08-07T12:50:40.236Z",
   "totalProjects": 2803,
   "stats": {
     "live": 2355,
@@ -245,7 +245,8 @@
       "tags": [
         "AI/ML",
         "Developer",
-        "Productivity"
+        "Productivity",
+        "Web"
       ]
     },
     {
