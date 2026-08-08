@@ -10954,5 +10954,17 @@
   "PublicHoliday": {
     "en_name": "PublicHoliday",
     "en_description": "Query 150+ national statutory holidays and holiday breaks, 11 languages ​​support yearly switching and one-click export of calendar subscription (.ics)"
+  },
+  "ClassroomTimers": {
+    "en_name": "ClassroomTimers",
+    "en_description": "A free online timing tool for teachers and classroom scenarios, focusing on large-screen projection, full-screen display, and no registration required."
+  },
+  "CCNavX AI 中转站精选导航": {
+    "en_name": "CCNavX AI transfer station selected navigation",
+    "en_description": "AI transfer station navigation, which includes accessible developers’ transfer services to AI API for easy switching and comparison."
+  },
+  "LiveFaceSwap AI": {
+    "en_name": "LiveFaceSwap AI",
+    "en_description": "Online real-time AI face-changing tool, you can experience face-changing, dress-up and style repainting in the browser; the Windows 11 desktop version can access live broadcast, conference and video calling software through a virtual camera"
   }
 }

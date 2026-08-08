@@ -1,18 +1,83 @@
 {
-  "generatedAt": "2026-08-08T01:09:28.267Z",
-  "totalProjects": 2806,
+  "generatedAt": "2026-08-08T06:40:59.498Z",
+  "totalProjects": 2809,
   "stats": {
-    "live": 2358,
+    "live": 2361,
     "dev": 34,
     "closed": 414
   },
   "boards": {
-    "main": 1895,
+    "main": 1898,
     "programmer": 295,
     "game": 118,
     "archive": 498
   },
   "projects": [
+    {
+      "name": "ClassroomTimers",
+      "url": "https://classroomtimers.app/",
+      "description": "面向教师和课堂场景的免费在线计时工具，主打大屏投影、全屏显示、无需注册",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "main",
+      "date": "2026-08-08",
+      "author": {
+        "name": "Miracle",
+        "city": "杭州",
+        "github": "https://github.com/zhoulianbo",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "Productivity",
+        "Web"
+      ]
+    },
+    {
+      "name": "CCNavX AI 中转站精选导航",
+      "url": "https://ccnavx.com/zh",
+      "description": "AI 中转站导航，收录可接入的开发者向 AI API 中转服务，方便切换对比",
+      "status": "live",
+      "moreInfoUrl": "https://github.com/silankfakentend/ai-api-providers",
+      "moreInfoLabel": "更多介绍",
+      "board": "main",
+      "date": "2026-08-08",
+      "author": {
+        "name": "vivililio",
+        "city": "广州",
+        "github": "https://github.com/silankfakentend",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "AI/ML",
+        "Developer"
+      ]
+    },
+    {
+      "name": "LiveFaceSwap AI",
+      "url": "https://livefaceswap.ai/zh",
+      "description": "在线实时 AI 换脸工具，可在浏览器中体验换脸、换装和风格重绘；Windows 11 桌面版可通过虚拟摄像头接入直播、会议和视频通话软件",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "main",
+      "date": "2026-08-08",
+      "author": {
+        "name": "cabbagehao",
+        "city": "北京",
+        "github": "https://github.com/cabbagehao",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "AI/ML",
+        "Productivity",
+        "Media",
+        "Web"
+      ]
+    },
     {
       "name": "vPlayer HiFi App",
       "url": "https://apps.apple.com/cn/app/vplayer-hifi/id6783141736",
