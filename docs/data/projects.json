@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T06:40:59.498Z",
+  "generatedAt": "2026-08-08T12:35:36.153Z",
   "totalProjects": 2809,
   "stats": {
     "live": 2361,
@@ -31,7 +31,8 @@
       },
       "tags": [
         "Productivity",
-        "Web"
+        "Web",
+        "Education"
       ]
     },
     {
