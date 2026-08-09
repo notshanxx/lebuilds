@@ -24,6 +24,17 @@
 
 ## 3. 项目列表
 
+### 2026 年 8 月 9 号添加
+
+#### nekocode(广州) - [Github](https://github.com/nekocode)
+* :white_check_mark: [SeqLog](https://seqlog.com)：macOS 原生大纲笔记，每条笔记就是磁盘上的一个 Markdown 文件，没有数据库也没有专有格式，ripgrep 和 git 读到的和你看到的是同一份字节；内置 Git 可展开逐行 diff、按单个文件回滚，也能直接打开已有的 Logseq 仓库。界面为英文
+
+#### jankarong - [Github](https://github.com/jankarong)
+* :white_check_mark: [FeedbackHi](https://feedbackhi.com)：可嵌入任意网站的用户反馈工具，两行代码即可收集功能建议、Bug 报告和投票，并提供公开反馈看板、状态管理与官方回复
+
+#### gna1280072(福建) - [Github](https://github.com/gna1280072)
+* :white_check_mark: [LeePanel](http://www.leepanel.com)：开源桌面端 Linux 服务器管理面板，所有操作通过本地 SSH 完成，服务器端零安装零残留，从根本上消除传统网页面板的安全风险 - [源码](https://github.com/gna1280072/LeePanel)
+
 ### 2026 年 8 月 8 号添加
 
 #### Miracle(杭州) - [Github](https://github.com/zhoulianbo)
@@ -568,7 +579,7 @@
 * :white_check_mark: [Text Tray](https://github.com/Jingyuan-Zheng/TextTray)：原生 macOS 临时文本托盘，无需打开完整文本编辑器即可快速查看、编辑、清理、统计、翻译、复制和保存临时文本，并可修复从 PDF 复制产生的断行 - [更多介绍](https://github.com/Jingyuan-Zheng/TextTray)
 
 #### Tristan Tang - [Github](https://github.com/tristan666666)
-* :white_check_mark: [Agent Island](https://agent-island.dev/)：Claude Code 与 Codex 的开源状态伴侣，在 macOS 和 Windows 上显示实时会话状态，并在需要你接手时提醒；本地监控，无需账号 - [查看仓库](https://github.com/tristan666666/agent-island)
+* :white_check_mark: [Agent Island](https://agent-island.dev/)：免费、MIT 开源的原生 AI 编程伴侣，统一支持 Claude、Codex、Gemini、Grok 与 Cursor，提供本地会话状态、轮到你提醒和服务商用量视图；无需 Agent Island 账号，无产品遥测 - [查看仓库](https://github.com/tristan666666/agent-island)
 
 #### Pectics - [GitHub](https://github.com/Pectics)
 * :white_check_mark: [claude-i18n](https://chromewebstore.google.com/detail/claude-i18n/fkfmbjccelbeolkoekeaegajhhdndajj)：[Claude.ai](https://claude.ai) 网页端简体中文 / 繁體中文语言包，提供接近原生的语言切换与国际化体验，并为新语言包贡献提供完整加载支持 - [查看仓库](https://github.com/Pectics/claude-i18n)

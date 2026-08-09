@@ -1,18 +1,144 @@
 {
-  "generatedAt": "2026-08-09T12:37:35.462Z",
-  "totalProjects": 2809,
+  "generatedAt": "2026-08-09T18:31:08.776Z",
+  "totalProjects": 2815,
   "stats": {
-    "live": 2361,
+    "live": 2367,
     "dev": 34,
     "closed": 414
   },
   "boards": {
-    "main": 1898,
-    "programmer": 295,
+    "main": 1901,
+    "programmer": 298,
     "game": 118,
     "archive": 498
   },
   "projects": [
+    {
+      "name": "SeqLog",
+      "url": "https://seqlog.com",
+      "description": "macOS 原生大纲笔记，每条笔记就是磁盘上的一个 Markdown 文件，没有数据库也没有专有格式，ripgrep 和 git 读到的和你看到的是同一份字节；内置 Git 可展开逐行 diff、按单个文件回滚，也能直接打开已有的 Logseq 仓库。界面为英文",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "main",
+      "date": "2026-08-09",
+      "author": {
+        "name": "nekocode",
+        "city": "广州",
+        "github": "https://github.com/nekocode",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "Developer",
+        "Productivity"
+      ]
+    },
+    {
+      "name": "FeedbackHi",
+      "url": "https://feedbackhi.com",
+      "description": "可嵌入任意网站的用户反馈工具，两行代码即可收集功能建议、Bug 报告和投票，并提供公开反馈看板、状态管理与官方回复",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "main",
+      "date": "2026-08-09",
+      "author": {
+        "name": "jankarong",
+        "city": "",
+        "github": "https://github.com/jankarong",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "Developer",
+        "Productivity",
+        "Web"
+      ]
+    },
+    {
+      "name": "LeePanel",
+      "url": "http://www.leepanel.com",
+      "description": "开源桌面端 Linux 服务器管理面板，所有操作通过本地 SSH 完成，服务器端零安装零残留，从根本上消除传统网页面板的安全风险",
+      "status": "live",
+      "moreInfoUrl": "https://github.com/gna1280072/LeePanel",
+      "moreInfoLabel": "源码",
+      "board": "main",
+      "date": "2026-08-09",
+      "author": {
+        "name": "gna1280072",
+        "city": "福建",
+        "github": "https://github.com/gna1280072",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "Web"
+      ]
+    },
+    {
+      "name": "知了",
+      "url": "https://github.com/mebtte/cicada",
+      "description": "支持自托管的多人音乐服务，类似私有版 Spotify，可在自己的服务器上管理、播放和分享音乐",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "programmer",
+      "date": "2026-08-09",
+      "author": {
+        "name": "mebtte",
+        "city": "",
+        "github": "https://github.com/mebtte",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "Media"
+      ]
+    },
+    {
+      "name": "c3(code creative center)",
+      "url": "https://github.com/sequencestream/c3",
+      "description": "AI 开发工作台，集中管理并驱动多个 AI 智能体协作工作，涵盖意图开发工作流、SDD 规范驱动开发、多智能体话题讨论、交付管理、权限审批、定时任务、事件驱动自动化任务，支持 Claude Code、Codex、Cursor",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "programmer",
+      "date": "2026-08-09",
+      "author": {
+        "name": "tiltwind",
+        "city": "厦门",
+        "github": "https://github.com/tiltwind",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "AI/ML",
+        "Developer",
+        "Productivity"
+      ]
+    },
+    {
+      "name": "Token Bargain",
+      "url": "https://tokenbargain.dev",
+      "description": "经济实惠的大模型 API 服务，登录后可免费试用一天的 Token 额度",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "programmer",
+      "date": "2026-08-09",
+      "author": {
+        "name": "yvonuk",
+        "city": "",
+        "github": "",
+        "blog": "",
+        "extra": "[推特](https://x.com/mcwangcn) "
+      },
+      "tags": [
+        "AI/ML",
+        "Developer"
+      ]
+    },
     {
       "name": "ClassroomTimers",
       "url": "https://classroomtimers.app/",
@@ -6248,7 +6374,7 @@
     {
       "name": "Agent Island",
       "url": "https://agent-island.dev/",
-      "description": "Claude Code 与 Codex 的开源状态伴侣，在 macOS 和 Windows 上显示实时会话状态，并在需要你接手时提醒；本地监控，无需账号",
+      "description": "免费、MIT 开源的原生 AI 编程伴侣，统一支持 Claude、Codex、Gemini、Grok 与 Cursor，提供本地会话状态、轮到你提醒和服务商用量视图；无需 Agent Island 账号，无产品遥测",
       "status": "live",
       "moreInfoUrl": "https://github.com/tristan666666/agent-island",
       "moreInfoLabel": "查看仓库",

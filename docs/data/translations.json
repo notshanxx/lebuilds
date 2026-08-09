@@ -10966,5 +10966,29 @@
   "LiveFaceSwap AI": {
     "en_name": "LiveFaceSwap AI",
     "en_description": "Online real-time AI face-changing tool, you can experience face-changing, dress-up and style repainting in the browser; the Windows 11 desktop version can access live broadcast, conference and video calling software through a virtual camera"
+  },
+  "SeqLog": {
+    "en_name": "SeqLog",
+    "en_description": "macOS native outline notes, each note is a Markdown file on the disk, there is no database and no proprietary format. What ripgrep and git read are the same bytes you see; the built-in Git can expand line-by-line diff, rollback by single file, and can also directly open the existing Logseq warehouse. The interface is in English"
+  },
+  "FeedbackHi": {
+    "en_name": "FeedbackHi",
+    "en_description": "A user feedback tool that can be embedded into any website. With two lines of code, you can collect feature suggestions, bug reports and votes, and provide a public feedback board, status management and official replies."
+  },
+  "LeePanel": {
+    "en_name": "LeePanel",
+    "en_description": "Open source desktop Linux server management panel, all operations are completed through local SSH, with zero installation and zero residue on the server side, fundamentally eliminating the security risks of traditional web panels"
+  },
+  "知了": {
+    "en_name": "Got it",
+    "en_description": "Supports self-hosted multi-player music service, similar to a private version of Spotify, which can manage, play and share music on its own server"
+  },
+  "c3(code creative center)": {
+    "en_name": "c3(code creative center)",
+    "en_description": "AI development workbench centrally manages and drives the collaborative work of multiple AI agents, covering intent development workflow, SDD specification-driven development, multi-agent topic discussion, delivery management, permission approval, scheduled tasks, event-driven automation tasks, and supports Claude Code, Codex, and Cursor"
+  },
+  "Token Bargain": {
+    "en_name": "Token Bargain",
+    "en_description": "Affordable large model API service, you can try the token quota for one day for free after logging in"
   }
 }
