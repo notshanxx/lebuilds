@@ -24,6 +24,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 8 月 10 号添加
+
+#### 想法开工(深圳)
+* :white_check_mark: [豆包超级助手](https://chromewebstore.google.com/detail/%E8%B1%86%E5%8C%85%E8%B6%85%E7%BA%A7%E5%8A%A9%E6%89%8B/ehjaeofaphienmmldokgaagbdmcjpaag)：对话文件夹、长对话导航、标记注释、提示词模板与多步队列、100+ 模板与划词快捷进入、本机读写文件 — 豆包对话增强 Chrome 插件 - [更多介绍](https://chromewebstore.google.com/detail/%E8%B1%86%E5%8C%85%E8%B6%85%E7%BA%A7%E5%8A%A9%E6%89%8B/ehjaeofaphienmmldokgaagbdmcjpaag/)
+
 ### 2026 年 8 月 9 号添加
 
 #### nekocode(广州) - [Github](https://github.com/nekocode)
@@ -56,9 +61,6 @@
 
 #### the-beating-light-of-the-nail - [Github](https://github.com/the-beating-light-of-the-nail)
 * :white_check_mark: [AI 比价](https://www.china-ai-arbitrage.xyz)：全网 AI 信息聚合比价站——国产官方套餐（GLM / Kimi / 通义 / 豆包等）的真实 Token 额度与限速、各家 API 单价、免费 Token 活动、低价 API 中转与海外账号行情一张表横向比，按「每元可用量」选出最划算方案
-
-#### 不空团队 - [Github](https://github.com/Hanshihao111)
-* :white_check_mark: [不空：钓鱼天气与鱼情记录](https://bhtq.cn)：面向野钓用户的钓鱼天气与分鱼种鱼情工具，网页免登录查询十种目标鱼的当前评分、未来 24 小时趋势和较好时段；iPhone App 另提供未来 7 日鱼情、私有钓点和鱼获记录 - [App Store](https://apps.apple.com/cn/app/id6791599314)
 
 ### 2026 年 8 月 6 号添加
 

@@ -1,18 +1,60 @@
 {
-  "generatedAt": "2026-08-10T01:16:42.386Z",
-  "totalProjects": 2815,
+  "generatedAt": "2026-08-10T07:20:32.937Z",
+  "totalProjects": 2816,
   "stats": {
-    "live": 2367,
+    "live": 2368,
     "dev": 34,
     "closed": 414
   },
   "boards": {
     "main": 1901,
-    "programmer": 298,
+    "programmer": 299,
     "game": 118,
     "archive": 498
   },
   "projects": [
+    {
+      "name": "豆包超级助手",
+      "url": "https://chromewebstore.google.com/detail/%E8%B1%86%E5%8C%85%E8%B6%85%E7%BA%A7%E5%8A%A9%E6%89%8B/ehjaeofaphienmmldokgaagbdmcjpaag",
+      "description": "对话文件夹、长对话导航、标记注释、提示词模板与多步队列、100+ 模板与划词快捷进入、本机读写文件 — 豆包对话增强 Chrome 插件",
+      "status": "live",
+      "moreInfoUrl": "https://chromewebstore.google.com/detail/%E8%B1%86%E5%8C%85%E8%B6%85%E7%BA%A7%E5%8A%A9%E6%89%8B/ehjaeofaphienmmldokgaagbdmcjpaag/",
+      "moreInfoLabel": "更多介绍",
+      "board": "main",
+      "date": "2026-08-10",
+      "author": {
+        "name": "想法开工",
+        "city": "深圳",
+        "github": "",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "Web",
+        "Design"
+      ]
+    },
+    {
+      "name": "Nexus Shell",
+      "url": "https://nexusshell.app/?utm_source=github&utm_medium=referral&utm_campaign=chinese_independent_developer",
+      "description": "原生 macOS SSH 客户端，在一个应用中管理终端、双栏 SFTP、Docker 与服务器监控；还可通过 MCP 让 Claude Code、Codex 在可见终端中执行已授权操作，密码和私钥不会交给 Agent",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "programmer",
+      "date": "2026-08-10",
+      "author": {
+        "name": "Sameral",
+        "city": "",
+        "github": "https://github.com/viewer12",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "AI/ML",
+        "Developer"
+      ]
+    },
     {
       "name": "SeqLog",
       "url": "https://seqlog.com",
@@ -285,28 +327,6 @@
       "tags": [
         "AI/ML",
         "Developer"
-      ]
-    },
-    {
-      "name": "不空：钓鱼天气与鱼情记录",
-      "url": "https://bhtq.cn",
-      "description": "面向野钓用户的钓鱼天气与分鱼种鱼情工具，网页免登录查询十种目标鱼的当前评分、未来 24 小时趋势和较好时段；iPhone App 另提供未来 7 日鱼情、私有钓点和鱼获记录",
-      "status": "live",
-      "moreInfoUrl": "https://apps.apple.com/cn/app/id6791599314",
-      "moreInfoLabel": "App Store",
-      "board": "main",
-      "date": "2026-08-07",
-      "author": {
-        "name": "不空团队",
-        "city": "",
-        "github": "https://github.com/Hanshihao111",
-        "blog": "",
-        "extra": ""
-      },
-      "tags": [
-        "Productivity",
-        "Mobile",
-        "Web"
       ]
     },
     {

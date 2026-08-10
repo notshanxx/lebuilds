@@ -10990,5 +10990,13 @@
   "Token Bargain": {
     "en_name": "Token Bargain",
     "en_description": "Affordable large model API service, you can try the token quota for one day for free after logging in"
+  },
+  "豆包超级助手": {
+    "en_name": "Bean bag super assistant",
+    "en_description": "Conversation folders, long conversation navigation, marked comments, prompt word templates and multi-step queues, 100+ templates and word delineation quick access, native reading and writing of files - Doubao conversation enhancement Chrome plug-in"
+  },
+  "Nexus Shell": {
+    "en_name": "Nexus Shell",
+    "en_description": "The native macOS SSH client manages terminal, dual-column SFTP, Docker and server monitoring in one application; it can also use MCP to allow Claude Code and Codex to perform authorized operations in visible terminals, and the password and private key will not be handed over to the Agent."
   }
 }
