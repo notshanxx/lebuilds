@@ -10998,5 +10998,13 @@
   "Nexus Shell": {
     "en_name": "Nexus Shell",
     "en_description": "The native macOS SSH client manages terminal, dual-column SFTP, Docker and server monitoring in one application; it can also use MCP to allow Claude Code and Codex to perform authorized operations in visible terminals, and the password and private key will not be handed over to the Agent."
+  },
+  "隐私中转站 Android": {
+    "en_name": "Privacy Relay Android",
+    "en_description": "Local offline Android privacy sharing transfer tool. After turning off the clipboard reading permission of shopping and content apps, you can still save, identify and open links and passwords through the notification bar or system sharing - no network permissions, no ads, no statistics SDK"
+  },
+  "摸鱼助手": {
+    "en_name": "Fishing Assistant",
+    "en_description": "Embed the video or novel you want to watch into the small program of the work software Moyu. You can quickly adjust the position, size, top position and transparency of the browser and desktop windows, and automatically identify the browser's picture-in-picture window and dock it to the specified position on the screen."
   }
 }

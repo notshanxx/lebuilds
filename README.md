@@ -26,8 +26,14 @@
 
 ### 2026 年 8 月 10 号添加
 
+#### 花间魂梦 - [Github](https://github.com/hzy7003-bit)
+* :white_check_mark: [隐私中转站 Android](https://github.com/hzy7003-bit/PrivacyHub-Android-Preview)：本地离线的 Android 隐私分享中转工具，关闭购物和内容 App 的剪贴板读取权限后，仍可通过通知栏或系统分享保存、识别并打开链接与口令 — 无网络权限、无广告、无统计 SDK
+
 #### 想法开工(深圳)
 * :white_check_mark: [豆包超级助手](https://chromewebstore.google.com/detail/%E8%B1%86%E5%8C%85%E8%B6%85%E7%BA%A7%E5%8A%A9%E6%89%8B/ehjaeofaphienmmldokgaagbdmcjpaag)：对话文件夹、长对话导航、标记注释、提示词模板与多步队列、100+ 模板与划词快捷进入、本机读写文件 — 豆包对话增强 Chrome 插件 - [更多介绍](https://chromewebstore.google.com/detail/%E8%B1%86%E5%8C%85%E8%B6%85%E7%BA%A7%E5%8A%A9%E6%89%8B/ehjaeofaphienmmldokgaagbdmcjpaag/)
+
+#### ylv01(深圳) - [Github](https://github.com/ylv01)
+* :white_check_mark: [摸鱼助手](https://github.com/ylv01/WindowDockTool-Windows-Window-Docking-Picture-in-Picture-Helper)：把你想看的视频或小说嵌入工作软件摸鱼的小程序，可快速调整浏览器和桌面窗口的位置、尺寸、置顶与透明度，并自动识别浏览器画中画窗口停靠到屏幕指定位置
 
 ### 2026 年 8 月 9 号添加
 
@@ -581,7 +587,7 @@
 * :white_check_mark: [Text Tray](https://github.com/Jingyuan-Zheng/TextTray)：原生 macOS 临时文本托盘，无需打开完整文本编辑器即可快速查看、编辑、清理、统计、翻译、复制和保存临时文本，并可修复从 PDF 复制产生的断行 - [更多介绍](https://github.com/Jingyuan-Zheng/TextTray)
 
 #### Tristan Tang - [Github](https://github.com/tristan666666)
-* :white_check_mark: [Agent Island](https://agent-island.dev/)：免费、MIT 开源的原生 AI 编程伴侣，统一支持 Claude、Codex、Gemini、Grok 与 Cursor，提供本地会话状态、轮到你提醒和服务商用量视图；无需 Agent Island 账号，无产品遥测 - [查看仓库](https://github.com/tristan666666/agent-island)
+* :white_check_mark: [Agent Island](https://agent-island.dev/)：免费、MIT 开源的原生 AI 编程伴侣，统一支持 Claude Code、Codex、Antigravity、Grok 与 Cursor，提供本地会话状态、轮到你提醒和服务商用量视图；无需 Agent Island 账号，无产品遥测 - [查看仓库](https://github.com/tristan666666/agent-island)
 
 #### Pectics - [GitHub](https://github.com/Pectics)
 * :white_check_mark: [claude-i18n](https://chromewebstore.google.com/detail/claude-i18n/fkfmbjccelbeolkoekeaegajhhdndajj)：[Claude.ai](https://claude.ai) 网页端简体中文 / 繁體中文语言包，提供接近原生的语言切换与国际化体验，并为新语言包贡献提供完整加载支持 - [查看仓库](https://github.com/Pectics/claude-i18n)
