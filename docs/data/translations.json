@@ -11006,5 +11006,25 @@
   "摸鱼助手": {
     "en_name": "Fishing Assistant",
     "en_description": "Embed the video or novel you want to watch into the small program of the work software Moyu. You can quickly adjust the position, size, top position and transparency of the browser and desktop windows, and automatically identify the browser's picture-in-picture window and dock it to the specified position on the screen."
+  },
+  "Fate Mirror": {
+    "en_name": "Fate Mirror",
+    "en_description": "AI tarot divination and self-exploration tools explore love, career, relationships and important choices through card drawing, AI personalized interpretation, guided questions and private diaries. Compared with traditional tarot websites that produce results all at once, they focus more on continuous reflection and recording."
+  },
+  "EveryCityMap": {
+    "en_name": "EveryCityMap",
+    "en_description": "Online stylized city map design tool, covering 500+ cities around the world. You can switch multiple themes, customize layers, roads, waters, labels and colors, and export high-definition maps of multiple sizes."
+  },
+  "Infinitum": {
+    "en_name": "Infinitum",
+    "en_description": "The self-hosted information aggregation workbench based on RSS performs necessary but conservative preprocessing on the increasingly expanding personal information flow to improve the efficiency of information acquisition."
+  },
+  "Riffpad": {
+    "en_name": "Riffpad",
+    "en_description": "Encrypt and synchronize AI programming agents such as Claude Code and Codex to your mobile phone. You can check the progress while lying in bed, approve operations with one click, and add new instructions remotely; the code and API key only stay on your computer and are end-to-end encrypted."
+  },
+  "Codex Asset Forge": {
+    "en_name": "Codex Asset Forge",
+    "en_description": "A local-first 2D game material batch generation workbench that reuses the native Codex CLI, allowing game projects to directly use natural language or Markdown to hand over material requirements and automatically split into traceable batch graphics generation tasks; supports batch generation, item-by-item review, and exports JSON containing file paths and semantic descriptions for Godot, Unity and subsequent development AI to directly take over - open source macOS App"
   }
 }

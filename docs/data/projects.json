@@ -1,18 +1,128 @@
 {
-  "generatedAt": "2026-08-11T06:56:50.654Z",
-  "totalProjects": 2818,
+  "generatedAt": "2026-08-11T12:51:14.134Z",
+  "totalProjects": 2823,
   "stats": {
-    "live": 2370,
+    "live": 2375,
     "dev": 34,
     "closed": 414
   },
   "boards": {
-    "main": 1903,
-    "programmer": 299,
+    "main": 1905,
+    "programmer": 302,
     "game": 118,
     "archive": 498
   },
   "projects": [
+    {
+      "name": "Fate Mirror",
+      "url": "https://fate-mirror.com",
+      "description": "AI 塔罗占卜与自我探索工具，通过抽牌、AI 个性化解读、引导式问题和私人日记，探索爱情、事业、人际关系与重要选择，相比一次性出结果的传统塔罗网站更注重持续反思与记录",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "main",
+      "date": "2026-08-11",
+      "author": {
+        "name": "dayphosphor",
+        "city": "北京",
+        "github": "https://github.com/dayphosphor",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "AI/ML",
+        "Productivity",
+        "Web"
+      ]
+    },
+    {
+      "name": "EveryCityMap",
+      "url": "https://everycitymap.com",
+      "description": "在线风格化城市地图设计工具，覆盖全球 500+ 座城市，可切换多种主题，自定义图层、道路、水域、标签与配色，并导出多种尺寸的高清地图",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "main",
+      "date": "2026-08-11",
+      "author": {
+        "name": "Albert",
+        "city": "",
+        "github": "https://github.com/AlbertAZ1992",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "Productivity",
+        "Web",
+        "Design"
+      ]
+    },
+    {
+      "name": "Infinitum",
+      "url": "https://infinitum.shawnxie.top/",
+      "description": "基于 RSS 的自托管资讯聚合工作台，对日益膨胀的个人信息流进行必要但保守的预处理，提高信息获取效率",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "programmer",
+      "date": "2026-08-11",
+      "author": {
+        "name": "shawnxie94",
+        "city": "",
+        "github": "https://github.com/shawnxie94/infinitum",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "Productivity"
+      ]
+    },
+    {
+      "name": "Riffpad",
+      "url": "https://riffpad.ai",
+      "description": "把 Claude Code、Codex 等 AI 编程 agent 加密同步到手机，躺床上也能看进度、一键批准操作、远程补一句新指令；代码和 API key 只留在你电脑上，端到端加密",
+      "status": "live",
+      "moreInfoUrl": "https://github.com/riffpad/riffpad",
+      "moreInfoLabel": "GitHub",
+      "board": "programmer",
+      "date": "2026-08-11",
+      "author": {
+        "name": "Liu Zhening",
+        "city": "",
+        "github": "https://github.com/hypervapor",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "AI/ML",
+        "Developer",
+        "Mobile",
+        "Finance"
+      ]
+    },
+    {
+      "name": "Codex Asset Forge",
+      "url": "https://github.com/Brycetlm/codex-asset-forge",
+      "description": "本地优先的 2D 游戏素材批量生成工作台，复用本机 Codex CLI，让游戏项目直接用自然语言或 Markdown 交接素材需求并自动拆成可追踪的批量生图任务；支持按批次生成、逐项审核，并导出含文件路径和语义描述的 JSON，供 Godot、Unity 与后续开发 AI 直接接手 — 开源 macOS App",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "programmer",
+      "date": "2026-08-11",
+      "author": {
+        "name": "Brycetlm",
+        "city": "",
+        "github": "https://github.com/Brycetlm",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "AI/ML",
+        "Developer",
+        "Productivity",
+        "Game"
+      ]
+    },
     {
       "name": "隐私中转站 Android",
       "url": "https://github.com/hzy7003-bit/PrivacyHub-Android-Preview",
