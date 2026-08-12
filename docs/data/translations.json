@@ -11026,5 +11026,13 @@
   "Codex Asset Forge": {
     "en_name": "Codex Asset Forge",
     "en_description": "A local-first 2D game material batch generation workbench that reuses the native Codex CLI, allowing game projects to directly use natural language or Markdown to hand over material requirements and automatically split into traceable batch graphics generation tasks; supports batch generation, item-by-item review, and exports JSON containing file paths and semantic descriptions for Godot, Unity and subsequent development AI to directly take over - open source macOS App"
+  },
+  "Global Solo": {
+    "en_name": "Global Solo",
+    "en_description": "U.S. LLC service comparison site for non-U.S. resident entrepreneurs, horizontally comparing 43+ registration, banking, tax and compliance service providers, providing 24 \"country × dimension\" combination strategies, risk self-examination, compliance calendar and cost calculator; the interface is in English"
+  },
+  "TANSHIP Template": {
+    "en_name": "TANSHIP Template",
+    "en_description": "TanStack Start SaaS template integrates authentication, payment, database, email and AI workflow, built on Cloudflare Workers, supports Chinese and English bilingual and 34 sets of themes"
   }
 }

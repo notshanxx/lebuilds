@@ -1,18 +1,61 @@
 {
-  "generatedAt": "2026-08-12T07:16:05.866Z",
-  "totalProjects": 2823,
+  "generatedAt": "2026-08-12T12:56:03.149Z",
+  "totalProjects": 2825,
   "stats": {
-    "live": 2375,
+    "live": 2377,
     "dev": 34,
     "closed": 414
   },
   "boards": {
-    "main": 1905,
-    "programmer": 302,
+    "main": 1906,
+    "programmer": 303,
     "game": 118,
     "archive": 498
   },
   "projects": [
+    {
+      "name": "Global Solo",
+      "url": "https://www.globalsolo.global/?utm_source=cnindie&utm_medium=github",
+      "description": "面向非美国居民创业者的美国 LLC 服务对比站，横向比较 43+ 家注册、银行、税务与合规服务商，提供 24 个「国家 × 维度」组合攻略、风险自查、合规日历和成本计算器；界面为英文",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "main",
+      "date": "2026-08-12",
+      "author": {
+        "name": "Jett Fu",
+        "city": "深圳",
+        "github": "https://github.com/jianjettfu-oss",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "Productivity"
+      ]
+    },
+    {
+      "name": "TANSHIP Template",
+      "url": "https://tanship.app?utm_source=github&utm_medium=directory&utm_campaign=backlink",
+      "description": "TanStack Start SaaS 模板，集成身份验证、支付、数据库、邮件和 AI 工作流，基于 Cloudflare Workers 构建，支持中英双语和 34 套主题",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "programmer",
+      "date": "2026-08-12",
+      "author": {
+        "name": "pang3fan-creator",
+        "city": "",
+        "github": "https://github.com/pang3fan-creator",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "AI/ML",
+        "Web",
+        "Finance",
+        "Design"
+      ]
+    },
     {
       "name": "Fate Mirror",
       "url": "https://fate-mirror.com",
