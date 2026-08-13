@@ -24,6 +24,22 @@
 
 ## 3. 项目列表
 
+### 2026 年 8 月 13 号添加
+
+#### JeremyGDM - [Github](https://github.com/JeremyGDM)
+* :white_check_mark: [Pixonara](https://pixonara.com)：AI 图片、视频与提示词工作台，集中浏览 GPT Image、Nano Banana、Midjourney、Seedance 等模型的免费提示词，并结合文字或参考图片制作商品视觉、营销素材和短视频
+
+#### YuuFish(广州) - [Github](https://github.com/YuuFish)
+* :white_check_mark: [Gamepad Tester Pro](https://gamepadtesterpro.org/)：手柄检测与故障排查工具，连接 USB 或蓝牙控制器即可测试按键、摇杆漂移、扳机、死区、轮询率、输入响应和震动
+* :white_check_mark: [Scroll Wheel Test](https://scrollwheeltest.org/)：鼠标滚轮测试工具，可检测上下滚动、滚动方向、响应情况和滚轮输入表现
+* :white_check_mark: [Online Protractor](https://protractoronline.org/)：角度测量工具，可通过屏幕量角器、图片上传和相机辅助测量角度，适合几何学习、物体角度检查和图片角度分析
+
+#### ClauBloom(北京) - [Github](https://github.com/ClauBloom)
+* :white_check_mark: [Kindly-Web](https://github.com/ClauBloom/Kindly-Web)：开源 Chrome 浏览器插件，自动扫描评论区（目前已适配 Bilibili），调用大语言模型将带有攻击性、阴阳怪气或负面情绪的评论实时重写为和谐、友善且理性的表达 - [更多介绍](https://www.bilibili.com/video/BV17ugj6qEx2)
+
+#### 王冲 - [Github](https://github.com/androidwangchong)
+* :white_check_mark: [Dopastep](https://dopastep.com/zh/?utm_source=cnindie&utm_medium=github)：把你一直不想动的那件事拆成小到不用下决心就能开始的第一步，然后进实时专注房和别人按同一节奏做事（body doubling）；不用开摄像头、没有聊天、不用预约配对，专注段与休息段全房同步，不注册也能先看房里有几个人；支持 12 种语言（中文含简繁），任务拆解跟随任务本身的语言而非界面语言；免费 10 次拆解 + 公共专注房，Pro 10 美元/月
+
 ### 2026 年 8 月 12 号添加
 
 #### Jett Fu(深圳) - [Github](https://github.com/jianjettfu-oss)

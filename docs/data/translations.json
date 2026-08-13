@@ -11034,5 +11034,29 @@
   "TANSHIP Template": {
     "en_name": "TANSHIP Template",
     "en_description": "TanStack Start SaaS template integrates authentication, payment, database, email and AI workflow, built on Cloudflare Workers, supports Chinese and English bilingual and 34 sets of themes"
+  },
+  "Pixonara": {
+    "en_name": "Pixonara",
+    "en_description": "AI picture, video and prompt word workbench, browse free prompt words of GPT Image, Nano Banana, Midjourney, Seedance and other models, and combine text or reference pictures to create product visuals, marketing materials and short videos"
+  },
+  "Gamepad Tester Pro": {
+    "en_name": "Gamepad Tester Pro",
+    "en_description": "Controller detection and troubleshooting tool, connect a USB or Bluetooth controller to test buttons, stick drift, triggers, dead zone, polling rate, input response and vibration"
+  },
+  "Scroll Wheel Test": {
+    "en_name": "Scroll Wheel Test",
+    "en_description": "Mouse wheel test tool, which can detect up and down scrolling, scrolling direction, response and wheel input performance"
+  },
+  "Online Protractor": {
+    "en_name": "Online Protractor",
+    "en_description": "Angle measurement tool, which can measure angles through screen protractor, picture upload and camera assistance, suitable for geometry learning, object angle inspection and picture angle analysis"
+  },
+  "Kindly-Web": {
+    "en_name": "Kindly-Web",
+    "en_description": "An open source Chrome browser plug-in that automatically scans the comment area (currently adapted to Bilibili) and calls a large language model to rewrite offensive, weird or negative comments into harmonious, friendly and rational expressions in real time"
+  },
+  "Dopastep": {
+    "en_name": "Dopastep",
+    "en_description": "Break down the thing you have never wanted to do into the first step that is so small that you can start without making up your mind, and then enter the real-time focus room and do things at the same pace as others (body doubling); no need to turn on the camera, no chat, no appointment matching, the focus period and the rest period are synchronized in the whole room, and you can see how many people are in the room without registering; supports 12 languages ​​(Chinese including simplified and traditional), task dismantling follows the language of the task itself rather than the interface language; 10 free dismantling + public focus room, Pro $10/month"
   }
 }
