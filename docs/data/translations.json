@@ -11058,5 +11058,9 @@
   "Dopastep": {
     "en_name": "Dopastep",
     "en_description": "Break down the thing you have never wanted to do into the first step that is so small that you can start without making up your mind, and then enter the real-time focus room and do things at the same pace as others (body doubling); no need to turn on the camera, no chat, no appointment matching, the focus period and the rest period are synchronized in the whole room, and you can see how many people are in the room without registering; supports 12 languages ​​(Chinese including simplified and traditional), task dismantling follows the language of the task itself rather than the interface language; 10 free dismantling + public focus room, Pro $10/month"
+  },
+  "File Island": {
+    "en_name": "File Island",
+    "en_description": "The native macOS local media conversion tool resides in the MacBook notch area and supports batch conversion of images, videos, audios and mixed folders. The results can be directly dragged into Finder or chat applications, and the files are not uploaded to the cloud."
   }
 }

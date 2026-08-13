@@ -1,18 +1,39 @@
 {
-  "generatedAt": "2026-08-13T12:56:33.827Z",
-  "totalProjects": 2831,
+  "generatedAt": "2026-08-13T18:54:56.411Z",
+  "totalProjects": 2832,
   "stats": {
-    "live": 2383,
+    "live": 2384,
     "dev": 34,
     "closed": 414
   },
   "boards": {
-    "main": 1912,
+    "main": 1913,
     "programmer": 303,
     "game": 118,
     "archive": 498
   },
   "projects": [
+    {
+      "name": "File Island",
+      "url": "https://treafree.top/FileIsland/",
+      "description": "原生 macOS 本地媒体转换工具，驻留在 MacBook 刘海区域，支持图片、视频、音频与混合文件夹批量转换，结果可直接拖入访达或聊天应用，文件不上传云端",
+      "status": "live",
+      "moreInfoUrl": "https://github.com/TREAFREE/FileIsland",
+      "moreInfoLabel": "项目与下载",
+      "board": "main",
+      "date": "2026-08-13",
+      "author": {
+        "name": "TREAFREE",
+        "city": "",
+        "github": "https://github.com/TREAFREE",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "Productivity",
+        "Media"
+      ]
+    },
     {
       "name": "Pixonara",
       "url": "https://pixonara.com",
@@ -135,7 +156,8 @@
         "extra": ""
       },
       "tags": [
-        "Productivity"
+        "Productivity",
+        "Media"
       ]
     },
     {
