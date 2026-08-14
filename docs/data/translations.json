@@ -11062,5 +11062,13 @@
   "File Island": {
     "en_name": "File Island",
     "en_description": "The native macOS local media conversion tool resides in the MacBook notch area and supports batch conversion of images, videos, audios and mixed folders. The results can be directly dragged into Finder or chat applications, and the files are not uploaded to the cloud."
+  },
+  "RSSH": {
+    "en_name": "RSSH",
+    "en_description": "A new generation of SSH client, command block (define command input and output), AI analysis (zero server cli), multi-platform data synchronization (zero server), Cli-First (providing cli tools to use rssh data on any terminal), dynamic discovery (docker/k8s discovery)"
+  },
+  "SkillPort AI": {
+    "en_name": "SkillPort AI",
+    "en_description": "A multi-tenant AI model resource management platform that centrally manages model service providers, model catalogs and access credentials, and provides unified governance through tenants, role permissions, package subscriptions and audit capabilities."
   }
 }

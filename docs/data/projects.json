@@ -1,18 +1,60 @@
 {
-  "generatedAt": "2026-08-14T01:24:06.962Z",
-  "totalProjects": 2832,
+  "generatedAt": "2026-08-14T07:15:49.219Z",
+  "totalProjects": 2834,
   "stats": {
-    "live": 2384,
+    "live": 2386,
     "dev": 34,
     "closed": 414
   },
   "boards": {
-    "main": 1913,
-    "programmer": 303,
+    "main": 1914,
+    "programmer": 304,
     "game": 118,
     "archive": 498
   },
   "projects": [
+    {
+      "name": "RSSH",
+      "url": "https://rssh.ofcoder.com",
+      "description": "新一代的SSH客户端，命令块(定义命令输入输出)、AI分析(零服务器cli)、多平台数据同步(零服务器)、Cli-First(提供cli工具，在任意终端使用rssh数据)、动态发现(docker/k8s发现)",
+      "status": "live",
+      "moreInfoUrl": "https://github.com/shihuili1218/rssh/releases",
+      "moreInfoLabel": "项目与下载",
+      "board": "main",
+      "date": "2026-08-14",
+      "author": {
+        "name": "RSSH",
+        "city": "",
+        "github": "https://github.com/shihuili1218/rssh",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "AI/ML",
+        "Developer",
+        "Productivity"
+      ]
+    },
+    {
+      "name": "SkillPort AI",
+      "url": "https://github.com/jaden-2026/ai-base-saas",
+      "description": "多租户 AI 模型资源管理平台，集中管理模型服务商、模型目录和访问凭证，并通过租户、角色权限、套餐订阅与审计能力提供统一治理",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "programmer",
+      "date": "2026-08-14",
+      "author": {
+        "name": "jaden-2026",
+        "city": "",
+        "github": "https://github.com/jaden-2026",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "AI/ML"
+      ]
+    },
     {
       "name": "File Island",
       "url": "https://treafree.top/FileIsland/",
