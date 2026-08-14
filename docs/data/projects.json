@@ -1,18 +1,63 @@
 {
-  "generatedAt": "2026-08-14T07:15:49.219Z",
-  "totalProjects": 2834,
+  "generatedAt": "2026-08-14T12:53:12.679Z",
+  "totalProjects": 2836,
   "stats": {
-    "live": 2386,
+    "live": 2388,
     "dev": 34,
     "closed": 414
   },
   "boards": {
-    "main": 1914,
+    "main": 1916,
     "programmer": 304,
     "game": 118,
     "archive": 498
   },
   "projects": [
+    {
+      "name": "Background Remover Video",
+      "url": "https://backgroundremover.video/",
+      "description": "AI 视频背景移除工具，无需绿幕即可自动分离主体，导出透明 WebM 或纯色背景 MP4，并保留原始音频",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "main",
+      "date": "2026-08-14",
+      "author": {
+        "name": "ggb",
+        "city": "深圳",
+        "github": "https://github.com/jiangyifeng96",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "AI/ML",
+        "Productivity",
+        "Media"
+      ]
+    },
+    {
+      "name": "Morse Code Translator",
+      "url": "https://morsecodeinterpreters.com",
+      "description": "文本与摩尔斯电码双向转换工具，支持实时高亮、速度调节、手机振动和一键导出音频",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "main",
+      "date": "2026-08-14",
+      "author": {
+        "name": "Eason-87",
+        "city": "",
+        "github": "https://github.com/Eason-87",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "Developer",
+        "Productivity",
+        "Media",
+        "Mobile"
+      ]
+    },
     {
       "name": "RSSH",
       "url": "https://rssh.ofcoder.com",

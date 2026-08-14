@@ -11070,5 +11070,13 @@
   "SkillPort AI": {
     "en_name": "SkillPort AI",
     "en_description": "A multi-tenant AI model resource management platform that centrally manages model service providers, model catalogs and access credentials, and provides unified governance through tenants, role permissions, package subscriptions and audit capabilities."
+  },
+  "Background Remover Video": {
+    "en_name": "Background Remover Video",
+    "en_description": "AI video background removal tool that automatically separates subjects without a green screen, exports transparent WebM or solid background MP4, and preserves the original audio"
+  },
+  "Morse Code Translator": {
+    "en_name": "Morse Code Translator",
+    "en_description": "A two-way conversion tool between text and Morse code that supports real-time highlighting, speed adjustment, phone vibration and one-click audio export"
   }
 }
