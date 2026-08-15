@@ -1,18 +1,39 @@
 {
-  "generatedAt": "2026-08-15T00:54:23.061Z",
-  "totalProjects": 2836,
+  "generatedAt": "2026-08-15T06:27:55.635Z",
+  "totalProjects": 2847,
   "stats": {
-    "live": 2388,
+    "live": 2399,
     "dev": 34,
     "closed": 414
   },
   "boards": {
-    "main": 1916,
-    "programmer": 304,
+    "main": 1917,
+    "programmer": 314,
     "game": 118,
     "archive": 498
   },
   "projects": [
+    {
+      "name": "Duo Translator",
+      "url": "https://duotranslator.com/",
+      "description": "AI翻译和写作助手（浏览器插件），支持网页双语翻译、划词翻译、写作增强、YouTube双语字幕等功能",
+      "status": "live",
+      "moreInfoUrl": "https://github.com/linuxscreen/duo-translator",
+      "moreInfoLabel": "项目与下载",
+      "board": "main",
+      "date": "2026-08-15",
+      "author": {
+        "name": "linuxscreen",
+        "city": "",
+        "github": "https://github.com/linuxscreen",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "AI/ML",
+        "Web"
+      ]
+    },
     {
       "name": "Background Remover Video",
       "url": "https://backgroundremover.video/",
@@ -78,6 +99,216 @@
         "AI/ML",
         "Developer",
         "Productivity"
+      ]
+    },
+    {
+      "name": "NezhaGuard",
+      "url": "https://github.com/ctkqiang/NezhaGuard",
+      "description": "实时 SIEM 系统，基于 Qt 6 / C++26 构建，通过 libpcap 抓包 + 日志监控 + 蜜罐三层采集，经协议解码、签名匹配到主动隔离实现网络威胁实时感知与自动阻断 — 支持 GUI、CLI 与 Docker / K8s 部署",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "programmer",
+      "date": "2026-08-14",
+      "author": {
+        "name": "钟智强",
+        "city": "",
+        "github": "https://github.com/ctkqiang",
+        "blog": "https://ctkqiang.xin",
+        "extra": ""
+      },
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "name": "哪吒网络安全",
+      "url": "https://github.com/ctkqiang/nezha_cyber",
+      "description": "DeepSeek 驱动的终端 UI 红队辅助工具，提供流式对话、函数调用工具编排和多智能体会话管理，内置哪吒角色人格与 Claude Code 风格的工具调用确认对话框 — Rust 单二进制",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "programmer",
+      "date": "2026-08-14",
+      "author": {
+        "name": "钟智强",
+        "city": "",
+        "github": "https://github.com/ctkqiang",
+        "blog": "https://ctkqiang.xin",
+        "extra": ""
+      },
+      "tags": [
+        "AI/ML",
+        "Developer",
+        "Productivity",
+        "Design"
+      ]
+    },
+    {
+      "name": "小辣椒",
+      "url": "https://github.com/ctkqiang/chilli",
+      "description": "Rust + Vue 构建的系统遥测与网络安全监控平台，集成实时进程监控、漏洞扫描、Docker 容器安全管理和数据库 IP 访问审计 — 自带 Web 仪表盘，Docker 一键部署",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "programmer",
+      "date": "2026-08-14",
+      "author": {
+        "name": "钟智强",
+        "city": "",
+        "github": "https://github.com/ctkqiang",
+        "blog": "https://ctkqiang.xin",
+        "extra": ""
+      },
+      "tags": [
+        "Other"
+      ]
+    },
+    {
+      "name": "ExploitDB 搜索工具",
+      "url": "https://github.com/ctkqiang/exploitdb",
+      "description": "Java 命令行工具，抓取、展示并导出 Exploit-DB 公开漏洞数据，支持自定义爬取页数、中文表格对齐输出、增量更新和 CSV 导出",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "programmer",
+      "date": "2026-08-14",
+      "author": {
+        "name": "钟智强",
+        "city": "",
+        "github": "https://github.com/ctkqiang",
+        "blog": "https://ctkqiang.xin",
+        "extra": ""
+      },
+      "tags": [
+        "Developer",
+        "Productivity"
+      ]
+    },
+    {
+      "name": "灵取证",
+      "url": "https://github.com/ctkqiang/LQZ",
+      "description": "Android 设备数据取证工具，提取通话记录、短信、照片视频、应用数据、WhatsApp 记录和浏览器历史等 14 类数据，面向执法部门与安全调查人员 — 基于 C++，配合 ADB 使用",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "programmer",
+      "date": "2026-08-14",
+      "author": {
+        "name": "钟智强",
+        "city": "",
+        "github": "https://github.com/ctkqiang",
+        "blog": "https://ctkqiang.xin",
+        "extra": ""
+      },
+      "tags": [
+        "Productivity",
+        "Media",
+        "Mobile",
+        "Web"
+      ]
+    },
+    {
+      "name": "LingFlow",
+      "url": "https://github.com/ctkqiang/LingFlow",
+      "description": "AI 聊天服务框架，基于 WebSocket 构建，通过 S3 动态技能加载为 LLM 注入可热更新的领域知识，采用事件溯源管理会话生命周期并支持流式响应（思考过程 + 最终回复）— Go 语言，多云部署",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "programmer",
+      "date": "2026-08-14",
+      "author": {
+        "name": "钟智强",
+        "city": "",
+        "github": "https://github.com/ctkqiang",
+        "blog": "https://ctkqiang.xin",
+        "extra": ""
+      },
+      "tags": [
+        "AI/ML",
+        "Education"
+      ]
+    },
+    {
+      "name": "NezhaCyberMCP",
+      "url": "https://github.com/ctkqiang/NezhaCyberMCP",
+      "description": "MCP 服务器，桥接 Claude、Cursor、VS Code Copilot 等 AI 助手与持续更新的 CVE 漏洞数据库，通过 JSON-RPC 2.0 提供漏洞查询工具，支持本地、Lambda 和 SSE 三种运行模式 — Go 语言",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "programmer",
+      "date": "2026-08-14",
+      "author": {
+        "name": "钟智强",
+        "city": "",
+        "github": "https://github.com/ctkqiang",
+        "blog": "https://ctkqiang.xin",
+        "extra": ""
+      },
+      "tags": [
+        "AI/ML",
+        "Developer",
+        "Productivity"
+      ]
+    },
+    {
+      "name": "AWSFinOps",
+      "url": "https://github.com/ctkqiang/AWSFinOps",
+      "description": "AWS 云成本优化定时任务引擎，由 EventBridge 按计划触发 Lambda 执行一整套成本治理流程，含预算管理、S3 Glacier 归档和多平台报告广播 — Go 语言，无状态",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "programmer",
+      "date": "2026-08-14",
+      "author": {
+        "name": "钟智强",
+        "city": "",
+        "github": "https://github.com/ctkqiang",
+        "blog": "https://ctkqiang.xin",
+        "extra": ""
+      },
+      "tags": [
+        "Productivity"
+      ]
+    },
+    {
+      "name": "AWSGateKeeper",
+      "url": "https://github.com/ctkqiang/AWSGateKeeper",
+      "description": "AWS 安全自动化平台，将 GuardDuty、Inspector、Detective、IAM 和 CloudTrail 统一为事件驱动流水线，支持安全告警多渠道广播和 API 密钥中间件 — Go 语言，MIT 许可证",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "programmer",
+      "date": "2026-08-14",
+      "author": {
+        "name": "钟智强",
+        "city": "",
+        "github": "https://github.com/ctkqiang",
+        "blog": "https://ctkqiang.xin",
+        "extra": ""
+      },
+      "tags": [
+        "Developer"
+      ]
+    },
+    {
+      "name": "AuthGate",
+      "url": "https://github.com/ctkqiang/AuthGate",
+      "description": "多云统一认证网关，单 Go 二进制支持 AWS Lambda、阿里云 FC 和本地三种运行时，共享路由表并零配置切换环境，集成 JWT 密钥管理与端口适配器架构 — Docker 部署",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "programmer",
+      "date": "2026-08-14",
+      "author": {
+        "name": "钟智强",
+        "city": "",
+        "github": "https://github.com/ctkqiang",
+        "blog": "https://ctkqiang.xin",
+        "extra": ""
+      },
+      "tags": [
+        "Other"
       ]
     },
     {

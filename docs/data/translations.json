@@ -11078,5 +11078,49 @@
   "Morse Code Translator": {
     "en_name": "Morse Code Translator",
     "en_description": "A two-way conversion tool between text and Morse code that supports real-time highlighting, speed adjustment, phone vibration and one-click audio export"
+  },
+  "Duo Translator": {
+    "en_name": "Duo Translator",
+    "en_description": "AI translation and writing assistant (browser plug-in), supports web bilingual translation, word translation, writing enhancement, YouTube bilingual subtitles and other functions"
+  },
+  "NezhaGuard": {
+    "en_name": "NezhaGuard",
+    "en_description": "Real-time SIEM system, built based on Qt 6 / C++26, uses libpcap packet capture + log monitoring + honeypot three-layer collection, and realizes real-time perception and automatic blocking of network threats through protocol decoding, signature matching and active isolation - supports GUI, CLI and Docker / K8s deployment"
+  },
+  "哪吒网络安全": {
+    "en_name": "Nezha network security",
+    "en_description": "DeepSeek-driven terminal UI red team auxiliary tool, providing streaming dialogue, function call tool orchestration and multi-agent session management, built-in Nezha character personality and Claude Code style tool call confirmation dialog - Rust single binary"
+  },
+  "小辣椒": {
+    "en_name": "small pepper",
+    "en_description": "System telemetry and network security monitoring platform built with Rust + Vue, integrating real-time process monitoring, vulnerability scanning, Docker container security management and database IP access auditing - comes with a web dashboard and one-click Docker deployment"
+  },
+  "ExploitDB 搜索工具": {
+    "en_name": "ExploitDB search tool",
+    "en_description": "Java command line tool, captures, displays and exports Exploit-DB public vulnerability data, supports custom crawling page number, Chinese table alignment output, incremental update and CSV export"
+  },
+  "灵取证": {
+    "en_name": "Spiritual evidence collection",
+    "en_description": "Android device data forensics tool, extracts 14 types of data such as call records, text messages, photos and videos, application data, WhatsApp records and browser history, for law enforcement agencies and security investigators - based on C++, used with ADB"
+  },
+  "LingFlow": {
+    "en_name": "LingFlow",
+    "en_description": "AI chat service framework, built on WebSocket, injects hot-updatable domain knowledge into LLM through S3 dynamic skill loading, uses event sourcing to manage the session life cycle and supports streaming response (thinking process + final reply) - Go language, multi-cloud deployment"
+  },
+  "NezhaCyberMCP": {
+    "en_name": "NezhaCyberMCP",
+    "en_description": "MCP server bridges AI assistants such as Claude, Cursor, VS Code Copilot and the continuously updated CVE vulnerability database, provides vulnerability query tools through JSON-RPC 2.0, and supports three operating modes: local, Lambda and SSE - Go language"
+  },
+  "AWSFinOps": {
+    "en_name": "AWSFinOps",
+    "en_description": "AWS cloud cost optimization scheduled task engine, triggered by EventBridge on a scheduled basis, Lambda executes a complete set of cost governance processes, including budget management, S3 Glacier archiving and multi-platform report broadcast - Go language, stateless"
+  },
+  "AWSGateKeeper": {
+    "en_name": "AWSGateKeeper",
+    "en_description": "AWS security automation platform that unifies GuardDuty, Inspector, Detective, IAM and CloudTrail into an event-driven pipeline, supporting multi-channel broadcast of security alerts and API key middleware - Go language, MIT license"
+  },
+  "AuthGate": {
+    "en_name": "AuthGate",
+    "en_description": "Multi-cloud unified authentication gateway, a single Go binary supports AWS Lambda, Alibaba Cloud FC and local three runtimes, shares the routing table and switches environments with zero configuration, integrates JWT key management and port adapter architecture - Docker deployment"
   }
 }
