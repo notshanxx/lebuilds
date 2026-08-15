@@ -11122,5 +11122,17 @@
   "AuthGate": {
     "en_name": "AuthGate",
     "en_description": "Multi-cloud unified authentication gateway, a single Go binary supports AWS Lambda, Alibaba Cloud FC and local three runtimes, shares the routing table and switches environments with zero configuration, integrates JWT key management and port adapter architecture - Docker deployment"
+  },
+  "AiMovieFinder": {
+    "en_name": "AiMovieFinder",
+    "en_description": "Identify movies through plot, scenes, lines, screenshots, clip frames, actors or director clues, and give matching results"
+  },
+  "SeatingChartGenerator": {
+    "en_name": "SeatingChartGenerator",
+    "en_description": "Free online seating chart generator that supports drag and drop arrangement of wedding, party, classroom and event guests, and can be exported to PNG or PDF when completed"
+  },
+  "Wardogs Wiki": {
+    "en_name": "Wardogs Wiki",
+    "en_description": "WARDOGS game information station, which organizes game mechanics, camps, maps, weapons, vehicles, strategies, updates and interactive comparisons"
   }
 }

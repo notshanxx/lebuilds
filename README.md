@@ -26,6 +26,9 @@
 
 ### 2026 年 8 月 15 号添加
 
+#### kugua233 - [Github](https://github.com/kugua233)
+* :white_check_mark: [AiMovieFinder](https://www.aimoviefinder.net)：通过剧情、场景、台词、截图、片段帧、演员或导演线索识别电影，并给出匹配结果
+* :white_check_mark: [SeatingChartGenerator](https://www.seatingchartgenerator.app)：免费在线座位表生成器，支持拖拽安排婚礼、派对、教室和活动宾客，完成后可导出 PNG 或 PDF
 #### linuxscreen - [Github](https://github.com/linuxscreen)
 * :white_check_mark: [Duo Translator](https://duotranslator.com/)：AI翻译和写作助手（浏览器插件），支持网页双语翻译、划词翻译、写作增强、YouTube双语字幕等功能 - [项目与下载](https://github.com/linuxscreen/duo-translator)
 
@@ -57,7 +60,7 @@
 * :white_check_mark: [Kindly-Web](https://github.com/ClauBloom/Kindly-Web)：开源 Chrome 浏览器插件，自动扫描评论区（目前已适配 Bilibili），调用大语言模型将带有攻击性、阴阳怪气或负面情绪的评论实时重写为和谐、友善且理性的表达 - [更多介绍](https://www.bilibili.com/video/BV17ugj6qEx2)
 
 #### 王冲 - [Github](https://github.com/androidwangchong)
-* :white_check_mark: [Dopastep](https://dopastep.com/zh/?utm_source=cnindie&utm_medium=github)：把你一直不想动的那件事拆成小到不用下决心就能开始的第一步，然后进实时专注房和别人按同一节奏做事（body doubling）；不用开摄像头、没有聊天、不用预约配对，专注段与休息段全房同步，不注册也能先看房里有几个人；支持 12 种语言（中文含简繁），任务拆解跟随任务本身的语言而非界面语言；免费 10 次拆解 + 公共专注房，Pro 10 美元/月
+* :white_check_mark: [Dopastep](https://dopastep.com/zh/?utm_source=cnindie&utm_medium=github)：把你一直不想动的那件事拆成小到不用下决心就能开始的第一步，然后进实时专注房和别人按同一节奏做事（body doubling）；不用开摄像头、没有聊天、不用预约配对，专注段与休息段全房同步——Deep Work 房每天一场固定时间（北京 21:00），其余房间的 25/5 循环全天在跑，进去就能接上；不注册也能直接拆任务、直接进房坐下；支持 12 种语言（中文含简繁），任务拆解跟随任务本身的语言而非界面语言；免费每月 3 次拆解 + 公共专注房，Pro 10 美元/月，年付 80 美元
 
 ### 2026 年 8 月 12 号添加
 
