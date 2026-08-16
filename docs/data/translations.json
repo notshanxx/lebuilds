@@ -11146,5 +11146,17 @@
   "DSH Meme Hub": {
     "en_name": "DSH Meme Hub",
     "en_description": "DeepSeek Harness community plug-in navigation station, including 87 plug-ins, 13 categories, daily updated star rankings, all plug-ins are placed separately in the Meme Zone, bilingual in Chinese and English, open to submission"
+  },
+  "CareerAce": {
+    "en_name": "CareerAce",
+    "en_description": "AI simulated video interview and job search coaching tool, conducts conversational questions based on resume and real-time answers, and provides evaluation report after interview - supports Web, iOS, Android"
+  },
+  "Imaginify": {
+    "en_name": "Imaginify",
+    "en_description": "AI image generation and editing tool supports text generation, reference image redrawing, local modification, background processing and image quality enhancement, and provides a variety of image models and up to 4K output"
+  },
+  "HomeDesign": {
+    "en_name": "HomeDesign",
+    "en_description": "AI space and home decoration design tools, upload real photos of rooms, building exteriors or floor plans to preview the effects of indoor and outdoor decoration and transformation, and generate 2D layouts, 3D renderings and 360° panoramic views"
   }
 }
