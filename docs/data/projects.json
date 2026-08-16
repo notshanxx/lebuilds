@@ -1,18 +1,59 @@
 {
-  "generatedAt": "2026-08-15T18:19:19.889Z",
-  "totalProjects": 2850,
+  "generatedAt": "2026-08-16T00:57:14.718Z",
+  "totalProjects": 2853,
   "stats": {
-    "live": 2402,
+    "live": 2405,
     "dev": 34,
     "closed": 414
   },
   "boards": {
-    "main": 1919,
-    "programmer": 314,
+    "main": 1921,
+    "programmer": 315,
     "game": 119,
     "archive": 498
   },
   "projects": [
+    {
+      "name": "MetaClean",
+      "url": "https://github.com/Moresyl/metaclean",
+      "description": "跨平台本地文件元数据清理工具，支持图片、PDF、Office 和文本文件批量处理，文件不上传云端",
+      "status": "live",
+      "moreInfoUrl": "https://github.com/Moresyl/metaclean/releases/latest",
+      "moreInfoLabel": "项目与下载",
+      "board": "main",
+      "date": "2026-08-16",
+      "author": {
+        "name": "Moresyl",
+        "city": "",
+        "github": "https://github.com/Moresyl",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "Productivity",
+        "Media"
+      ]
+    },
+    {
+      "name": "DSH Studio",
+      "url": "https://github.com/Moresyl/dsh-studio",
+      "description": "本地优先的跨平台 DeepSeek Harness 桌面管理器，用图形界面完成安装、启动停止、健康检查、日志查看与进程清理，提供 Windows、macOS 和 Linux 安装包",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "programmer",
+      "date": "2026-08-16",
+      "author": {
+        "name": "Moresyl",
+        "city": "",
+        "github": "https://github.com/Moresyl",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "Other"
+      ]
+    },
     {
       "name": "AiMovieFinder",
       "url": "https://www.aimoviefinder.net",
@@ -71,6 +112,26 @@
       },
       "tags": [
         "AI/ML",
+        "Web"
+      ]
+    },
+    {
+      "name": "DSH Meme Hub",
+      "url": "https://dsh-meme-hub.cdqyfdbymn.me/",
+      "description": "DeepSeek Harness 社区插件导航站，收录 87 个插件、13 个分类，每日更新 star 排行榜，整活插件单独放进 Meme Zone，中英双语，开放投稿",
+      "status": "live",
+      "moreInfoUrl": "https://github.com/the-beating-light-of-the-nail/dsh-meme-hub",
+      "moreInfoLabel": "GitHub 项目",
+      "board": "main",
+      "date": "2026-08-15",
+      "author": {
+        "name": "the-beating-light-of-the-nail",
+        "city": "",
+        "github": "https://github.com/the-beating-light-of-the-nail",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
         "Web"
       ]
     },

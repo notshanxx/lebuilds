@@ -11134,5 +11134,17 @@
   "Wardogs Wiki": {
     "en_name": "Wardogs Wiki",
     "en_description": "WARDOGS game information station, which organizes game mechanics, camps, maps, weapons, vehicles, strategies, updates and interactive comparisons"
+  },
+  "MetaClean": {
+    "en_name": "MetaClean",
+    "en_description": "A cross-platform local file metadata cleaning tool that supports batch processing of images, PDF, Office and text files without uploading files to the cloud."
+  },
+  "DSH Studio": {
+    "en_name": "DSH Studio",
+    "en_description": "The local-first cross-platform DeepSeek Harness desktop manager uses a graphical interface to complete installation, start and stop, health check, log viewing and process cleaning, and provides installation packages for Windows, macOS and Linux."
+  },
+  "DSH Meme Hub": {
+    "en_name": "DSH Meme Hub",
+    "en_description": "DeepSeek Harness community plug-in navigation station, including 87 plug-ins, 13 categories, daily updated star rankings, all plug-ins are placed separately in the Meme Zone, bilingual in Chinese and English, open to submission"
   }
 }

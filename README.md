@@ -24,6 +24,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 8 月 16 号添加
+
+#### Moresyl - [Github](https://github.com/Moresyl)
+* :white_check_mark: [MetaClean](https://github.com/Moresyl/metaclean)：跨平台本地文件元数据清理工具，支持图片、PDF、Office 和文本文件批量处理，文件不上传云端 - [项目与下载](https://github.com/Moresyl/metaclean/releases/latest)
+
 ### 2026 年 8 月 15 号添加
 
 #### kugua233 - [Github](https://github.com/kugua233)
@@ -31,6 +36,8 @@
 * :white_check_mark: [SeatingChartGenerator](https://www.seatingchartgenerator.app)：免费在线座位表生成器，支持拖拽安排婚礼、派对、教室和活动宾客，完成后可导出 PNG 或 PDF
 #### linuxscreen - [Github](https://github.com/linuxscreen)
 * :white_check_mark: [Duo Translator](https://duotranslator.com/)：AI翻译和写作助手（浏览器插件），支持网页双语翻译、划词翻译、写作增强、YouTube双语字幕等功能 - [项目与下载](https://github.com/linuxscreen/duo-translator)
+#### the-beating-light-of-the-nail - [Github](https://github.com/the-beating-light-of-the-nail)
+* :white_check_mark: [DSH Meme Hub](https://dsh-meme-hub.cdqyfdbymn.me/)：DeepSeek Harness 社区插件导航站，收录 87 个插件、13 个分类，每日更新 star 排行榜，整活插件单独放进 Meme Zone，中英双语，开放投稿 - [GitHub 项目](https://github.com/the-beating-light-of-the-nail/dsh-meme-hub)
 
 ### 2026 年 8 月 14 号添加
 
