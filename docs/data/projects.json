@@ -1,18 +1,82 @@
 {
-  "generatedAt": "2026-08-17T06:41:18.299Z",
-  "totalProjects": 2857,
+  "generatedAt": "2026-08-17T12:32:05.424Z",
+  "totalProjects": 2860,
   "stats": {
-    "live": 2409,
+    "live": 2412,
     "dev": 34,
     "closed": 414
   },
   "boards": {
-    "main": 1925,
+    "main": 1928,
     "programmer": 315,
     "game": 119,
     "archive": 498
   },
   "projects": [
+    {
+      "name": "沉淀记 Loamery",
+      "url": "https://loamery.com/",
+      "description": "一键保存或提炼 ChatGPT、Claude、Gemini、DeepSeek、豆包、Kimi 中有价值的回答，通过搜索、收藏和项目整理，把零散的 AI 对话沉淀成可长期查找的个人知识库，数据本地优先保存 — 浏览器插件",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "main",
+      "date": "2026-08-17",
+      "author": {
+        "name": "ChihooZeng",
+        "city": "",
+        "github": "https://github.com/ChihooZeng",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "AI/ML",
+        "Web",
+        "Education"
+      ]
+    },
+    {
+      "name": "命理手札",
+      "url": "https://destiny-ai.pages.dev/",
+      "description": "AI 免费算命，问名、问时、问色、问运，知你想知，想你所想",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "main",
+      "date": "2026-08-17",
+      "author": {
+        "name": "zhoujungis",
+        "city": "深圳",
+        "github": "https://github.com/zhoujungis",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "AI/ML"
+      ]
+    },
+    {
+      "name": "AIMO",
+      "url": "https://aimo.plus/?utm_source=cnindie&utm_medium=github",
+      "description": "AI First 卡片笔记，随手记下想法，语义搜索、关联和复习由系统完成，Docker 一键自托管，支持 Web / macOS / Windows / Android",
+      "status": "live",
+      "moreInfoUrl": "https://github.com/ximing/aimo",
+      "moreInfoLabel": "源码",
+      "board": "main",
+      "date": "2026-08-17",
+      "author": {
+        "name": "ximing",
+        "city": "",
+        "github": "https://github.com/ximing",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "AI/ML",
+        "Productivity",
+        "Mobile"
+      ]
+    },
     {
       "name": "democue",
       "url": "https://democue.aizeten.me",

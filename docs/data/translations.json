@@ -11162,5 +11162,17 @@
   "democue": {
     "en_name": "democue",
     "en_description": "DemoCue is a screen-recording floating outline guidance tool that can use AI to generate explanation outlines. The generated floating outline can help you stably complete the sharing of partial knowledge such as tutorials, demos, and technologies."
+  },
+  "沉淀记 Loamery": {
+    "en_name": "Loamery",
+    "en_description": "Save or refine valuable answers in ChatGPT, Claude, Gemini, DeepSeek, Doubao, and Kimi with one click. Through search, collection, and project organization, scattered AI conversations are precipitated into a personal knowledge base that can be searched for a long time. The data is saved locally first - browser plug-in"
+  },
+  "命理手札": {
+    "en_name": "Numerology Notes",
+    "en_description": "AI free fortune telling, asking about your name, time, color, and luck, telling you what you want to know and thinking about you"
+  },
+  "AIMO": {
+    "en_name": "AIMO",
+    "en_description": "AI First card notes, jot down ideas, semantic search, association and review are completed by the system, Docker one-click self-hosting, supports Web / macOS / Windows / Android"
   }
 }
