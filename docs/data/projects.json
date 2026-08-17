@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T12:32:05.424Z",
+  "generatedAt": "2026-08-17T18:30:35.390Z",
   "totalProjects": 2860,
   "stats": {
     "live": 2412,
@@ -31,6 +31,7 @@
       },
       "tags": [
         "AI/ML",
+        "Productivity",
         "Web",
         "Education"
       ]
@@ -52,7 +53,8 @@
         "extra": ""
       },
       "tags": [
-        "AI/ML"
+        "AI/ML",
+        "Design"
       ]
     },
     {
