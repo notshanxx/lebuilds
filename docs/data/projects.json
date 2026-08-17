@@ -1,18 +1,40 @@
 {
-  "generatedAt": "2026-08-17T00:55:18.123Z",
-  "totalProjects": 2856,
+  "generatedAt": "2026-08-17T06:41:18.299Z",
+  "totalProjects": 2857,
   "stats": {
-    "live": 2408,
+    "live": 2409,
     "dev": 34,
     "closed": 414
   },
   "boards": {
-    "main": 1924,
+    "main": 1925,
     "programmer": 315,
     "game": 119,
     "archive": 498
   },
   "projects": [
+    {
+      "name": "democue",
+      "url": "https://democue.aizeten.me",
+      "description": "DemoCue 是一款录屏悬浮提纲引导工具，可AI生成讲解提纲，生成悬浮提纲帮你稳定完成教程、Demo 和 技术等偏知识类的分享。",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "main",
+      "date": "2026-08-17",
+      "author": {
+        "name": "my19940202",
+        "city": "上海",
+        "github": "https://github.com/my19940202",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "AI/ML",
+        "Productivity",
+        "Education"
+      ]
+    },
     {
       "name": "CareerAce",
       "url": "https://careerace.app",

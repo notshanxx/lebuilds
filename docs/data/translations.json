@@ -11158,5 +11158,9 @@
   "HomeDesign": {
     "en_name": "HomeDesign",
     "en_description": "AI space and home decoration design tools, upload real photos of rooms, building exteriors or floor plans to preview the effects of indoor and outdoor decoration and transformation, and generate 2D layouts, 3D renderings and 360° panoramic views"
+  },
+  "democue": {
+    "en_name": "democue",
+    "en_description": "DemoCue is a screen-recording floating outline guidance tool that can use AI to generate explanation outlines. The generated floating outline can help you stably complete the sharing of partial knowledge such as tutorials, demos, and technologies."
   }
 }
