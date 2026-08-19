@@ -1,18 +1,38 @@
 {
-  "generatedAt": "2026-08-19T06:33:51.901Z",
-  "totalProjects": 2860,
+  "generatedAt": "2026-08-19T12:34:59.705Z",
+  "totalProjects": 2861,
   "stats": {
-    "live": 2412,
+    "live": 2413,
     "dev": 34,
     "closed": 414
   },
   "boards": {
-    "main": 1928,
+    "main": 1929,
     "programmer": 315,
     "game": 119,
     "archive": 498
   },
   "projects": [
+    {
+      "name": "TempCanvas",
+      "url": "https://tempcanvas.com/",
+      "description": "免费、无需注册的临时在线白板，打开即可快速画图、手写记录和导出 PNG，内容仅保存在浏览器本地",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "main",
+      "date": "2026-08-19",
+      "author": {
+        "name": "超能刚哥",
+        "city": "长沙",
+        "github": "https://github.com/margox",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "Web"
+      ]
+    },
     {
       "name": "沉淀记 Loamery",
       "url": "https://loamery.com/",

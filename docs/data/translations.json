@@ -11174,5 +11174,9 @@
   "AIMO": {
     "en_name": "AIMO",
     "en_description": "AI First card notes, jot down ideas, semantic search, association and review are completed by the system, Docker one-click self-hosting, supports Web / macOS / Windows / Android"
+  },
+  "TempCanvas": {
+    "en_name": "TempCanvas",
+    "en_description": "Free, no registration required temporary online whiteboard. Open it to quickly draw, record handwriting and export PNG. The content is only saved locally in the browser."
   }
 }
