@@ -11178,5 +11178,17 @@
   "TempCanvas": {
     "en_name": "TempCanvas",
     "en_description": "Free, no registration required temporary online whiteboard. Open it to quickly draw, record handwriting and export PNG. The content is only saved locally in the browser."
+  },
+  "MailMergeOnline": {
+    "en_name": "MailMergeOnline",
+    "en_description": "Online PDF batch generation tool with built-in ready-made templates for certificates, contracts, payslips, invoices, etc. Import Excel/CSV and map fields to batch generate personalized PDFs, and the data does not leave the browser - no installation required"
+  },
+  "SandBase CLI": {
+    "en_name": "SandBase CLI",
+    "en_description": "AI Agent model tool CLI, one command installs local MCP for 25 clients such as Claude Code, Codex, Cursor, etc., discovers and calls 2,000+ AI models and APIs; you can view parameters and prices before running, and track costs after running - open source TypeScript"
+  },
+  "方块世界 3D": {
+    "en_name": "Block World 3D",
+    "en_description": "Browser version of the voxel sandbox game, you can freely dig and place blocks, build buildings, smelt, drive redstone circuits, interact with villagers, and automatically synchronize cloud archives - open the browser and play"
   }
 }
