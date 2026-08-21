@@ -11194,5 +11194,9 @@
   "Stella_project": {
     "en_name": "Stella_project",
     "en_description": "QQ group chat robot runs completely locally and does not transmit any chat content. It relies on locally deployed small parameter large language model (SLM) and memory system to achieve long-term/short-term memory and anthropomorphic chat."
+  },
+  "DouYin": {
+    "en_name": "DouYin",
+    "en_description": "Douyin AI customer acquisition assistant, VLM visual large-scale model automatically analyzes the video screen, automatically likes and collects according to keyword conditions, supports walking mode and filtering of intended customers in the comment area, and Android accessibility services can run without root."
   }
 }

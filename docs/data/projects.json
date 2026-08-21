@@ -1,18 +1,40 @@
 {
-  "generatedAt": "2026-08-21T06:36:03.176Z",
-  "totalProjects": 2865,
+  "generatedAt": "2026-08-21T12:34:44.596Z",
+  "totalProjects": 2866,
   "stats": {
-    "live": 2417,
+    "live": 2418,
     "dev": 34,
     "closed": 414
   },
   "boards": {
-    "main": 1930,
+    "main": 1931,
     "programmer": 317,
     "game": 120,
     "archive": 498
   },
   "projects": [
+    {
+      "name": "DouYin",
+      "url": "https://gitee.com/jeffcat/douyin",
+      "description": "抖音 AI 获客助手，VLM 视觉大模型自动分析视频画面，按关键词条件自动点赞收藏，支持散步模式和评论区意向客户筛选，Android 无障碍服务免 Root 运行",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "main",
+      "date": "2026-08-21",
+      "author": {
+        "name": "Sword",
+        "city": "",
+        "github": "https://github.com/330132662/douyin",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "AI/ML",
+        "Media",
+        "Mobile"
+      ]
+    },
     {
       "name": "Stella_project",
       "url": "https://github.com/Eternal-Wanderer-Vegetable/Stella_project",
