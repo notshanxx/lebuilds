@@ -1,18 +1,38 @@
 {
-  "generatedAt": "2026-08-21T00:57:46.591Z",
-  "totalProjects": 2864,
+  "generatedAt": "2026-08-21T06:36:03.176Z",
+  "totalProjects": 2865,
   "stats": {
-    "live": 2416,
+    "live": 2417,
     "dev": 34,
     "closed": 414
   },
   "boards": {
     "main": 1930,
-    "programmer": 316,
+    "programmer": 317,
     "game": 120,
     "archive": 498
   },
   "projects": [
+    {
+      "name": "Stella_project",
+      "url": "https://github.com/Eternal-Wanderer-Vegetable/Stella_project",
+      "description": "QQ 群聊机器人，完全本地运行、不外传任何聊天内容，依托本地部署的小参数大语言模型（SLM）和记忆系统实现长期/短期记忆与拟人化聊天",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "programmer",
+      "date": "2026-08-21",
+      "author": {
+        "name": "Eternal-Wanderer-Vegetable",
+        "city": "",
+        "github": "https://github.com/Eternal-Wanderer-Vegetable",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "AI/ML"
+      ]
+    },
     {
       "name": "MailMergeOnline",
       "url": "https://mailmergeonline.com/",

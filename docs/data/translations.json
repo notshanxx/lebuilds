@@ -11190,5 +11190,9 @@
   "方块世界 3D": {
     "en_name": "Block World 3D",
     "en_description": "Browser version of the voxel sandbox game, you can freely dig and place blocks, build buildings, smelt, drive redstone circuits, interact with villagers, and automatically synchronize cloud archives - open the browser and play"
+  },
+  "Stella_project": {
+    "en_name": "Stella_project",
+    "en_description": "QQ group chat robot runs completely locally and does not transmit any chat content. It relies on locally deployed small parameter large language model (SLM) and memory system to achieve long-term/short-term memory and anthropomorphic chat."
   }
 }
