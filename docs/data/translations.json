@@ -11198,5 +11198,33 @@
   "DouYin": {
     "en_name": "DouYin",
     "en_description": "Douyin AI customer acquisition assistant, VLM visual large-scale model automatically analyzes the video screen, automatically likes and collects according to keyword conditions, supports walking mode and filtering of intended customers in the comment area, and Android accessibility services can run without root."
+  },
+  "DSH Quality": {
+    "en_name": "DSH Quality",
+    "en_description": "DeepSeek Harness plug-in quality scoring and safety inspection platform - independent scoring (maintenance/documentation/npm/ecological health), real-time security warnings, A-D grades, helping you find plug-ins worth installing and avoiding scams"
+  },
+  "HǎoWèi 好味": {
+    "en_name": "HǎoWèi delicious",
+    "en_description": "Home-cooked Chinese recipes in English (for the English-speaking world) - From mapo tofu to tomato scrambled eggs, each dish provides ingredient alternatives, bilingual terms and step-by-step photos, allowing you to make authentic Chinese meals at home"
+  },
+  "Codex Pet Generator": {
+    "en_name": "Codex Pet Generator",
+    "en_description": "Upload a photo, AI will generate an exclusive animated pixel pet (spritesheet.webp + pet.json), and load a line of commands into the OpenAI Codex terminal to become your pixel partner when writing code."
+  },
+  "Awesome Codex Skin": {
+    "en_name": "Awesome Codex Skin",
+    "en_description": "A neutral index site that collects OpenAI Codex desktop and CLI skins, theme engines and galleries from all over the network. Filter by style (dark night/neon/anime/retro, etc.), color matching and platform. You can install it by copying a command. It also includes pet and workspace beautification plug-ins, supporting 12 languages."
+  },
+  "GetCreditWorth": {
+    "en_name": "GetCreditWorth",
+    "en_description": "Help you calculate how much an Audible point is worth ($14.95), and rank 300+ audiobooks based on \"cost of listening to books per hour\", telling you which book is the most cost-effective to exchange for, and which book is more valuable to buy directly; tool type (SaaS + content)"
+  },
+  "FlowWeaver": {
+    "en_name": "FlowWeaver",
+    "en_description": "A visual orchestration tool based on the Agno agent framework, a drag-and-drop canvas construction process, supports natural language creation and editing workflow, and can be exported to an independent Python single file"
+  },
+  "YiBoard": {
+    "en_name": "YiBoard",
+    "en_description": "A chess platform that can be played directly in the browser. You can play backgammon against real AI engines or friends for free. No account or download is required. There is an 18-level ladder from \"9th level\" to \"9th level\". Chinese chess and Go are also included in the roadmap."
   }
 }
