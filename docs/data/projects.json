@@ -1,18 +1,100 @@
 {
-  "generatedAt": "2026-08-22T06:29:52.019Z",
-  "totalProjects": 2873,
+  "generatedAt": "2026-08-22T12:27:11.871Z",
+  "totalProjects": 2877,
   "stats": {
-    "live": 2425,
+    "live": 2429,
     "dev": 34,
     "closed": 414
   },
   "boards": {
-    "main": 1936,
-    "programmer": 318,
+    "main": 1939,
+    "programmer": 319,
     "game": 121,
     "archive": 498
   },
   "projects": [
+    {
+      "name": "贴纸喵MewSticker",
+      "url": "http://sticker.guantou.site",
+      "description": "AI 贴纸生成器，输入文字或上传参考图即可生成单张贴纸、角色三视图及统一风格贴纸合集，支持智能抠图、按主体自动切分、添加白边与涂鸦文字，自由排版并批量导出透明 PNG",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "main",
+      "date": "2026-08-22",
+      "author": {
+        "name": "Leochens",
+        "city": "北京",
+        "github": "https://github.com/leochens",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "AI/ML"
+      ]
+    },
+    {
+      "name": "Hermes Startup",
+      "url": "https://hermesstartup.com",
+      "description": "用 Hermes Agent 赚取第一笔真实美元收入的免费实操路径——回答 10 个私人问题，免费获得 3 个与你匹配的商业想法（不承诺收入），可选一次性 US$10 由 Hermes Startup 帮你构建并运行；开源、无订阅、无需注册",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "main",
+      "date": "2026-08-22",
+      "author": {
+        "name": "33hodl",
+        "city": "",
+        "github": "https://github.com/33hodl",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "Other"
+      ]
+    },
+    {
+      "name": "AIXiamo",
+      "url": "https://www.aixiamo.com/?utm_source=cnindie&utm_medium=github",
+      "description": "ChatGPT Plus / Pro 国内充值与订阅代付服务，面向没有海外银行卡的用户，支持支付宝、USDT、订单查询与 7×24 小时客服入口；独立第三方，非 OpenAI 官方",
+      "status": "live",
+      "moreInfoUrl": "https://github.com/momochoog/gpt-daichong",
+      "moreInfoLabel": "公开教程与服务说明",
+      "board": "main",
+      "date": "2026-08-22",
+      "author": {
+        "name": "momochoog",
+        "city": "",
+        "github": "https://github.com/momochoog",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "AI/ML",
+        "Finance"
+      ]
+    },
+    {
+      "name": "OrcaRouter",
+      "url": "https://www.orcarouter.ai",
+      "description": "OpenAI 兼容 AI 网关，一个 Key 接入 Claude/GPT/Gemini/DeepSeek 等模型，自适应路由 + 自动故障转移 + 推理零加价，同一端点内建 AI Agent 零信任安全（默认拒绝），无需改应用代码",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "programmer",
+      "date": "2026-08-22",
+      "author": {
+        "name": "OrcaRouter",
+        "city": "",
+        "github": "",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "AI/ML",
+        "Developer"
+      ]
+    },
     {
       "name": "DSH Quality",
       "url": "https://dshquality.com",

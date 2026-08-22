@@ -11226,5 +11226,21 @@
   "YiBoard": {
     "en_name": "YiBoard",
     "en_description": "A chess platform that can be played directly in the browser. You can play backgammon against real AI engines or friends for free. No account or download is required. There is an 18-level ladder from \"9th level\" to \"9th level\". Chinese chess and Go are also included in the roadmap."
+  },
+  "贴纸喵MewSticker": {
+    "en_name": "Sticker MeowMewSticker",
+    "en_description": "AI sticker generator. Enter text or upload a reference image to generate a single sticker, three views of the character, and a unified style sticker collection. It supports intelligent cutout, automatic segmentation according to the subject, adding white borders and graffiti text, free typesetting, and batch export of transparent PNGs."
+  },
+  "Hermes Startup": {
+    "en_name": "Hermes Startup",
+    "en_description": "The free, hands-on path to making your first real dollar income with Hermes Agent - answer 10 private questions and get 3 business ideas that match you for free (no income promised), optional one-time US$10 built and run by Hermes Startup; open source, no subscription, no registration required"
+  },
+  "AIXiamo": {
+    "en_name": "AIXiamo",
+    "en_description": "ChatGPT Plus / Pro domestic recharge and subscription payment service, for users without overseas bank cards, supports Alipay, USDT, order inquiry and 7×24 hours customer service entrance; independent third party, not OpenAI official"
+  },
+  "OrcaRouter": {
+    "en_name": "OrcaRouter",
+    "en_description": "OpenAI is compatible with AI gateway, one key can be used to access models such as Claude/GPT/Gemini/DeepSeek, adaptive routing + automatic failover + zero price increase for inference, and the same endpoint has built-in AI Agent zero trust security (denied by default), no need to change the application code"
   }
 }
