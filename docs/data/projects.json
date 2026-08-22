@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T18:27:59.676Z",
+  "generatedAt": "2026-08-22T00:54:04.800Z",
   "totalProjects": 2873,
   "stats": {
     "live": 2425,
@@ -50,7 +50,7 @@
         "extra": ""
       },
       "tags": [
-        "Other"
+        "Media"
       ]
     },
     {
@@ -71,7 +71,8 @@
       },
       "tags": [
         "AI/ML",
-        "Developer"
+        "Developer",
+        "Media"
       ]
     },
     {
@@ -158,6 +159,7 @@
       },
       "tags": [
         "Productivity",
+        "Media",
         "Web"
       ]
     },
@@ -178,6 +180,7 @@
         "extra": ""
       },
       "tags": [
+        "Developer",
         "Productivity"
       ]
     },
@@ -219,6 +222,7 @@
       },
       "tags": [
         "AI/ML",
+        "Game",
         "Web"
       ]
     },
