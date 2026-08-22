@@ -1,18 +1,82 @@
 {
-  "generatedAt": "2026-08-22T12:27:11.871Z",
-  "totalProjects": 2877,
+  "generatedAt": "2026-08-22T18:20:13.827Z",
+  "totalProjects": 2880,
   "stats": {
-    "live": 2429,
+    "live": 2432,
     "dev": 34,
     "closed": 414
   },
   "boards": {
-    "main": 1939,
+    "main": 1942,
     "programmer": 319,
     "game": 121,
     "archive": 498
   },
   "projects": [
+    {
+      "name": "SocialEcho",
+      "url": "https://www.socialecho.cn/",
+      "description": "面向出海企业和跨境卖家的全社媒 AI 工作台，在一个工作区统一管理 11 个海外社交平台的内容创作与发布、评论私信、社交监听、数据分析和自动化",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "main",
+      "date": "2026-08-22",
+      "author": {
+        "name": "Samuel-Kuang",
+        "city": "广州",
+        "github": "https://github.com/Samuel-Kuang",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "AI/ML"
+      ]
+    },
+    {
+      "name": "SubtitleGenerator",
+      "url": "https://subtitlegenerator.app/",
+      "description": "AI 字幕生成与校对工具，自动标出不确定的词并显示剩余检查数，在同一浏览器工作流里完成生成、校对、整轨翻译、字幕样式和视频导出；无需注册可免费处理最长 10 分钟视频",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "main",
+      "date": "2026-08-22",
+      "author": {
+        "name": "woshiliyana",
+        "city": "",
+        "github": "https://github.com/woshiliyana",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "AI/ML",
+        "Productivity",
+        "Media",
+        "Web"
+      ]
+    },
+    {
+      "name": "MaxUsage",
+      "url": "https://github.com/1c7/max-usage/blob/main/README-zh-CN.md",
+      "description": "帮助同时订阅多个 AI 编程套餐的用户充分利用每个套餐的额度；根据剩余额度和重置时间推荐当前该用哪个，并在 macOS 菜单栏集中展示所有套餐的用量与重置日期",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "main",
+      "date": "2026-08-22",
+      "author": {
+        "name": "郑诚",
+        "city": "",
+        "github": "https://github.com/1c7",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "AI/ML",
+        "Developer"
+      ]
+    },
     {
       "name": "贴纸喵MewSticker",
       "url": "http://sticker.guantou.site",
@@ -30,7 +94,8 @@
         "extra": ""
       },
       "tags": [
-        "AI/ML"
+        "AI/ML",
+        "Media"
       ]
     },
     {

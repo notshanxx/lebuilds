@@ -11242,5 +11242,17 @@
   "OrcaRouter": {
     "en_name": "OrcaRouter",
     "en_description": "OpenAI is compatible with AI gateway, one key can be used to access models such as Claude/GPT/Gemini/DeepSeek, adaptive routing + automatic failover + zero price increase for inference, and the same endpoint has built-in AI Agent zero trust security (denied by default), no need to change the application code"
+  },
+  "SocialEcho": {
+    "en_name": "SocialEcho",
+    "en_description": "An all-social media AI workbench for overseas enterprises and cross-border sellers that manages content creation and publishing, comment private messages, social monitoring, data analysis and automation for 11 overseas social platforms in one workspace"
+  },
+  "SubtitleGenerator": {
+    "en_name": "SubtitleGenerator",
+    "en_description": "AI subtitle generation and proofreading tool, automatically marks uncertain words and displays the number of remaining checks, and completes generation, proofreading, full-track translation, subtitle style and video export in the same browser workflow; no registration is required and videos up to 10 minutes long can be processed for free"
+  },
+  "MaxUsage": {
+    "en_name": "MaxUsage",
+    "en_description": "Help users who subscribe to multiple AI programming packages at the same time make full use of the quota of each package; recommend which one to use based on the remaining quota and reset time, and display the usage and reset dates of all packages in the macOS menu bar"
   }
 }
