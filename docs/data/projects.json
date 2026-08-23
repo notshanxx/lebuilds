@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T18:20:13.827Z",
+  "generatedAt": "2026-08-23T00:58:53.090Z",
   "totalProjects": 2880,
   "stats": {
     "live": 2432,
@@ -30,7 +30,8 @@
         "extra": ""
       },
       "tags": [
-        "AI/ML"
+        "AI/ML",
+        "Media"
       ]
     },
     {
