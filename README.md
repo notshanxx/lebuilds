@@ -26,6 +26,14 @@
 
 ### 2026 年 8 月 24 号添加
 
+#### 张波 - [Github](https://github.com/Mr-ZhangBo)
+* :white_check_mark: [CreateForge AI](https://createforgeai.com/)：AI 图像与视频生成工作台，接入 17 个模型，支持 Seedance 2.5、Veo 3.1 等模型的文生图、图生图、文生视频和图生视频，提供积分报价、任务中心与私有媒体库
+
+#### EthanYoQ - [Github](https://github.com/EthanYoQ)
+* :white_check_mark: [AI 小说作家](https://github.com/EthanYoQ/AI-Novel-Writer)：AI 小说创作桌面应用，把角色、世界观、大纲、写作、审校与修订串成可控流程，写长篇不崩，包含续写仿写其他小说的功能；另有 DeepSeek Harness 插件版本，可用本地模型创作成人向（NSFW）小说
+* :white_check_mark: [Invoice Downloader](https://github.com/EthanYoQ/Invoice-Downloader)：电子发票整理与报销准备桌面应用，从 QQ 或 163 邮箱批量下载发票，也可直接把发票二维码下载成发票，OCR 识别、分类归档并生成报销 Excel 汇总；另有 DeepSeek Harness 插件版本
+* :white_check_mark: [轻语输入 / Whisper Input](https://github.com/EthanYoQ/whisper-input)：中文 AI 语音输入工具，按全局快捷键即可将口述整理为去口头语、正式汇报或邮件格式，支持自动转成英文与自定模型
+
 #### Darren(深圳) - [Github](https://github.com/darren562)
 * :white_check_mark: [Froging AI](https://froging.ai)：AI 视频与图片生成平台，在同一工作台调用 Kling 3.0、Veo 3.1、MiniMax H3 等模型将文字或图片转为高清内容，支持免费开始与无水印导出
 
