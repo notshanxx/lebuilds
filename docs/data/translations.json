@@ -11254,5 +11254,9 @@
   "MaxUsage": {
     "en_name": "MaxUsage",
     "en_description": "Help users who subscribe to multiple AI programming packages at the same time make full use of the quota of each package; recommend which one to use based on the remaining quota and reset time, and display the usage and reset dates of all packages in the macOS menu bar"
+  },
+  "Froging AI": {
+    "en_name": "Froging AI",
+    "en_description": "AI 视频与图片生成平台，在同一工作台调用 Kling 3.0、Veo 3.1、MiniMax H3 等模型将文字或图片转为高清内容，支持免费开始与无水印导出"
   }
 }
