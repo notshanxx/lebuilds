@@ -1,18 +1,39 @@
 {
-  "generatedAt": "2026-08-25T12:36:24.608Z",
-  "totalProjects": 2886,
+  "generatedAt": "2026-08-25T18:31:53.146Z",
+  "totalProjects": 2887,
   "stats": {
-    "live": 2438,
+    "live": 2439,
     "dev": 34,
     "closed": 414
   },
   "boards": {
-    "main": 1948,
+    "main": 1949,
     "programmer": 319,
     "game": 121,
     "archive": 498
   },
   "projects": [
+    {
+      "name": "AI 室内设计",
+      "url": "https://ai-room.design/",
+      "description": "上传房间照片生成多种风格的装修设计，装修前即可预览效果",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "main",
+      "date": "2026-08-26",
+      "author": {
+        "name": "Jay",
+        "city": "",
+        "github": "https://github.com/chenminjie24",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "AI/ML",
+        "Design"
+      ]
+    },
     {
       "name": "Halo 音乐",
       "url": "https://github.com/zhoujungis/halo_music",
