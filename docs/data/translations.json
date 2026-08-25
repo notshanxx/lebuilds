@@ -11270,5 +11270,9 @@
   "Invoice Downloader": {
     "en_name": "Invoice Downloader",
     "en_description": "电子发票整理与报销准备桌面应用，从 QQ 或 163 邮箱批量下载发票，也可直接把发票二维码下载成发票，OCR 识别、分类归档并生成报销 Excel 汇总；另有 DeepSeek Harness 插件版本"
+  },
+  "Halo 音乐": {
+    "en_name": "Halo 音乐",
+    "en_description": "在线音乐播放与下载工具，推出 Electron 桌面客户端（Windows）与安卓 APP，统一多平台音乐搜索、播放、歌词和歌单导入，支持离线缓存"
   }
 }

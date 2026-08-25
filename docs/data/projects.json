@@ -1,18 +1,40 @@
 {
-  "generatedAt": "2026-08-25T00:56:39.818Z",
-  "totalProjects": 2885,
+  "generatedAt": "2026-08-25T06:36:19.172Z",
+  "totalProjects": 2886,
   "stats": {
-    "live": 2437,
+    "live": 2438,
     "dev": 34,
     "closed": 414
   },
   "boards": {
-    "main": 1947,
+    "main": 1948,
     "programmer": 319,
     "game": 121,
     "archive": 498
   },
   "projects": [
+    {
+      "name": "Halo 音乐",
+      "url": "https://github.com/zhoujungis/halo_music",
+      "description": "在线音乐播放与下载工具，推出 Electron 桌面客户端（Windows）与安卓 APP，统一多平台音乐搜索、播放、歌词和歌单导入，支持离线缓存",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "main",
+      "date": "2026-08-25",
+      "author": {
+        "name": "zhoujun",
+        "city": "深圳",
+        "github": "https://github.com/zhoujungis",
+        "blog": "https://zhoujungis.github.io/",
+        "extra": ""
+      },
+      "tags": [
+        "Productivity",
+        "Media",
+        "Web"
+      ]
+    },
     {
       "name": "CreateForge AI",
       "url": "https://createforgeai.com/",
