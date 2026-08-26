@@ -1,18 +1,40 @@
 {
-  "generatedAt": "2026-08-26T00:57:13.042Z",
-  "totalProjects": 2887,
+  "generatedAt": "2026-08-26T06:38:11.288Z",
+  "totalProjects": 2888,
   "stats": {
-    "live": 2439,
+    "live": 2440,
     "dev": 34,
     "closed": 414
   },
   "boards": {
-    "main": 1949,
+    "main": 1950,
     "programmer": 319,
     "game": 121,
     "archive": 498
   },
   "projects": [
+    {
+      "name": "Formatho",
+      "url": "https://formatho.com",
+      "description": "134 个免费开发者工具合集（JSON/YAML/CSV 格式化、JWT 解码、SQL 格式化、哈希生成等），全部浏览器本地处理，无上传无注册，开源（MIT）",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "main",
+      "date": "2026-08-26",
+      "author": {
+        "name": "Nitin Gurbani",
+        "city": "",
+        "github": "https://github.com/Ritavidhata",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "Developer",
+        "Productivity",
+        "Web"
+      ]
+    },
     {
       "name": "AI 室内设计",
       "url": "https://ai-room.design/",
@@ -4155,7 +4177,7 @@
     {
       "name": "Lumi & Friends iOS App Finder",
       "url": "https://alice51849.github.io/ios-app-guide/zh-Hans/tools/private-pay-once-iphone-app-finder.html",
-      "description": "按用途、隐私和付费方式查找 29 款已上架 iPhone/iPad App，覆盖学习、效率、照片、旅行与健康，逐款直达 App Store；支持 Apple 官方 50 个本地化区域",
+      "description": "按用途、隐私和付费方式查找已上架的 iPhone/iPad App，覆盖学习、效率、照片、旅行与健康，逐款直达 App Store；支持 Apple 官方 50 个本地化区域",
       "status": "live",
       "moreInfoUrl": "",
       "moreInfoLabel": "",

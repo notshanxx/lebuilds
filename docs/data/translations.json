@@ -11278,5 +11278,9 @@
   "AI 室内设计": {
     "en_name": "AI 室内设计",
     "en_description": "上传房间照片生成多种风格的装修设计，装修前即可预览效果"
+  },
+  "Formatho": {
+    "en_name": "Formatho",
+    "en_description": "134 个免费开发者工具合集（JSON/YAML/CSV 格式化、JWT 解码、SQL 格式化、哈希生成等），全部浏览器本地处理，无上传无注册，开源（MIT）"
   }
 }
