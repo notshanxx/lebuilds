@@ -11306,5 +11306,17 @@
   "Video to Text": {
     "en_name": "Video to Text",
     "en_description": "在线视频转文字，支持 CSV、TXT、SRT、VTT 四种导出格式，可以附带时间戳和说话人标签，支持 99 种语言，除上传文件外也支持 YouTube、TikTok、Instagram 等社交媒体平台视频链接"
+  },
+  "Agentero": {
+    "en_name": "Agentero",
+    "en_description": "Agent 友好的文献管理与阅读器，Agent 时代的 Zotero"
+  },
+  "Vault Keeper": {
+    "en_name": "Vault Keeper",
+    "en_description": "Obsidian vault 自动运维插件：定时检测断链、孤儿笔记、空笔记并生成健康报告，只读不改库"
+  },
+  "WorkGround2": {
+    "en_name": "WorkGround2",
+    "en_description": "本地优先的 AI 工程工作台，一个 Go 二进制同时提供 CLI/TUI 与桌面端，支持 DeepSeek、Anthropic、OpenAI 兼容接口等多模型接入，内置 MCP 工具管理与改动回滚 — MIT 开源，提供 Windows、macOS、Linux 版本"
   }
 }
