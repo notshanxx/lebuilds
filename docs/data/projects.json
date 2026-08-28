@@ -1,18 +1,100 @@
 {
-  "generatedAt": "2026-08-28T08:34:57.918Z",
-  "totalProjects": 2898,
+  "generatedAt": "2026-08-28T21:39:43.925Z",
+  "totalProjects": 2902,
   "stats": {
-    "live": 2450,
+    "live": 2454,
     "dev": 34,
     "closed": 414
   },
   "boards": {
-    "main": 1958,
-    "programmer": 320,
+    "main": 1961,
+    "programmer": 321,
     "game": 122,
     "archive": 498
   },
   "projects": [
+    {
+      "name": "BaziCalculator.ai",
+      "url": "https://www.bazicalculator.ai/",
+      "description": "免费在线八字排盘与解读工具，输入出生日期、时间和城市即可生成四柱、日主、五行与十年大运；按出生地真太阳时校正，时辰不详也可生成三柱命盘，无需注册",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "main",
+      "date": "2026-08-28",
+      "author": {
+        "name": "mikewaynecn",
+        "city": "",
+        "github": "https://github.com/mikewaynecn-cell",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "AI/ML",
+        "Productivity",
+        "Web"
+      ]
+    },
+    {
+      "name": "Nail Shapes",
+      "url": "https://www.nailshapes.art/",
+      "description": "美甲甲型选择指南，对比杏仁形、椭圆形、棺材形等 8 种甲型的长度、维护难度与视觉效果；回答 3 个问题即可获得适合手型与日常习惯的推荐，无需注册",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "main",
+      "date": "2026-08-28",
+      "author": {
+        "name": "mikewaynecn",
+        "city": "",
+        "github": "https://github.com/mikewaynecn-cell",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "Other"
+      ]
+    },
+    {
+      "name": "DeepSeek酱语录",
+      "url": "https://ai-meme.cdqyfdbymn.me/",
+      "description": "DeepSeek 娘化梗图库，鲸鱼娘/AI娘化表情包瀑布流浏览，台词级搜索，一键生成带二维码分享图，持续更新中 - 无需注册，点图即存",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "main",
+      "date": "2026-08-28",
+      "author": {
+        "name": "the-beating-light-of-the-nail",
+        "city": "",
+        "github": "https://github.com/the-beating-light-of-the-nail",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "AI/ML"
+      ]
+    },
+    {
+      "name": "DSH Meme Hub",
+      "url": "https://github.com/the-beating-light-of-the-nail/dsh-meme-hub-site",
+      "description": "DeepSeek Harness 社区插件导航站的 Nuxt 3 全栈源码，收录 87 个插件、13 个分类、每日 star 排行榜与 Meme Zone 整活分区，中英双语，SSG 静态生成，开放投稿 — [线上站点](https://dsh-meme-hub.cdqyfdbymn.me/)",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "programmer",
+      "date": "2026-08-28",
+      "author": {
+        "name": "the-beating-light-of-the-nail",
+        "city": "",
+        "github": "https://github.com/the-beating-light-of-the-nail",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "Web"
+      ]
+    },
     {
       "name": "梁圣变阻器",
       "url": "https://liang-slider.havenai.online/",
