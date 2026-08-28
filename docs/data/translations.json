@@ -11318,5 +11318,9 @@
   "WorkGround2": {
     "en_name": "WorkGround2",
     "en_description": "本地优先的 AI 工程工作台，一个 Go 二进制同时提供 CLI/TUI 与桌面端，支持 DeepSeek、Anthropic、OpenAI 兼容接口等多模型接入，内置 MCP 工具管理与改动回滚 — MIT 开源，提供 Windows、macOS、Linux 版本"
+  },
+  "梁圣变阻器": {
+    "en_name": "梁圣变阻器",
+    "en_description": "AI 豪杰互动玩具站，用滑动变阻器六档境界研判各路 AI 大佬的成神数值，可送神火、砸神位、参与网友投票，也能上传人像创建自己的豪杰 — 已开源，可一键部署"
   }
 }

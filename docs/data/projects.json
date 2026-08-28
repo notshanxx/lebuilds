@@ -1,18 +1,38 @@
 {
-  "generatedAt": "2026-08-27T21:36:09.697Z",
-  "totalProjects": 2897,
+  "generatedAt": "2026-08-28T08:34:57.918Z",
+  "totalProjects": 2898,
   "stats": {
-    "live": 2449,
+    "live": 2450,
     "dev": 34,
     "closed": 414
   },
   "boards": {
     "main": 1958,
     "programmer": 320,
-    "game": 121,
+    "game": 122,
     "archive": 498
   },
   "projects": [
+    {
+      "name": "梁圣变阻器",
+      "url": "https://liang-slider.havenai.online/",
+      "description": "AI 豪杰互动玩具站，用滑动变阻器六档境界研判各路 AI 大佬的成神数值，可送神火、砸神位、参与网友投票，也能上传人像创建自己的豪杰 — 已开源，可一键部署",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "game",
+      "date": "2026-08-28",
+      "author": {
+        "name": "ethanethan",
+        "city": "上海",
+        "github": "https://github.com/lianyixin",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "AI/ML"
+      ]
+    },
     {
       "name": "Agentero",
       "url": "https://agentero.app/",
