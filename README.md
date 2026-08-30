@@ -24,7 +24,21 @@
 
 ## 3. 项目列表
 
+### 2026 年 8 月 30 号添加
+
+#### Hongshiqiang - [Github](https://github.com/Hongshiqiang)
+* :white_check_mark: [Ikat](https://ikat.app)：多模型 AI 视频生成工作台，在同一界面使用 Wan 3.0、Kling 3.0、Seedance 2.5、MiniMax H3，支持文生视频和图生视频
+
+#### easymap-gis(合肥) - [Github](https://github.com/easymap-gis)
+* :white_check_mark: [EasyMap Desktop](http://www.easymap.online/)：面向测绘、规划、应急与数据治理的桌面 GIS 平台工具集，地图制图、数据目录、58 个地理处理工具、模型构建器与在线地图下载器一站齐备，解压即用、数据不出内网
+
+#### Viki Wu - [Github](https://github.com/wxixuan118-ship-it)
+* :white_check_mark: [FishCare AI](https://www.fishcareai.com/)：观赏鱼饲养指南与免费工具站，买鱼前先查混养兼容性（4000+ 鱼种组合对照页）、鱼缸最小尺寸、水质参数和投喂量，覆盖斗鱼、孔雀鱼、七彩神仙等常见品种，免费无需注册
+
 ### 2026 年 8 月 28 号添加
+
+#### Lisa W (Berlin)
+* :white_check_mark: [bibla](https://bibla.top)：私密 AI 多方调解，加上全员授权后才公开的脱敏纠纷故事，未登录可读全文
 
 #### mikewaynecn - [Github](https://github.com/mikewaynecn-cell)
 * :white_check_mark: [BaziCalculator.ai](https://www.bazicalculator.ai/)：免费在线八字排盘与解读工具，输入出生日期、时间和城市即可生成四柱、日主、五行与十年大运；按出生地真太阳时校正，时辰不详也可生成三柱命盘，无需注册
