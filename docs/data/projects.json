@@ -1,18 +1,190 @@
 {
-  "generatedAt": "2026-09-01T03:07:51.388Z",
-  "totalProjects": 2910,
+  "generatedAt": "2026-09-01T10:57:13.139Z",
+  "totalProjects": 2918,
   "stats": {
-    "live": 2462,
+    "live": 2470,
     "dev": 34,
     "closed": 414
   },
   "boards": {
-    "main": 1968,
-    "programmer": 322,
+    "main": 1975,
+    "programmer": 323,
     "game": 122,
     "archive": 498
   },
   "projects": [
+    {
+      "name": "Vibe Coding 首切片",
+      "url": "https://dify-feishu-qa-first10.heyhui.chatgpt.site/domestic-dev-first-slice",
+      "description": "把小程序、网站、APP 或 AI/API 的模糊需求先拆成一条可运行、可验收的核心流程；公开合成演示与隐私门控受理表可直接查看，需求范围图 ¥99 起",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "main",
+      "date": "2026-09-01",
+      "author": {
+        "name": "heyu17625-glitch",
+        "city": "",
+        "github": "https://github.com/heyu17625-glitch",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "AI/ML",
+        "Developer",
+        "Web"
+      ]
+    },
+    {
+      "name": "MoveToZero",
+      "url": "https://movetozero.site/",
+      "description": "iPhone 久坐提醒 App，定时提醒起身走动，通过步数目标和完成记录帮助安排工作、学习间隙的休息；配套网站 [Stand Up Reminder](https://standupreminder.com/) 提供网页休息计时器和办公提醒指南",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "main",
+      "date": "2026-09-01",
+      "author": {
+        "name": "LuKaka",
+        "city": "",
+        "github": "https://github.com/Masker99",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "Mobile",
+        "Web",
+        "Education"
+      ]
+    },
+    {
+      "name": "Chat2Mind",
+      "url": "https://chat2mind.site/",
+      "description": "将 ChatGPT 对话或粘贴的文本转成可编辑思维导图，帮助梳理笔记、复习知识和组织内容，支持图片、PDF 和 Markdown 导出",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "main",
+      "date": "2026-09-01",
+      "author": {
+        "name": "LuKaka",
+        "city": "",
+        "github": "https://github.com/Masker99",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "AI/ML",
+        "Productivity",
+        "Media",
+        "Education"
+      ]
+    },
+    {
+      "name": "BookmarkHell",
+      "url": "https://bookmarkhell.com/",
+      "description": "浏览器书签整理工具，导入 Chrome 或 Edge 导出的书签文件，去重、分类，检查和调整后导回浏览器",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "main",
+      "date": "2026-09-01",
+      "author": {
+        "name": "LuKaka",
+        "city": "",
+        "github": "https://github.com/Masker99",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "Productivity",
+        "Web"
+      ]
+    },
+    {
+      "name": "BigWalkTools",
+      "url": "https://bigwalktools.com/",
+      "description": "Big Walk 非官方解谜辅助站，根据颜色、物体、声音等线索查找谜题，分层查看提示，并与队友共享探索进度",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "main",
+      "date": "2026-09-01",
+      "author": {
+        "name": "LuKaka",
+        "city": "",
+        "github": "https://github.com/Masker99",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "Other"
+      ]
+    },
+    {
+      "name": "WARDOGS Companion",
+      "url": "https://wardogs-game.com/",
+      "description": "WARDOGS 非官方攻略与玩家工具站，汇总游戏资料、PC 配置要求和常见问题，帮助玩家准备游戏和查找攻略",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "main",
+      "date": "2026-09-01",
+      "author": {
+        "name": "LuKaka",
+        "city": "",
+        "github": "https://github.com/Masker99",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "Productivity",
+        "Game"
+      ]
+    },
+    {
+      "name": "EchoWord",
+      "url": "https://chromewebstore.google.com/detail/echoword/ifjpabfblikdkfgchnhdcplgbpjhoila?hl=zh-CN",
+      "description": "查词划词翻译，通过 TTS 朗读单词和例句，在语境中理解发音，帮助程序员、独立开发者和出海从业者告别哑巴英语 — Chrome / Edge 插件",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "main",
+      "date": "2026-09-01",
+      "author": {
+        "name": "pluone",
+        "city": "北京",
+        "github": "https://github.com/pluone/EchoWord",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "Developer",
+        "Web"
+      ]
+    },
+    {
+      "name": "LuckyAPI",
+      "url": "https://luckyapi.online/zh-cn",
+      "description": "多模型 AI API 服务，一个 Key 集成文本、图像和视频模型；支持的模型、请求格式兼容性、定价和用量以站内模型目录与文档为准。",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "programmer",
+      "date": "2026-09-01",
+      "author": {
+        "name": "LuckyAPI Team",
+        "city": "",
+        "github": "",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "AI/ML",
+        "Developer",
+        "Media"
+      ]
+    },
     {
       "name": "HelloGen",
       "url": "https://hellogen.ai/",
