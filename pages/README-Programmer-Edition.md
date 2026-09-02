@@ -1,10 +1,3 @@
-### 2026 年 9 月 1 号添加
-
-
-#### LuckyAPI Team
-* :white_check_mark: [LuckyAPI](https://luckyapi.online/zh-cn)：多模型 AI API 服务，一个 Key 集成文本、图像和视频模型；支持的模型、请求格式兼容性、定价和用量以站内模型目录与文档为准。
-
-
 ## 中国独立开发者项目列表（程序员版）
 
 [主板面点这里](https://github.com/1c7/chinese-independent-developer/)
@@ -22,6 +15,16 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
+
+### 2026 年 9 月 2 号添加
+
+#### 武晓亮 - [Github](https://github.com/wu1064442747)
+* :white_check_mark: [Sub2API](https://sub2api.ai-baby-dance.com/)：AI API 中转网关，按个人开发者到大规模商业应用的规模提供多档套餐，支持余额和订阅付费
+
+### 2026 年 9 月 1 号添加
+
+#### LuckyAPI Team
+* :white_check_mark: [LuckyAPI](https://luckyapi.online/zh-cn)：多模型 AI API 服务，一个 Key 集成文本、图像和视频模型；支持的模型、请求格式兼容性、定价和用量以站内模型目录与文档为准。
 
 ### 2026 年 8 月 30 号添加
 

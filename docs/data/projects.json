@@ -1,18 +1,123 @@
 {
-  "generatedAt": "2026-09-02T02:27:20.007Z",
-  "totalProjects": 2918,
+  "generatedAt": "2026-09-02T10:25:15.166Z",
+  "totalProjects": 2923,
   "stats": {
-    "live": 2470,
+    "live": 2475,
     "dev": 34,
     "closed": 414
   },
   "boards": {
-    "main": 1975,
-    "programmer": 323,
+    "main": 1979,
+    "programmer": 324,
     "game": 122,
     "archive": 498
   },
   "projects": [
+    {
+      "name": "Lunalisa",
+      "url": "https://luna-lisa.art",
+      "description": "面向产品团队的 AI 视觉工作台，用提示词和获许可的参考图生成、迭代产品视觉素材",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "main",
+      "date": "2026-09-02",
+      "author": {
+        "name": "JeremyGDM",
+        "city": "",
+        "github": "https://github.com/JeremyGDM",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "AI/ML"
+      ]
+    },
+    {
+      "name": "BulkCerts",
+      "url": "https://bulkcerts.com/",
+      "description": "批量证书生成器，上传 Excel 或 CSV 列表、选择模板，即可为每位收件人生成个性化的 PDF 或 PNG 证书",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "main",
+      "date": "2026-09-02",
+      "author": {
+        "name": "Linky-AIinlink",
+        "city": "",
+        "github": "https://github.com/Linky-AIinlink",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "Design"
+      ]
+    },
+    {
+      "name": "StitchCraft",
+      "url": "https://crossstitchpatternmaker.app/",
+      "description": "十字绣图纸生成器（免费），照片拖进浏览器几秒变成可绣的 DMC 图纸，454 色自动匹配色号、算好每种线买几绞，导出 PDF 直接打印；无需注册、照片不上传服务器，可选 AI 重绘，支持中文界面",
+      "status": "live",
+      "moreInfoUrl": "https://github.com/ooklwq/cross-stitch-pattern-maker",
+      "moreInfoLabel": "更多介绍",
+      "board": "main",
+      "date": "2026-09-02",
+      "author": {
+        "name": "ooklwq",
+        "city": "成都",
+        "github": "https://github.com/ooklwq",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "AI/ML",
+        "Web",
+        "Design"
+      ]
+    },
+    {
+      "name": "Image3D AI",
+      "url": "https://www.aiimageto3d.com/",
+      "description": "AI 图片转 3D 模型平台，集成 Tripo、Meshy、Hunyuan、Pixal3D 等多个 3D 生成模型，并提供 AI 贴图、Retopology、UV 展开和模型组件分离工具，从图片生成到 3D 后处理可在一个平台完成",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "main",
+      "date": "2026-09-02",
+      "author": {
+        "name": "Cairne",
+        "city": "",
+        "github": "https://github.com/cairne",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "AI/ML",
+        "Productivity",
+        "Media"
+      ]
+    },
+    {
+      "name": "Sub2API",
+      "url": "https://sub2api.ai-baby-dance.com/",
+      "description": "AI API 中转网关，按个人开发者到大规模商业应用的规模提供多档套餐，支持余额和订阅付费",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "programmer",
+      "date": "2026-09-02",
+      "author": {
+        "name": "武晓亮",
+        "city": "",
+        "github": "https://github.com/wu1064442747",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "AI/ML",
+        "Developer"
+      ]
+    },
     {
       "name": "Vibe Coding 首切片",
       "url": "https://dify-feishu-qa-first10.heyhui.chatgpt.site/domestic-dev-first-slice",
