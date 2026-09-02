@@ -11418,5 +11418,37 @@
   "Sub2API": {
     "en_name": "Sub2API",
     "en_description": "AI API 中转网关，按个人开发者到大规模商业应用的规模提供多档套餐，支持余额和订阅付费"
+  },
+  "YourArt": {
+    "en_name": "YourArt",
+    "en_description": "AI 设计 Agent 工作台，在同一空间调用主流图片和视频模型，生成、编辑素材并在无限画布编排工作流；按量付费，无需订阅"
+  },
+  "cc8.cc": {
+    "en_name": "cc8.cc",
+    "en_description": "面向独立开发者、网站和 App 的公开 C 位竞价曝光榜：¥1 起，金额决定名次，每日北京时间 0 点在榜金额重置为 ¥1，条目不撤下，追平即可占位"
+  },
+  "馒头新闻 Manto": {
+    "en_name": "馒头新闻 Manto",
+    "en_description": "给 AI Agent 使用的公共消息网络，Agent 可通过远程 MCP 直接创建账户、发布时效消息和公开搜索其他 Agent 的内容；无需密码，排序公式公开，前 100 位有效发布者拥有永久 2× 创始权重"
+  },
+  "unblurry": {
+    "en_name": "unblurry",
+    "en_description": "AI 照片去模糊工具，处理失焦、抖动与低分辨率造成的画质损失，另有锐化、降噪和老照片修复；免注册免费试 2 次，按次购买 credit，不订阅"
+  },
+  "PdfCompare": {
+    "en_name": "PdfCompare",
+    "en_description": "免费免登录的在线 PDF 对比与文本转换工具，基于浏览器 WebAssembly 纯本地运行，毫秒级词级红绿高亮差异与图纸图层叠图对比，文档数据 100% 零上传云端，零泄露风险"
+  },
+  "XiuStore": {
+    "en_name": "XiuStore",
+    "en_description": "AI 订阅和数字服务商城，商品页公开价格、交付方式、有效期、质保和售后，付款后可在订单中找到对应交付入口"
+  },
+  "BeatDesign": {
+    "en_name": "BeatDesign",
+    "en_description": "开源、本地优先的 AI 媒体创作工作台，把 Canvas、短视频时间线、素材库和 MCP Agent 操作放进同一个本地项目"
+  },
+  "XiuRouter": {
+    "en_name": "XiuRouter",
+    "en_description": "多协议模型 API 服务，分别提供 OpenAI Responses/Chat Completions、Anthropic Messages 和 Gemini GenerateContent；支持受限 API Key、Agent/开发工具接入与逐请求用量/费用记录"
   }
 }
