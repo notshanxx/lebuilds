@@ -1,18 +1,63 @@
 {
-  "generatedAt": "2026-09-03T02:35:04.377Z",
-  "totalProjects": 2931,
+  "generatedAt": "2026-09-03T10:33:04.278Z",
+  "totalProjects": 2933,
   "stats": {
-    "live": 2483,
+    "live": 2485,
     "dev": 34,
     "closed": 414
   },
   "boards": {
-    "main": 1984,
+    "main": 1986,
     "programmer": 327,
     "game": 122,
     "archive": 498
   },
   "projects": [
+    {
+      "name": "Video Text Remover",
+      "url": "https://videotextremover.org/",
+      "description": "AI-powered tool to erase text, captions, and subtitles from any video",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "main",
+      "date": "2026-09-03",
+      "author": {
+        "name": "CoderLim",
+        "city": "北京",
+        "github": "https://github.com/CoderLim",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "AI/ML",
+        "Productivity",
+        "Media"
+      ]
+    },
+    {
+      "name": "PicEditor",
+      "url": "https://piceditor.org/",
+      "description": "AI 图片编辑和生成工具，用自然语言换背景、移除物体、修改图片文字或生成新图，首次使用无需注册",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "main",
+      "date": "2026-09-03",
+      "author": {
+        "name": "dong13",
+        "city": "",
+        "github": "https://github.com/dong13yu",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "AI/ML",
+        "Developer",
+        "Productivity",
+        "Media"
+      ]
+    },
     {
       "name": "YourArt",
       "url": "https://yourart.app",

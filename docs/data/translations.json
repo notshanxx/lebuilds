@@ -11450,5 +11450,9 @@
   "XiuRouter": {
     "en_name": "XiuRouter",
     "en_description": "多协议模型 API 服务，分别提供 OpenAI Responses/Chat Completions、Anthropic Messages 和 Gemini GenerateContent；支持受限 API Key、Agent/开发工具接入与逐请求用量/费用记录"
+  },
+  "PicEditor": {
+    "en_name": "PicEditor",
+    "en_description": "AI 图片编辑和生成工具，用自然语言换背景、移除物体、修改图片文字或生成新图，首次使用无需注册"
   }
 }
