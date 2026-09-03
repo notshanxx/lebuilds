@@ -1,18 +1,40 @@
 {
-  "generatedAt": "2026-09-03T10:33:04.278Z",
-  "totalProjects": 2933,
+  "generatedAt": "2026-09-03T15:38:18.129Z",
+  "totalProjects": 2934,
   "stats": {
-    "live": 2485,
+    "live": 2486,
     "dev": 34,
     "closed": 414
   },
   "boards": {
-    "main": 1986,
+    "main": 1987,
     "programmer": 327,
     "game": 122,
     "archive": 498
   },
   "projects": [
+    {
+      "name": "RGB TO CMYK",
+      "url": "https://rgbtocmyk.net/",
+      "description": "基于印刷行业专业色彩转换引擎设计的 RGB 转 CMYK 在线工具，支持内置及自定义 ICC 配置文件，实现无与伦比的色彩保真度",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "main",
+      "date": "2026-09-03",
+      "author": {
+        "name": "Seagnson",
+        "city": "",
+        "github": "https://github.com/seagnson",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "Productivity",
+        "Web",
+        "Design"
+      ]
+    },
     {
       "name": "Video Text Remover",
       "url": "https://videotextremover.org/",

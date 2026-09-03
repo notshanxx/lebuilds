@@ -11454,5 +11454,9 @@
   "PicEditor": {
     "en_name": "PicEditor",
     "en_description": "AI 图片编辑和生成工具，用自然语言换背景、移除物体、修改图片文字或生成新图，首次使用无需注册"
+  },
+  "RGB TO CMYK": {
+    "en_name": "RGB TO CMYK",
+    "en_description": "基于印刷行业专业色彩转换引擎设计的 RGB 转 CMYK 在线工具，支持内置及自定义 ICC 配置文件，实现无与伦比的色彩保真度"
   }
 }
