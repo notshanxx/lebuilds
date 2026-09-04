@@ -11458,5 +11458,9 @@
   "RGB TO CMYK": {
     "en_name": "RGB TO CMYK",
     "en_description": "基于印刷行业专业色彩转换引擎设计的 RGB 转 CMYK 在线工具，支持内置及自定义 ICC 配置文件，实现无与伦比的色彩保真度"
+  },
+  "HTMLShare": {
+    "en_name": "HTMLShare",
+    "en_description": "将静态 HTML 发布为可分享的预览链接，方便快速分享和评审原型页面，无需 Git、生产部署和注册账号"
   }
 }
