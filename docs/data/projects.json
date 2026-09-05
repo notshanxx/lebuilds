@@ -1,18 +1,38 @@
 {
-  "generatedAt": "2026-09-05T14:24:32.211Z",
-  "totalProjects": 2938,
+  "generatedAt": "2026-09-05T19:48:36.311Z",
+  "totalProjects": 2939,
   "stats": {
-    "live": 2490,
+    "live": 2491,
     "dev": 34,
     "closed": 414
   },
   "boards": {
-    "main": 1991,
+    "main": 1992,
     "programmer": 327,
     "game": 122,
     "archive": 498
   },
   "projects": [
+    {
+      "name": "SubnetDesk",
+      "url": "https://github.com/zibo-chen/SubnetDesk",
+      "description": "跨平台远程桌面应用，在局域网或 VPN 内通过 mDNS 自动发现设备并用 IP 或主机名直连，无需公网设备 ID、信令或中继；支持 Windows、macOS、Linux 和 Android，AGPL-3.0 开源",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "main",
+      "date": "2026-09-05",
+      "author": {
+        "name": "zibo-chen",
+        "city": "",
+        "github": "https://github.com/zibo-chen",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "Mobile"
+      ]
+    },
     {
       "name": "DTCwise",
       "url": "https://dtcwise.com/?utm_source=cnindie&utm_medium=github",
