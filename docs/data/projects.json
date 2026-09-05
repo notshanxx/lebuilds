@@ -1,18 +1,82 @@
 {
-  "generatedAt": "2026-09-05T02:31:16.925Z",
-  "totalProjects": 2935,
+  "generatedAt": "2026-09-05T09:50:14.943Z",
+  "totalProjects": 2938,
   "stats": {
-    "live": 2487,
+    "live": 2490,
     "dev": 34,
     "closed": 414
   },
   "boards": {
-    "main": 1988,
+    "main": 1991,
     "programmer": 327,
     "game": 122,
     "archive": 498
   },
   "projects": [
+    {
+      "name": "DTCwise",
+      "url": "https://dtcwise.com/?utm_source=cnindie&utm_medium=github",
+      "description": "DTC/跨境电商独立站卖家的运营工具目录与评测站，数据驱动收录 104 个工具（Sellvia、Mangools、Spocket 等），含对比评分与佣金返利链接，免费无需注册",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "main",
+      "date": "2026-09-05",
+      "author": {
+        "name": "863683348",
+        "city": "",
+        "github": "https://github.com/863683348",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "Productivity"
+      ]
+    },
+    {
+      "name": "CrossTool",
+      "url": "https://crosstool.online/?utm_source=cnindie&utm_medium=github",
+      "description": "跨境卖家本地隐私工具箱，52 个工具 100% 在浏览器内运行（视频压缩、图片转 PDF、成本计算等），零上传零服务器，面向 Amazon/TikTok Shop/Shopify 卖家，免费无需注册",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "main",
+      "date": "2026-09-05",
+      "author": {
+        "name": "863683348",
+        "city": "",
+        "github": "https://github.com/863683348",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "Productivity",
+        "Media",
+        "Web"
+      ]
+    },
+    {
+      "name": "Gemini Omni",
+      "url": "https://geminiomni.video/",
+      "description": "免费生成和编辑视频，保持角色一致性，音频同步",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "main",
+      "date": "2026-09-05",
+      "author": {
+        "name": "coderWenzi",
+        "city": "",
+        "github": "https://github.com/coderWenzi",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "AI/ML",
+        "Productivity",
+        "Media"
+      ]
+    },
     {
       "name": "HTMLShare",
       "url": "https://www.htmlshare.page/",

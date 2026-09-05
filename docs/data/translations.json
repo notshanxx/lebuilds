@@ -11462,5 +11462,13 @@
   "HTMLShare": {
     "en_name": "HTMLShare",
     "en_description": "将静态 HTML 发布为可分享的预览链接，方便快速分享和评审原型页面，无需 Git、生产部署和注册账号"
+  },
+  "DTCwise": {
+    "en_name": "DTCwise",
+    "en_description": "DTC/跨境电商独立站卖家的运营工具目录与评测站，数据驱动收录 104 个工具（Sellvia、Mangools、Spocket 等），含对比评分与佣金返利链接，免费无需注册"
+  },
+  "CrossTool": {
+    "en_name": "CrossTool",
+    "en_description": "跨境卖家本地隐私工具箱，52 个工具 100% 在浏览器内运行（视频压缩、图片转 PDF、成本计算等），零上传零服务器，面向 Amazon/TikTok Shop/Shopify 卖家，免费无需注册"
   }
 }
