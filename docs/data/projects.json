@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-06T02:28:01.987Z",
-  "totalProjects": 2940,
+  "generatedAt": "2026-09-06T10:06:36.271Z",
+  "totalProjects": 2945,
   "stats": {
-    "live": 2492,
+    "live": 2497,
     "dev": 34,
     "closed": 414
   },
   "boards": {
-    "main": 1993,
-    "programmer": 327,
+    "main": 1997,
+    "programmer": 328,
     "game": 122,
     "archive": 498
   },
@@ -32,6 +32,29 @@
       "tags": [
         "AI/ML",
         "Media"
+      ]
+    },
+    {
+      "name": "RunWhale",
+      "url": "https://github.com/zhiqingchen/RunWhale",
+      "description": "基于 DeepSeek Harness 的开源手机 AI 编程工具，描述需求后生成或修改 Web / Expo 项目，并在同一部手机上预览；支持导入 Git 仓库",
+      "status": "live",
+      "moreInfoUrl": "https://apps.apple.com/app/id6807644595",
+      "moreInfoLabel": "iOS 下载",
+      "board": "programmer",
+      "date": "2026-09-06",
+      "author": {
+        "name": "Tony Chen",
+        "city": "",
+        "github": "https://github.com/zhiqingchen",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "AI/ML",
+        "Developer",
+        "Productivity",
+        "Mobile"
       ]
     },
     {
@@ -1367,7 +1390,7 @@
     {
       "name": "Hermes Startup",
       "url": "https://hermesstartup.com",
-      "description": "用 Hermes Agent 赚取第一笔真实美元收入的免费实操路径——回答 10 个私人问题，免费获得 3 个与你匹配的商业想法（不承诺收入），可选一次性 US$10 由 Hermes Startup 帮你构建并运行；开源、无订阅、无需注册",
+      "description": "用 Hermes Agent 赚取第一笔真实美元收入的免费实操路径——回答 10 个私人问题，免费获得全部 10 个与你匹配的商业想法（不承诺收入），可选一次性 US$10 由 Hermes Startup 帮你构建并运行；开源、无订阅、无需注册",
       "status": "live",
       "moreInfoUrl": "",
       "moreInfoLabel": "",
@@ -16111,6 +16134,96 @@
       ]
     },
     {
+      "name": "Flow AI Video",
+      "url": "https://flowaivideo.org",
+      "description": "在线 AI 视频生成工具，支持文字、图片和参考图生成视频，可选择画面比例、分辨率与视频时长",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "main",
+      "date": "2026-04-11",
+      "author": {
+        "name": "lisa",
+        "city": "",
+        "github": "https://github.com/shisan12323",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "AI/ML",
+        "Productivity",
+        "Media",
+        "Web"
+      ]
+    },
+    {
+      "name": "Upscayl",
+      "url": "https://upscayl.app",
+      "description": "在线 AI 图片放大与增强工具，支持图片去模糊、老照片修复和背景移除，无需安装桌面软件",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "main",
+      "date": "2026-04-11",
+      "author": {
+        "name": "lisa",
+        "city": "",
+        "github": "https://github.com/shisan12323",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "AI/ML",
+        "Productivity",
+        "Media",
+        "Web"
+      ]
+    },
+    {
+      "name": "Video Watermark Remover",
+      "url": "https://videowatermarkremover.org/",
+      "description": "在线视频水印清理工具，支持上传 MP4、AVI、MOV 等格式，并提供视频文字、标识和物体移除工具",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "main",
+      "date": "2026-04-11",
+      "author": {
+        "name": "lisa",
+        "city": "",
+        "github": "https://github.com/shisan12323",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "Productivity",
+        "Media",
+        "Web"
+      ]
+    },
+    {
+      "name": "Seed Imagine",
+      "url": "https://seedimagine.com/",
+      "description": "AI 图片与视频创作工作台，支持文生图、图像编辑、文生视频和图生视频，可在同一网页选择模型和调整输出参数",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "main",
+      "date": "2026-04-11",
+      "author": {
+        "name": "lisa",
+        "city": "",
+        "github": "https://github.com/shisan12323",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "AI/ML",
+        "Media",
+        "Web"
+      ]
+    },
+    {
       "name": "哪吒",
       "url": "https://github.com/hanshuaikang/nezha",
       "description": "专为多项目并行 VibeCoding 打造的轻量级 AI 编程工具，集成了 Claude Code 和 Codex，整合了多项目管理、待办系统、会话管理、虚拟终端、代码编辑器和 Git",
@@ -26769,10 +26882,10 @@
     {
       "name": "SiteData",
       "url": "https://sitedata.dev",
-      "description": "网站流量与 AdSense 反查工具(免费)，无需登录即可使用",
+      "description": "网站流量查询与 SEO/Google Ads 情报工具，支持任意网站流量估算、Reverse AdSense 反查（发现同发布者的站点网络）、Google Ads 广告主与关键词分析、域名信息与 DR 查询，并提供 Chrome/Edge 浏览器插件",
       "status": "live",
       "moreInfoUrl": "https://chromewebstore.google.com/detail/emeakbgdecgmdjgegnejpppcnkcnoaen",
-      "moreInfoLabel": "Chrome 浏览器插件",
+      "moreInfoLabel": "浏览器插件",
       "board": "main",
       "date": "2025-09-12",
       "author": {

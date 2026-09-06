@@ -11478,5 +11478,25 @@
   "Seadanse": {
     "en_name": "Seadanse",
     "en_description": "多模型 AI 视频生成平台，支持通过 Composer 工作台生成带声多镜头视频，并提供一句话自动拆解广告分镜与故事板的 AI Video Agent 功能"
+  },
+  "RunWhale": {
+    "en_name": "RunWhale",
+    "en_description": "基于 DeepSeek Harness 的开源手机 AI 编程工具，描述需求后生成或修改 Web / Expo 项目，并在同一部手机上预览；支持导入 Git 仓库"
+  },
+  "Flow AI Video": {
+    "en_name": "Flow AI Video",
+    "en_description": "在线 AI 视频生成工具，支持文字、图片和参考图生成视频，可选择画面比例、分辨率与视频时长"
+  },
+  "Upscayl": {
+    "en_name": "Upscayl",
+    "en_description": "在线 AI 图片放大与增强工具，支持图片去模糊、老照片修复和背景移除，无需安装桌面软件"
+  },
+  "Video Watermark Remover": {
+    "en_name": "Video Watermark Remover",
+    "en_description": "在线视频水印清理工具，支持上传 MP4、AVI、MOV 等格式，并提供视频文字、标识和物体移除工具"
+  },
+  "Seed Imagine": {
+    "en_name": "Seed Imagine",
+    "en_description": "AI 图片与视频创作工作台，支持文生图、图像编辑、文生视频和图生视频，可在同一网页选择模型和调整输出参数"
   }
 }
