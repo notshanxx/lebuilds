@@ -1,18 +1,39 @@
 {
-  "generatedAt": "2026-09-05T19:48:36.311Z",
-  "totalProjects": 2939,
+  "generatedAt": "2026-09-06T02:28:01.987Z",
+  "totalProjects": 2940,
   "stats": {
-    "live": 2491,
+    "live": 2492,
     "dev": 34,
     "closed": 414
   },
   "boards": {
-    "main": 1992,
+    "main": 1993,
     "programmer": 327,
     "game": 122,
     "archive": 498
   },
   "projects": [
+    {
+      "name": "Seadanse",
+      "url": "https://seadanse.com",
+      "description": "多模型 AI 视频生成平台，支持通过 Composer 工作台生成带声多镜头视频，并提供一句话自动拆解广告分镜与故事板的 AI Video Agent 功能",
+      "status": "live",
+      "moreInfoUrl": "https://seadanse.com/ai-video-agent",
+      "moreInfoLabel": "更多介绍",
+      "board": "main",
+      "date": "2026-09-06",
+      "author": {
+        "name": "codeugar",
+        "city": "",
+        "github": "https://github.com/codeugar",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "AI/ML",
+        "Media"
+      ]
+    },
     {
       "name": "SubnetDesk",
       "url": "https://github.com/zibo-chen/SubnetDesk",

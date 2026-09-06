@@ -11474,5 +11474,9 @@
   "SubnetDesk": {
     "en_name": "SubnetDesk",
     "en_description": "跨平台远程桌面应用，在局域网或 VPN 内通过 mDNS 自动发现设备并用 IP 或主机名直连，无需公网设备 ID、信令或中继；支持 Windows、macOS、Linux 和 Android，AGPL-3.0 开源"
+  },
+  "Seadanse": {
+    "en_name": "Seadanse",
+    "en_description": "多模型 AI 视频生成平台，支持通过 Composer 工作台生成带声多镜头视频，并提供一句话自动拆解广告分镜与故事板的 AI Video Agent 功能"
   }
 }
