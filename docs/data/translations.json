@@ -11498,5 +11498,13 @@
   "Seed Imagine": {
     "en_name": "Seed Imagine",
     "en_description": "AI 图片与视频创作工作台，支持文生图、图像编辑、文生视频和图生视频，可在同一网页选择模型和调整输出参数"
+  },
+  "SiteHunter": {
+    "en_name": "SiteHunter",
+    "en_description": "为独立开发者、创业者打造的市场调研平台。找 saas 创业点子不再靠直觉，SiteHunter 监控了一批真实的流量增长数据，用数据看清哪个赛道正在增长，从一个被验证的市场开始"
+  },
+  "Mimic Party Online": {
+    "en_name": "Mimic Party Online",
+    "en_description": "听一段短声音，用自己的声音模仿它，再获得相似度评分；内置 10 个 Sound World，支持 Daily Challenge 和 Survival 等模式，录音和评分均在本地完成、声音不上传 — 浏览器即开即玩的免费声音模仿游戏"
   }
 }

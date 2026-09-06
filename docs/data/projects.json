@@ -1,18 +1,60 @@
 {
-  "generatedAt": "2026-09-06T14:46:45.262Z",
-  "totalProjects": 2945,
+  "generatedAt": "2026-09-06T19:52:40.356Z",
+  "totalProjects": 2947,
   "stats": {
-    "live": 2497,
+    "live": 2499,
     "dev": 34,
     "closed": 414
   },
   "boards": {
-    "main": 1997,
+    "main": 1998,
     "programmer": 328,
-    "game": 122,
+    "game": 123,
     "archive": 498
   },
   "projects": [
+    {
+      "name": "SiteHunter",
+      "url": "https://sitehunter.org",
+      "description": "为独立开发者、创业者打造的市场调研平台。找 saas 创业点子不再靠直觉，SiteHunter 监控了一批真实的流量增长数据，用数据看清哪个赛道正在增长，从一个被验证的市场开始",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "main",
+      "date": "2026-09-07",
+      "author": {
+        "name": "SiteHunter",
+        "city": "",
+        "github": "https://github.com/SiteHunter",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "Developer",
+        "Web"
+      ]
+    },
+    {
+      "name": "Mimic Party Online",
+      "url": "https://mimicparty.org",
+      "description": "听一段短声音，用自己的声音模仿它，再获得相似度评分；内置 10 个 Sound World，支持 Daily Challenge 和 Survival 等模式，录音和评分均在本地完成、声音不上传 — 浏览器即开即玩的免费声音模仿游戏",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "game",
+      "date": "2026-09-07",
+      "author": {
+        "name": "linrn5566",
+        "city": "",
+        "github": "https://github.com/linrn5566",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "Game",
+        "Web"
+      ]
+    },
     {
       "name": "Seadanse",
       "url": "https://seadanse.com",
