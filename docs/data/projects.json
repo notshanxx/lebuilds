@@ -1,18 +1,59 @@
 {
-  "generatedAt": "2026-09-07T11:21:07.643Z",
-  "totalProjects": 2950,
+  "generatedAt": "2026-09-07T17:04:06.240Z",
+  "totalProjects": 2953,
   "stats": {
-    "live": 2502,
+    "live": 2505,
     "dev": 34,
     "closed": 414
   },
   "boards": {
-    "main": 2000,
+    "main": 2002,
     "programmer": 328,
-    "game": 124,
+    "game": 125,
     "archive": 498
   },
   "projects": [
+    {
+      "name": "ScribeFlash",
+      "url": "https://scribeflash.com/?utm_source=github",
+      "description": "面向产品、市场与用户研究团队的 AI 研究工作台，帮助你把客户访谈快速转化为有证据支撑的洞察与专业研究报告。你可以上传访谈、查看和编辑转录内容、按研究问题整理答案、对比不同参与者、沉淀关键证据，并跨多场访谈发现主题、趋势和共识。每条 Finding 都可追溯到原始引用，让团队更快分析、更放心验证，也更容易输出可分享、可执行的研究结论",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "main",
+      "date": "2026-09-07",
+      "author": {
+        "name": "aiScribeFlash（北京）",
+        "city": "",
+        "github": "https://github.com/overseax",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "AI/ML"
+      ]
+    },
+    {
+      "name": "SeichiGo 圣地巡礼",
+      "url": "https://seichigo.com",
+      "description": "动漫圣地巡礼行程规划工具，选作品和天数，AI Agent 生成含交通衔接的逐日路线；全球巡礼地图 5 万+ 点位、1,500+ 作品，简中/繁中/日/英四语",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "main",
+      "date": "2026-09-07",
+      "author": {
+        "name": "emptylower",
+        "city": "",
+        "github": "https://github.com/emptylower",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "AI/ML",
+        "Productivity"
+      ]
+    },
     {
       "name": "CubistAI",
       "url": "https://cubistai.org/",
@@ -117,6 +158,27 @@
       "tags": [
         "Game",
         "Media",
+        "Web"
+      ]
+    },
+    {
+      "name": "Blood of Dawnwalker Tools",
+      "url": "https://bloodofdawnwalker.win",
+      "description": "The Blood of Dawnwalker 粉丝工具站，含 Vampire/Human 构建计算器、7 结局追踪器和 47 奖杯清单，浏览器直接使用，无需注册账号",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "game",
+      "date": "2026-09-07",
+      "author": {
+        "name": "hbwang76",
+        "city": "",
+        "github": "https://github.com/hbwang76",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "Productivity",
         "Web"
       ]
     },
@@ -293,7 +355,7 @@
     {
       "name": "Video Text Remover",
       "url": "https://videotextremover.org/",
-      "description": "AI-powered tool to erase text, captions, and subtitles from any video",
+      "description": "AI 视频文字擦除工具，去除视频中的文字、字幕和说明文字",
       "status": "live",
       "moreInfoUrl": "",
       "moreInfoLabel": "",

@@ -11518,5 +11518,21 @@
   "PixelArtGame": {
     "en_name": "PixelArtGame",
     "en_description": "一款结合了像素艺术与轻松玩法的网页游戏。无需下载安装，打开即可游玩。游戏以复古像素画风为核心，配合轻快的背景音乐，营造出沉浸式的游戏体验。无论是怀旧玩家还是休闲爱好者，都能快速找到属于自己的乐趣"
+  },
+  "ScribeFlash": {
+    "en_name": "ScribeFlash",
+    "en_description": "面向产品、市场与用户研究团队的 AI 研究工作台，帮助你把客户访谈快速转化为有证据支撑的洞察与专业研究报告。你可以上传访谈、查看和编辑转录内容、按研究问题整理答案、对比不同参与者、沉淀关键证据，并跨多场访谈发现主题、趋势和共识。每条 Finding 都可追溯到原始引用，让团队更快分析、更放心验证，也更容易输出可分享、可执行的研究结论"
+  },
+  "SeichiGo 圣地巡礼": {
+    "en_name": "SeichiGo 圣地巡礼",
+    "en_description": "动漫圣地巡礼行程规划工具，选作品和天数，AI Agent 生成含交通衔接的逐日路线；全球巡礼地图 5 万+ 点位、1,500+ 作品，简中/繁中/日/英四语"
+  },
+  "Blood of Dawnwalker Tools": {
+    "en_name": "Blood of Dawnwalker Tools",
+    "en_description": "The Blood of Dawnwalker 粉丝工具站，含 Vampire/Human 构建计算器、7 结局追踪器和 47 奖杯清单，浏览器直接使用，无需注册账号"
+  },
+  "Video Text Remover": {
+    "en_name": "Video Text Remover",
+    "en_description": "AI 视频文字擦除工具，去除视频中的文字、字幕和说明文字"
   }
 }
