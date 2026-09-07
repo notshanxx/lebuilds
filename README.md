@@ -5,6 +5,7 @@
 - [程序员版面](./pages/README-Programmer-Edition.md)：使用需要命令行或写代码
 - [游戏版面](./pages/README-Game.md)：都是游戏
 - [2018 ~ 2020 年项目列表](./pages/README-2018-2020.md)：因 GitHub 渲染限制单独存档
+- [导航站：AI 独立制造所](https://indiemaker.cn/)：本清单的可搜索、可筛选、每日自动同步的可视化版本
 
 备注：您当前查看的是主版面，收录的产品是打开即用，和子版面中的产品类型不同。
 
@@ -24,6 +25,13 @@
 
 ## 3. 项目列表
 ### 2026 年 9 月 7 号添加
+
+#### 小范(武汉) - [Github](https://github.com/schwenkmurmel17-dotcom)
+* :white_check_mark: [CubistAI](https://cubistai.org/)：AI 图片生成工具，输入文字秒出高清图，集成 Nano Banana 2、Seedream、FLUX.2 等模型，每天有免费额度，另附 AI 头像、卡通化、涂色页、抠图、水印去除等专项工具
+
+#### lttxzmj - [Github](https://github.com/lttxzmj)
+* :white_check_mark: [法脉 LawPulse](https://lttxzmj.github.io/lawpulse-site/)：给中国执业律师的本地离线法律研究工具（macOS）：412 部现行法律逐条检索，笔记直接挂在法条下自动成链，AI 合同审查用自己的模型密钥且引用逐条回本地法库核实；数据全在本机不上云。公测期免费。配套开源了 [chinese-law-corpus](https://github.com/lttxzmj/chinese-law-corpus)（412 部法律逐条 JSON + 723 件案例，CC0）
+
 
 #### SiteHunter - [Github](https://github.com/SiteHunter)
 * :white_check_mark: [SiteHunter](https://sitehunter.org)：为独立开发者、创业者打造的市场调研平台。找 saas 创业点子不再靠直觉，SiteHunter 监控了一批真实的流量增长数据，用数据看清哪个赛道正在增长，从一个被验证的市场开始
