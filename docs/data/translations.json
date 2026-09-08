@@ -11566,5 +11566,9 @@
   "Metrune": {
     "en_name": "Metrune",
     "en_description": "原生 macOS 专注与开发活动工具，把任务计时、Codex 状态、GitHub 活动和周报收进 Mac 顶部界面，核心记录保存在本地"
+  },
+  "ReadGZH": {
+    "en_name": "ReadGZH",
+    "en_description": "微信公众号文章 AI 阅读工具，粘贴链接生成便于 AI 读取的页面，另提供 API 与 MCP 接入"
   }
 }

@@ -1,18 +1,40 @@
 {
-  "generatedAt": "2026-09-08T15:50:35.424Z",
-  "totalProjects": 2962,
+  "generatedAt": "2026-09-08T20:35:14.578Z",
+  "totalProjects": 2963,
   "stats": {
-    "live": 2514,
+    "live": 2515,
     "dev": 34,
     "closed": 414
   },
   "boards": {
-    "main": 2009,
+    "main": 2010,
     "programmer": 329,
     "game": 126,
     "archive": 498
   },
   "projects": [
+    {
+      "name": "ReadGZH",
+      "url": "https://readgzh.site/",
+      "description": "微信公众号文章 AI 阅读工具，粘贴链接生成便于 AI 读取的页面，另提供 API 与 MCP 接入",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "main",
+      "date": "2026-09-09",
+      "author": {
+        "name": "sweesama",
+        "city": "",
+        "github": "https://github.com/sweesama",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "AI/ML",
+        "Developer",
+        "Productivity"
+      ]
+    },
     {
       "name": "热摸爽",
       "url": "https://remoshuang.com/",
