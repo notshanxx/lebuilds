@@ -11550,5 +11550,21 @@
   "BTD6 Paragon Calculator": {
     "en_name": "BTD6 Paragon Calculator",
     "en_description": "面向《Bloons TD 6》玩家的非官方 Paragon 计算工具，可计算 Paragon Degree、Power、Cash Slider、Sacrifices 和 Paragon Power Totems，并提供 Degree 表格及相关计算说明"
+  },
+  "热摸爽": {
+    "en_name": "热摸爽",
+    "en_description": "面向普通用户的全网热搜热榜聚合网站，一站查看微博、知乎、抖音、GitHub Trending 等 200+ 公开来源，支持科技、AI、财经等分类、跨平台事件合并和按日期回看历史热点 — 无需注册，打开即用"
+  },
+  "Erase Background Pro": {
+    "en_name": "Erase Background Pro",
+    "en_description": "无需注册、免费即用的 AI 一键抠图工具，秒级输出边缘干净的透明 PNG，支持电商人像/发丝细节与 4K 高清，提供批量处理、免费试用与开发者 API"
+  },
+  "薯小二": {
+    "en_name": "薯小二",
+    "en_description": "小红书合规运营工具箱，违禁词一键检测+替换建议、AI 爆款标题生成、笔记收录限流自查，纯网页端免安装，新人每天免费发车"
+  },
+  "Metrune": {
+    "en_name": "Metrune",
+    "en_description": "原生 macOS 专注与开发活动工具，把任务计时、Codex 状态、GitHub 活动和周报收进 Mac 顶部界面，核心记录保存在本地"
   }
 }

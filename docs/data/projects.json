@@ -1,18 +1,83 @@
 {
-  "generatedAt": "2026-09-08T10:26:33.041Z",
-  "totalProjects": 2958,
+  "generatedAt": "2026-09-08T15:50:35.424Z",
+  "totalProjects": 2962,
   "stats": {
-    "live": 2510,
+    "live": 2514,
     "dev": 34,
     "closed": 414
   },
   "boards": {
-    "main": 2005,
+    "main": 2009,
     "programmer": 329,
     "game": 126,
     "archive": 498
   },
   "projects": [
+    {
+      "name": "热摸爽",
+      "url": "https://remoshuang.com/",
+      "description": "面向普通用户的全网热搜热榜聚合网站，一站查看微博、知乎、抖音、GitHub Trending 等 200+ 公开来源，支持科技、AI、财经等分类、跨平台事件合并和按日期回看历史热点 — 无需注册，打开即用",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "main",
+      "date": "2026-09-08",
+      "author": {
+        "name": "zjzno1",
+        "city": "",
+        "github": "https://github.com/zjzno1",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "AI/ML",
+        "Web"
+      ]
+    },
+    {
+      "name": "Erase Background Pro",
+      "url": "https://erasebgpro.com",
+      "description": "无需注册、免费即用的 AI 一键抠图工具，秒级输出边缘干净的透明 PNG，支持电商人像/发丝细节与 4K 高清，提供批量处理、免费试用与开发者 API",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "main",
+      "date": "2026-09-08",
+      "author": {
+        "name": "肖戈",
+        "city": "深圳",
+        "github": "https://github.com/jvxiao",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "AI/ML",
+        "Developer",
+        "Productivity"
+      ]
+    },
+    {
+      "name": "薯小二",
+      "url": "https://xhs.jvxiao.cn/",
+      "description": "小红书合规运营工具箱，违禁词一键检测+替换建议、AI 爆款标题生成、笔记收录限流自查，纯网页端免安装，新人每天免费发车",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "main",
+      "date": "2026-09-08",
+      "author": {
+        "name": "肖戈",
+        "city": "深圳",
+        "github": "https://github.com/jvxiao",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "AI/ML",
+        "Productivity",
+        "Web"
+      ]
+    },
     {
       "name": "LoveComic",
       "url": "https://lovecomic.app/",
@@ -2620,6 +2685,27 @@
       },
       "tags": [
         "AI/ML"
+      ]
+    },
+    {
+      "name": "Metrune",
+      "url": "https://treafree.github.io/Metrune/",
+      "description": "原生 macOS 专注与开发活动工具，把任务计时、Codex 状态、GitHub 活动和周报收进 Mac 顶部界面，核心记录保存在本地",
+      "status": "live",
+      "moreInfoUrl": "https://github.com/TREAFREE/Metrune",
+      "moreInfoLabel": "项目与下载",
+      "board": "main",
+      "date": "2026-08-13",
+      "author": {
+        "name": "TREAFREE",
+        "city": "",
+        "github": "https://github.com/TREAFREE",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "Developer",
+        "Productivity"
       ]
     },
     {
