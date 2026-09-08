@@ -1,18 +1,122 @@
 {
-  "generatedAt": "2026-09-08T02:38:01.457Z",
-  "totalProjects": 2953,
+  "generatedAt": "2026-09-08T10:26:33.041Z",
+  "totalProjects": 2958,
   "stats": {
-    "live": 2505,
+    "live": 2510,
     "dev": 34,
     "closed": 414
   },
   "boards": {
-    "main": 2002,
-    "programmer": 328,
-    "game": 125,
+    "main": 2005,
+    "programmer": 329,
+    "game": 126,
     "archive": 498
   },
   "projects": [
+    {
+      "name": "LoveComic",
+      "url": "https://lovecomic.app/",
+      "description": "AI 漫画生成网站，支持自动与人工控制双重模式，自定义对话气泡、字体等；还有 flow 画布模式，可自由编排节点生成漫画",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "main",
+      "date": "2026-09-08",
+      "author": {
+        "name": "rain",
+        "city": "深圳",
+        "github": "https://github.com/wang1309",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "AI/ML",
+        "Web",
+        "Design"
+      ]
+    },
+    {
+      "name": "NotePP",
+      "url": "https://luminousstars.org/",
+      "description": "macOS 平台的 Notepad++ 替代方案，在 Mac 上也能流畅使用 Notepad++ 的编辑体验",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "main",
+      "date": "2026-09-08",
+      "author": {
+        "name": "南宫文凯",
+        "city": "",
+        "github": "",
+        "blog": "https://blog.csdn.net/qq_34730277",
+        "extra": ""
+      },
+      "tags": [
+        "Other"
+      ]
+    },
+    {
+      "name": "Real Job Work From Home",
+      "url": "https://realjobworkfromhome.com/",
+      "description": "远程岗位检索网站，无需注册即可免费浏览，支持关键词、岗位类别、雇佣类型及已披露薪资筛选，并提供雇主申请入口",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "main",
+      "date": "2026-09-08",
+      "author": {
+        "name": "fengmao",
+        "city": "",
+        "github": "https://github.com/fengmao",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "Web"
+      ]
+    },
+    {
+      "name": "TeamoRouter",
+      "url": "https://teamorouter.cn",
+      "description": "多模型 AI API 中转网关，GPT-6 Astra / Claude / Gemini 用一个 Key 调用，Codex 和 Claude Code 改 base_url 即用，支持支付宝/微信充值、按量计费",
+      "status": "live",
+      "moreInfoUrl": "https://teamorouter.cn/blogs/gpt-6-astra-codex-cursor-setup",
+      "moreInfoLabel": "Astra + Codex 配置教程",
+      "board": "programmer",
+      "date": "2026-09-08",
+      "author": {
+        "name": "yangzhou-chaofan",
+        "city": "",
+        "github": "https://github.com/yangzhou-chaofan",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "AI/ML",
+        "Developer",
+        "Finance"
+      ]
+    },
+    {
+      "name": "BTD6 Paragon Calculator",
+      "url": "https://btd6paragoncalculator.org/",
+      "description": "面向《Bloons TD 6》玩家的非官方 Paragon 计算工具，可计算 Paragon Degree、Power、Cash Slider、Sacrifices 和 Paragon Power Totems，并提供 Degree 表格及相关计算说明",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "game",
+      "date": "2026-09-08",
+      "author": {
+        "name": "pandaupup",
+        "city": "广州",
+        "github": "https://github.com/pandaupup",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "Productivity"
+      ]
+    },
     {
       "name": "ScribeFlash",
       "url": "https://scribeflash.com/?utm_source=github",

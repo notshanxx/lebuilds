@@ -11534,5 +11534,21 @@
   "Video Text Remover": {
     "en_name": "Video Text Remover",
     "en_description": "AI 视频文字擦除工具，去除视频中的文字、字幕和说明文字"
+  },
+  "LoveComic": {
+    "en_name": "LoveComic",
+    "en_description": "AI 漫画生成网站，支持自动与人工控制双重模式，自定义对话气泡、字体等；还有 flow 画布模式，可自由编排节点生成漫画"
+  },
+  "NotePP": {
+    "en_name": "NotePP",
+    "en_description": "macOS 平台的 Notepad++ 替代方案，在 Mac 上也能流畅使用 Notepad++ 的编辑体验"
+  },
+  "Real Job Work From Home": {
+    "en_name": "Real Job Work From Home",
+    "en_description": "远程岗位检索网站，无需注册即可免费浏览，支持关键词、岗位类别、雇佣类型及已披露薪资筛选，并提供雇主申请入口"
+  },
+  "BTD6 Paragon Calculator": {
+    "en_name": "BTD6 Paragon Calculator",
+    "en_description": "面向《Bloons TD 6》玩家的非官方 Paragon 计算工具，可计算 Paragon Degree、Power、Cash Slider、Sacrifices 和 Paragon Power Totems，并提供 Degree 表格及相关计算说明"
   }
 }
