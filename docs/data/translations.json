@@ -11574,5 +11574,49 @@
   "海克斯小秘书": {
     "en_name": "海克斯小秘书",
     "en_description": "《英雄联盟》海克斯大乱斗（ARAM Mayhem）攻略站，选人前查 173 位英雄的实时胜率排行、六神装、技能加点和银/金/棱彩强化符文推荐，三源数据每晚自动聚合，中英日韩等 12 种语言，打开即用无需注册"
+  },
+  "Interval Timers": {
+    "en_name": "Interval Timers",
+    "en_description": "间歇计时器（免费），可设置工作时间、休息时间、准备倒计时和循环轮数，并提供声音提示，适合 HIIT、Tabata、健身训练以及其他需要工作/休息循环计时的场景"
+  },
+  "Dead Pixel Test": {
+    "en_name": "Dead Pixel Test",
+    "en_description": "屏幕坏点测试工具（免费），通过全屏纯色测试帮助检查显示器、笔记本电脑和其他屏幕的坏点、亮点、暗点及显示异常"
+  },
+  "Ropond Proxy Cloud": {
+    "en_name": "Ropond Proxy Cloud",
+    "en_description": "全球高纯净动态住宅代理网络，专为出海企业、跨境电商独立站与 AI 深度搜索提供防封穿透基础设施，提供 1GB 免费开发者测试配额"
+  },
+  "Hevzo": {
+    "en_name": "Hevzo",
+    "en_description": "一站式的 AI 视频和图片生成平台，集中了主流的视频和图片模型"
+  },
+  "Pixel Art Base": {
+    "en_name": "Pixel Art Base",
+    "en_description": "图片转像素画工具，支持裁剪与尺寸调整、调色板和抖动设置、颜色查看及清晰 PNG 导出；图片在浏览器本地处理，并提供 Minecraft 像素画生成器，可生成方块网格、精确材料清单、编号建造指南和 Java 蓝图"
+  },
+  "Gamepad Tester": {
+    "en_name": "Gamepad Tester",
+    "en_description": "游戏手柄测试与诊断工具（免费），可实时检测手柄按键、摇杆、扳机键和震动，并提供摇杆漂移、Circularity、Polling Rate、Latency、Button Mapping，以及 Xbox、PS5、Joy-Con、Switch Pro 等专项测试"
+  },
+  "Block Skin Lab": {
+    "en_name": "Block Skin Lab",
+    "en_description": "在线图片转 Minecraft 皮肤工具（免费），可将照片或作品转换为 64×64/128×128 皮肤，支持 Classic/Slim 手臂、2D/3D 预览、脸部预设和 8×8 像素编辑；图片全程在浏览器本地处理，无需注册"
+  },
+  "AI 独立制造所": {
+    "en_name": "AI 独立制造所",
+    "en_description": "本列表的可搜索、可筛选、每日自动同步的可视化版本"
+  },
+  "中国独立开发者项目列表（网页版）": {
+    "en_name": "中国独立开发者项目列表（网页版）",
+    "en_description": "基于本列表数据制作的网页版，开源"
+  },
+  "独立星球": {
+    "en_name": "独立星球",
+    "en_description": "中国独立开发者作品集，按项目浏览与发现"
+  },
+  "独立观察": {
+    "en_name": "独立观察",
+    "en_description": "把本列表整理成可搜索、可追踪更新的浏览器看板"
   }
 }
