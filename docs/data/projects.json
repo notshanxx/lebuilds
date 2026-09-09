@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-08T20:35:14.578Z",
-  "totalProjects": 2963,
+  "generatedAt": "2026-09-09T02:38:18.425Z",
+  "totalProjects": 2964,
   "stats": {
-    "live": 2515,
+    "live": 2516,
     "dev": 34,
     "closed": 414
   },
   "boards": {
     "main": 2010,
     "programmer": 329,
-    "game": 126,
+    "game": 127,
     "archive": 498
   },
   "projects": [
@@ -33,6 +33,26 @@
         "AI/ML",
         "Developer",
         "Productivity"
+      ]
+    },
+    {
+      "name": "海克斯小秘书",
+      "url": "https://aramkit.cdqyfdbymn.me/",
+      "description": "《英雄联盟》海克斯大乱斗（ARAM Mayhem）攻略站，选人前查 173 位英雄的实时胜率排行、六神装、技能加点和银/金/棱彩强化符文推荐，三源数据每晚自动聚合，中英日韩等 12 种语言，打开即用无需注册",
+      "status": "live",
+      "moreInfoUrl": "",
+      "moreInfoLabel": "",
+      "board": "game",
+      "date": "2026-09-09",
+      "author": {
+        "name": "the-beating-light-of-the-nail",
+        "city": "",
+        "github": "https://github.com/the-beating-light-of-the-nail",
+        "blog": "",
+        "extra": ""
+      },
+      "tags": [
+        "Other"
       ]
     },
     {
@@ -779,7 +799,7 @@
     },
     {
       "name": "XiuStore",
-      "url": "https://store.xiu.ai/en/",
+      "url": "https://store.xiu.ai/zh/",
       "description": "AI 订阅和数字服务商城，商品页公开价格、交付方式、有效期、质保和售后，付款后可在订单中找到对应交付入口",
       "status": "live",
       "moreInfoUrl": "",
