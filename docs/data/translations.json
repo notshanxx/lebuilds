@@ -11618,5 +11618,17 @@
   "独立观察": {
     "en_name": "独立观察",
     "en_description": "把本列表整理成可搜索、可追踪更新的浏览器看板"
+  },
+  "Gpt Image 2.5 图片生成器": {
+    "en_name": "Gpt Image 2.5 图片生成器",
+    "en_description": "基于 Gpt Image 2.5 模型的图片工作台，生成与编辑同界面操作，支持一次生成多张图片快速比对挑选 — 免费试用"
+  },
+  "PicPermit": {
+    "en_name": "PicPermit",
+    "en_description": "证件照与护照/签证制作工具（免费），支持全球 500+ 官方规格、ICAO 生物线辅助与人脸对齐，抠图，换背景，照片完全本地处理，可导出 300 DPI 电子照与 4×6 寸排版冲印版"
+  },
+  "Thumbrix": {
+    "en_name": "Thumbrix",
+    "en_description": "面向 YouTube 创作者的 AI 缩略图生成工具，输入文字或上传照片即可生成封面，方便尝试不同设计、优化封面点击率，支持免费试用"
   }
 }
