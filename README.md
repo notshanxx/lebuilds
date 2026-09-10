@@ -23,6 +23,36 @@
 | :clock8: | :white_check_mark: | :x: |
 
 ## 3. 项目列表
+### 2026 年 9 月 10 号添加
+
+#### ShawnHacks(北京) - [Github](https://github.com/ShawnHacks)
+* :white_check_mark: [Art Grid Maker](https://artgridmaker.com/)：面向绘画爱好者和艺术创作者的工具箱，提供网格绘画、透视辅助、参考图处理等实用工具 - [更多介绍](https://artgridmaker.com/tools)
+* :white_check_mark: [TwiFlux](https://twiflux.com/)：Twitter 工具站（免费），下载视频，下载图片，下载推文和线程等等超过 40 个小工具 - [更多介绍](https://twiflux.com/all-tools)
+
+#### RickyLee(深圳) - [Github](https://github.com/LeedwA)
+* :white_check_mark: [PicLocation](https://piclocation.com/?utm_source=zh_github)：AI 照片地理定位工具（免费），上传照片即返回 GPS 坐标、城市和国家，不依赖 EXIF 纯视觉识别，截图和被抹掉元数据的照片也能定位，无需注册
+
+#### Muke - [Github](https://github.com/muke1838-cloud)
+* :white_check_mark: [Find Key & BPM](https://findkeybpm.com/)：浏览器本地估算 MP3/WAV 的调性、Camelot 和 BPM，音频不上传、无需注册
+
+#### superwang - [Github](https://github.com/lincwang123-bot)
+* :white_check_mark: [AIradar · AI 订阅价格雷达](https://airadar.vip/)：AI 订阅比价工具，按产品、交付方式、期限和币种筛选公开报价，支持地区价格参考、目标价与到期提醒 - [使用说明](https://airadar.vip/help/compare-prices)
+
+#### 浅浅海鸥 - [Github](https://github.com/qianqianhaiou)
+* :white_check_mark: [素刀](https://clipknife.cn/)：创作者的生产力工具，素材界的瑞士军刀；用一句话，找回你散落在硬盘里的每一帧灵感
+
+#### 张赛东 - [Github](https://github.com/adong666666)
+* :white_check_mark: [AI 智能快照](https://apps.apple.com/cn/app/ai-smart-snapshot/id6796251282?mt=12)：AI 智能快照：截屏、录屏、录音、OCR 识字和标注，一个 App 完成
+
+#### WXzhongwang - [Github](https://github.com/WXzhongwang)
+* :white_check_mark: [OPC 情报站](https://wxzhongwang.github.io/opc-radar/)：一人公司（OPC）资讯聚合站，收录 80 条政策动向、创业案例与生态工具情报，支持 9 大分类筛选、全文搜索与热度排行，纯静态打开即用，无需注册 - [GitHub 仓库](https://github.com/WXzhongwang/opc-radar)
+
+#### 宋永昌(上海) - [Github](https://github.com/yajufurniture-debug)
+* :white_check_mark: [慧报价](https://www.swqifu.com/)：AI 外贸报价工具，产品库一次建好，选品自动按 EXW/FOB/CFR/CIF/DDP 计价（利润率按售价、保险 110% 加成的实务口径），30 秒生成中英双语报价单 PDF，附免费无需注册的报价计算器
+
+#### hypercube67 - [Github](https://github.com/hypercube67-formal)
+* :white_check_mark: [ScribeToAny](https://scribetoany.com)：AI 音视频转录与字幕生成工具，支持说话人识别（区分发言人）、多语言翻译与字级高精度时间戳，长音频高速转文字，一键导出 SRT/VTT/TXT 格式 — 免费试用
+
 ### 2026 年 9 月 9 号添加
 
 #### MuYiBo - [Github](https://github.com/MuYiBo)
